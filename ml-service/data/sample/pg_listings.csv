@@ -1,0 +1,1001 @@
+pg_id,pg_name,state,city,area,address,latitude,longitude,rent_monthly,deposit,room_type,sharing_type,gender_preference,ac_available,food_available,wifi_available,bike_parking,car_parking,laundry_available,power_backup,geyser_available,furnished_type,rating,rating_count,availability,owner_id
+PG00001,Happy Home,Maharashtra,Pune,Kothrud,"347, Complex, Kothrud, Pune",18.5639,73.8108,17500,52500,Private,Single,Boys,1,1,1,1,1,1,0,1,Semi Furnished,4.3,177,Available,OWN0056
+PG00002,City Girls Hostel,Maharashtra,Navi Mumbai,Kharghar,"310, Nagar, Kharghar, Navi Mumbai",18.9614,73.0081,8500,17000,Shared,Triple,Girls,0,1,0,1,0,1,1,1,Fully Furnished,3.3,54,Available,OWN0117
+PG00003,Radha Residency,Maharashtra,Pune,Magarpatta,"312, Colony, Magarpatta, Pune",18.4597,73.8306,14700,44000,Shared,Double,Girls,1,1,1,1,0,0,1,1,Unfurnished,4.0,370,Available,OWN0128
+PG00004,Nest Living,Gujarat,Jamnagar,Pandit Nehru Marg,"383, Chowk, Pandit Nehru Marg, Jamnagar",22.4064,69.9928,5600,5500,Shared,Double,Boys,0,0,1,1,0,1,1,1,Fully Furnished,3.4,286,Full,OWN0003
+PG00005,Radha Boys Hostel,Maharashtra,Pune,Viman Nagar,"58, Nagar, Viman Nagar, Pune",18.5531,73.8634,29200,87500,Private,Single,Coed,0,1,1,1,0,1,1,1,Fully Furnished,4.9,274,Full,OWN0154
+PG00006,Modern Comforts,Gujarat,Gandhinagar,Sector 21,"30, Lane, Sector 21, Gandhinagar",23.1457,72.6122,6900,20500,Shared,Triple,Boys,0,1,1,1,1,0,1,1,Fully Furnished,4.4,105,Limited,OWN0103
+PG00007,Divine Home,Maharashtra,Amravati,Gadge Nagar,"127, Lane, Gadge Nagar, Amravati",20.9146,77.8515,12900,13000,Private,Single,Girls,0,1,1,1,0,1,1,1,Fully Furnished,4.4,295,Available,OWN0063
+PG00008,Vraj Girls Hostel,Maharashtra,Nashik,Indira Nagar,"217, Chowk, Indira Nagar, Nashik",19.9418,73.7172,5400,11000,Shared,Triple,Girls,0,1,1,1,1,1,1,0,Fully Furnished,4.6,284,Available,OWN0139
+PG00009,Blue Retreat,Maharashtra,Thane,Ghodbunder Road,"249, Marg, Ghodbunder Road, Thane",19.295,73.0409,16500,33000,Private,Single,Boys,1,0,1,1,0,0,1,1,Fully Furnished,3.5,32,Available,OWN0139
+PG00010,Sunshine Nivas,Gujarat,Ahmedabad,Prahlad Nagar,"30, Complex, Prahlad Nagar, Ahmedabad",22.9428,72.5866,15100,45500,Private,Single,Girls,1,1,1,1,0,1,0,1,Semi Furnished,3.3,205,Available,OWN0077
+PG00011,Nirvana Home,Maharashtra,Mumbai,Borivali,"38, Complex, Borivali, Mumbai",18.9877,72.8995,16700,33500,Private,Single,Coed,1,1,1,1,0,0,1,1,Semi Furnished,4.8,56,Full,OWN0035
+PG00012,New Palace,Gujarat,Vadodara,Gotri,"368, Park, Gotri, Vadodara",22.3508,73.1192,13800,14000,Private,Double,Boys,1,1,1,1,0,1,1,1,Semi Furnished,3.7,7,Available,OWN0039
+PG00013,Happy PG,Maharashtra,Mumbai,Mulund,"158, Park, Mulund, Mumbai",19.0909,72.8144,10300,10500,Shared,Triple,Coed,0,1,1,0,0,0,0,1,Fully Furnished,4.6,93,Full,OWN0007
+PG00014,Shree Living,Gujarat,Surat,Katargam,"82, Society, Katargam, Surat",21.221,72.8152,15900,32000,Private,Single,Girls,1,0,0,1,0,1,1,1,Semi Furnished,3.6,263,Available,OWN0138
+PG00015,Sky Living,Gujarat,Gandhinagar,Sector 21,"20, Society, Sector 21, Gandhinagar",23.1464,72.7216,8200,24500,Shared,Double,Girls,1,0,1,1,0,1,0,1,Unfurnished,4.4,103,Available,OWN0018
+PG00016,Cozy Rooms,Maharashtra,Navi Mumbai,Kharghar,"260, Nagar, Kharghar, Navi Mumbai",19.0552,73.0591,8100,16000,Shared,Double,Girls,0,0,1,1,0,1,1,1,Semi Furnished,4.2,241,Available,OWN0055
+PG00017,Metro Residency,Maharashtra,Mumbai,Powai,"385, Lane, Powai, Mumbai",19.1046,72.8388,8500,17000,Shared,Double,Boys,0,0,1,0,0,0,1,1,Fully Furnished,4.3,387,Full,OWN0028
+PG00018,Harmony Villa,Maharashtra,Nashik,Gangapur Road,"26, Complex, Gangapur Road, Nashik",19.9392,73.8722,14600,44000,Private,Double,Girls,0,0,0,1,0,1,0,1,Semi Furnished,4.4,246,Available,OWN0064
+PG00019,Shree Living,Maharashtra,Thane,Vartak Nagar,"226, Society, Vartak Nagar, Thane",19.2661,72.9819,7300,7500,Shared,Double,Boys,1,1,1,1,0,1,1,1,Fully Furnished,4.5,359,Available,OWN0148
+PG00020,Ganesh Retreat,Gujarat,Jamnagar,Patel Colony,"276, Complex, Patel Colony, Jamnagar",22.5504,70.0215,5000,5000,Shared,Triple,Girls,1,1,1,0,0,0,0,1,Unfurnished,4.1,342,Available,OWN0165
+PG00021,Urban Palace,Gujarat,Nadiad,Station Road,"233, Park, Station Road, Nadiad",22.6366,72.8186,7600,7500,Private,Double,Boys,1,1,1,0,1,1,0,1,Fully Furnished,3.3,13,Limited,OWN0062
+PG00022,Zenith Living,Gujarat,Surat,Rander,"393, Park, Rander, Surat",21.1008,72.9117,8800,9000,Private,Double,Girls,0,1,1,1,0,0,1,1,Fully Furnished,4.3,324,Available,OWN0078
+PG00023,Nirvana PG,Maharashtra,Thane,Manpada,"178, Complex, Manpada, Thane",19.2733,73.0314,15800,31500,Private,Single,Girls,0,1,0,1,0,0,1,1,Unfurnished,3.4,416,Full,OWN0124
+PG00024,Golden Living,Maharashtra,Mumbai,Bandra,"231, Lane, Bandra, Mumbai",19.044,72.8319,9500,19000,Shared,Triple,Girls,1,1,1,1,0,0,1,1,Unfurnished,3.0,371,Available,OWN0143
+PG00025,Sunrise Residency,Maharashtra,Nagpur,Trimurti Nagar,"151, Lane, Trimurti Nagar, Nagpur",21.1721,79.0865,18700,56000,Private,Single,Girls,1,0,1,1,0,1,1,1,Fully Furnished,4.4,393,Limited,OWN0050
+PG00026,Harmony Rooms,Gujarat,Vadodara,Akota,"52, Lane, Akota, Vadodara",22.267,73.1973,12100,12000,Private,Single,Boys,0,1,1,0,0,0,1,1,Fully Furnished,3.2,29,Available,OWN0123
+PG00027,Elite House,Gujarat,Ahmedabad,Bodakdev,"77, Nagar, Bodakdev, Ahmedabad",23.0046,72.4947,20500,61500,Private,Single,Girls,1,1,1,1,0,0,1,1,Semi Furnished,4.4,393,Available,OWN0055
+PG00028,Green Nivas,Gujarat,Vadodara,Gotri,"2, Chowk, Gotri, Vadodara",22.2455,73.1225,7300,14500,Shared,Triple,Boys,0,1,1,0,0,1,1,0,Fully Furnished,4.0,334,Available,OWN0069
+PG00029,Nirvana Rooms,Maharashtra,Thane,Ghodbunder Road,"225, Society, Ghodbunder Road, Thane",19.139,73.0308,11000,22000,Shared,Double,Boys,1,1,0,0,0,1,1,1,Semi Furnished,4.1,13,Full,OWN0069
+PG00030,Radha Nivas,Maharashtra,Mumbai,Powai,"300, Chowk, Powai, Mumbai",19.0707,72.905,14400,29000,Shared,Double,Boys,0,0,1,1,1,0,0,1,Fully Furnished,3.5,168,Available,OWN0104
+PG00031,Maruti PG,Maharashtra,Chhatrapati Sambhajinagar,CIDCO,"97, Complex, CIDCO, Chhatrapati Sambhajinagar",19.9046,75.351,4600,14000,Private,Double,Girls,1,1,0,1,1,1,0,1,Fully Furnished,2.8,211,Available,OWN0030
+PG00032,New Living,Maharashtra,Mumbai,Malad,"213, Marg, Malad, Mumbai",19.1026,72.8154,8600,8500,Dormitory,Dormitory,Boys,0,1,0,0,1,0,1,0,Fully Furnished,4.6,147,Limited,OWN0151
+PG00033,Nova Girls Hostel,Maharashtra,Mumbai,Santacruz,"171, Complex, Santacruz, Mumbai",19.1417,72.8681,13300,13500,Shared,Double,Coed,0,1,1,1,0,0,0,1,Semi Furnished,4.6,80,Available,OWN0010
+PG00034,Divine Home,Gujarat,Surat,Nana Varachha,"270, Marg, Nana Varachha, Surat",21.14,72.7592,12000,24000,Private,Single,Coed,1,1,1,0,0,0,1,1,Semi Furnished,4.5,280,Available,OWN0018
+PG00035,Vraj Home,Gujarat,Vadodara,Fatehgunj,"390, Society, Fatehgunj, Vadodara",22.3967,73.2256,7000,7000,Private,Double,Coed,1,1,1,1,0,0,1,1,Semi Furnished,4.2,126,Available,OWN0150
+PG00036,Royal Villa,Gujarat,Surat,Ghod Dod Road,"148, Complex, Ghod Dod Road, Surat",21.195,72.8238,17700,35500,Private,Single,Boys,0,1,1,0,0,1,1,1,Fully Furnished,4.3,14,Full,OWN0102
+PG00037,Elite Heights,Gujarat,Rajkot,Race Course,"147, Lane, Race Course, Rajkot",22.3696,70.8523,9100,9000,Shared,Double,Girls,0,0,1,1,0,1,0,1,Fully Furnished,4.4,92,Available,OWN0139
+PG00038,Blue Living,Maharashtra,Chhatrapati Sambhajinagar,Jalna Road,"247, Nagar, Jalna Road, Chhatrapati Sambhajinagar",19.8818,75.4177,4700,4500,Shared,Double,Boys,0,1,0,0,0,1,0,1,Fully Furnished,3.8,347,Limited,OWN0068
+PG00039,Sunrise Boys Hostel,Maharashtra,Mumbai,Mulund,"313, Lane, Mulund, Mumbai",19.0055,72.8298,14600,29000,Shared,Triple,Girls,1,1,1,0,1,1,1,1,Fully Furnished,4.9,359,Full,OWN0108
+PG00040,Serene Retreat,Maharashtra,Mumbai,Kandivali,"144, Road, Kandivali, Mumbai",19.1454,72.9056,13800,14000,Shared,Double,Girls,0,1,0,1,1,1,0,0,Semi Furnished,3.0,111,Limited,OWN0153
+PG00041,Happy Palace,Maharashtra,Navi Mumbai,Vashi,"36, Complex, Vashi, Navi Mumbai",19.0846,72.9835,19100,57500,Private,Single,Coed,1,0,1,1,1,1,1,1,Fully Furnished,4.5,124,Available,OWN0005
+PG00042,Cozy Residency,Gujarat,Surat,Adajan,"244, Marg, Adajan, Surat",21.103,72.8169,13900,41500,Shared,Double,Boys,1,0,0,1,0,0,1,1,Fully Furnished,4.3,254,Limited,OWN0114
+PG00043,Happy Living,Gujarat,Ahmedabad,Bodakdev,"320, Complex, Bodakdev, Ahmedabad",22.9905,72.5081,11200,33500,Shared,Double,Girls,1,0,1,1,0,1,0,1,Semi Furnished,3.7,235,Available,OWN0025
+PG00044,Prime Heights,Gujarat,Rajkot,150 Feet Ring Road,"35, Society, 150 Feet Ring Road, Rajkot",22.3336,70.7796,8000,24000,Shared,Double,Boys,1,0,1,1,0,0,0,1,Unfurnished,2.9,150,Limited,OWN0091
+PG00045,Om Home,Gujarat,Ahmedabad,Nikol,"180, Complex, Nikol, Ahmedabad",22.9708,72.5996,14500,43500,Private,Double,Girls,0,1,1,0,0,1,1,1,Fully Furnished,3.5,6,Available,OWN0037
+PG00046,Sunrise Residency,Maharashtra,Mumbai,Thane West,"383, Complex, Thane West, Mumbai",18.9985,72.9211,21500,43000,Private,Single,Boys,0,1,1,1,1,1,1,1,Semi Furnished,3.9,229,Available,OWN0056
+PG00047,Serene Rooms,Maharashtra,Nagpur,Dharampeth,"24, Lane, Dharampeth, Nagpur",21.1179,79.0182,19200,19000,Private,Single,Boys,0,1,1,1,0,1,1,1,Semi Furnished,4.3,184,Available,OWN0011
+PG00048,Nirvana Retreat,Gujarat,Nadiad,Station Road,"294, Chowk, Station Road, Nadiad",22.7697,72.927,5100,5000,Shared,Double,Boys,0,1,0,0,1,0,1,1,Fully Furnished,3.7,161,Limited,OWN0057
+PG00049,Harmony Palace,Gujarat,Gandhinagar,Sector 11,"398, Park, Sector 11, Gandhinagar",23.1393,72.6609,5400,5500,Private,Double,Girls,1,1,1,0,1,0,1,1,Semi Furnished,4.1,351,Full,OWN0145
+PG00050,Prime Villa,Maharashtra,Pune,Kondhwa,"35, Marg, Kondhwa, Pune",18.586,73.8796,14300,14500,Private,Single,Boys,1,1,1,0,1,0,0,1,Fully Furnished,3.8,286,Full,OWN0011
+PG00051,Prime PG,Maharashtra,Mumbai,Goregaon,"231, Society, Goregaon, Mumbai",19.0439,72.8733,7800,8000,Shared,Triple,Coed,1,1,0,1,0,1,0,1,Semi Furnished,4.3,29,Limited,OWN0086
+PG00052,Krishna House,Gujarat,Ahmedabad,Satellite,"171, Society, Satellite, Ahmedabad",23.0329,72.551,12000,12000,Shared,Double,Boys,1,1,1,0,0,0,0,1,Fully Furnished,4.2,219,Available,OWN0005
+PG00053,Serene Palace,Gujarat,Bhavnagar,Ghogha Circle,"116, Colony, Ghogha Circle, Bhavnagar",21.8457,72.1234,13900,41500,Private,Single,Girls,1,1,1,1,0,1,0,1,Semi Furnished,3.2,227,Available,OWN0094
+PG00054,Divine Comforts,Maharashtra,Pune,Kharadi,"274, Lane, Kharadi, Pune",18.6049,73.8766,11900,35500,Private,Double,Girls,0,1,1,1,0,0,0,1,Fully Furnished,3.4,331,Available,OWN0096
+PG00055,Cozy Rooms,Maharashtra,Mumbai,Malad,"43, Colony, Malad, Mumbai",19.1141,72.8806,14800,15000,Private,Double,Boys,0,0,0,1,0,1,1,1,Fully Furnished,3.5,53,Limited,OWN0086
+PG00056,Nova House,Maharashtra,Nashik,Gangapur Road,"389, Marg, Gangapur Road, Nashik",19.9144,73.8649,14800,15000,Private,Single,Boys,1,1,1,1,1,1,1,1,Semi Furnished,3.8,59,Limited,OWN0128
+PG00057,Prime Rooms,Maharashtra,Pune,Kothrud,"220, Road, Kothrud, Pune",18.5442,73.8702,20600,62000,Shared,Double,Boys,0,1,1,1,0,1,1,1,Semi Furnished,5.0,132,Limited,OWN0092
+PG00058,Silver Boys Hostel,Maharashtra,Nashik,Nashik Road,"69, Road, Nashik Road, Nashik",19.9509,73.8181,23900,48000,Private,Single,Girls,0,0,1,0,0,1,1,1,Fully Furnished,4.9,266,Available,OWN0140
+PG00059,City PG,Maharashtra,Mumbai,Andheri West,"336, Park, Andheri West, Mumbai",19.1216,72.8221,16300,32500,Private,Double,Girls,1,1,1,1,0,1,1,1,Fully Furnished,5.0,95,Available,OWN0083
+PG00060,Vraj Nivas,Gujarat,Ahmedabad,Prahlad Nagar,"354, Marg, Prahlad Nagar, Ahmedabad",23.0515,72.5366,19000,38000,Private,Single,Coed,1,0,0,1,0,1,0,1,Unfurnished,3.1,314,Limited,OWN0113
+PG00061,Sai Inn,Gujarat,Ahmedabad,Bodakdev,"291, Road, Bodakdev, Ahmedabad",22.975,72.5975,9300,9500,Shared,Triple,Coed,0,1,1,1,1,1,0,1,Fully Furnished,4.0,137,Limited,OWN0115
+PG00062,Serene Palace,Gujarat,Vadodara,Subhanpura,"63, Colony, Subhanpura, Vadodara",22.2686,73.2562,15200,30500,Shared,Double,Coed,0,1,1,1,1,1,1,1,Fully Furnished,3.6,117,Available,OWN0052
+PG00063,Nest Girls Hostel,Maharashtra,Nashik,Gangapur Road,"240, Complex, Gangapur Road, Nashik",20.0498,73.7045,14300,28500,Private,Double,Boys,1,0,0,1,0,1,1,1,Fully Furnished,4.7,402,Available,OWN0151
+PG00064,Elite Home,Gujarat,Surat,Piplod,"266, Colony, Piplod, Surat",21.1581,72.905,14700,44000,Private,Single,Coed,0,0,1,1,0,1,1,1,Fully Furnished,3.2,300,Available,OWN0160
+PG00065,Comfort Living,Maharashtra,Nagpur,Ramdaspeth,"334, Lane, Ramdaspeth, Nagpur",21.2075,79.0997,15800,47500,Shared,Double,Girls,1,0,1,0,0,1,1,1,Fully Furnished,3.9,107,Available,OWN0037
+PG00066,City Inn,Gujarat,Rajkot,Gondal Road,"67, Park, Gondal Road, Rajkot",22.2714,70.89,5200,5000,Shared,Double,Boys,1,1,0,0,0,0,0,1,Unfurnished,4.4,100,Limited,OWN0128
+PG00067,Sunrise Residency,Maharashtra,Amravati,Camp Area,"202, Complex, Camp Area, Amravati",20.9372,77.7451,4500,9000,Shared,Double,Girls,0,0,1,1,1,1,1,1,Fully Furnished,3.7,26,Available,OWN0146
+PG00068,Sunshine Villa,Maharashtra,Mumbai,Mulund,"392, Complex, Mulund, Mumbai",19.0856,72.8009,10100,10000,Private,Double,Girls,1,0,1,0,0,1,1,1,Fully Furnished,3.1,173,Limited,OWN0133
+PG00069,Urban Nivas,Maharashtra,Mumbai,Jogeshwari,"202, Nagar, Jogeshwari, Mumbai",19.0112,72.9553,17700,35500,Shared,Double,Girls,1,1,1,1,0,1,0,0,Semi Furnished,4.1,138,Full,OWN0149
+PG00070,Ganesh House,Maharashtra,Mumbai,Andheri West,"349, Lane, Andheri West, Mumbai",19.091,72.8184,9200,18500,Private,Double,Boys,1,1,1,0,0,0,0,1,Fully Furnished,3.3,169,Full,OWN0123
+PG00071,Legacy Boys Hostel,Maharashtra,Mumbai,Ghatkopar,"280, Park, Ghatkopar, Mumbai",19.1582,72.8704,14300,28500,Shared,Triple,Girls,1,1,1,1,0,1,1,1,Semi Furnished,3.5,181,Available,OWN0071
+PG00072,Laxmi Girls Hostel,Gujarat,Rajkot,Race Course,"396, Colony, Race Course, Rajkot",22.3357,70.7805,12200,24500,Private,Single,Girls,0,1,0,1,0,1,1,1,Fully Furnished,2.9,274,Available,OWN0060
+PG00073,Happy Stay,Gujarat,Ahmedabad,Ellisbridge,"282, Colony, Ellisbridge, Ahmedabad",22.992,72.5664,14800,29500,Private,Double,Coed,1,1,0,1,0,1,0,0,Unfurnished,3.2,93,Full,OWN0010
+PG00074,New PG,Maharashtra,Amravati,Camp Area,"5, Nagar, Camp Area, Amravati",20.9892,77.7231,6800,20500,Shared,Double,Coed,1,0,1,1,1,0,1,1,Semi Furnished,4.4,10,Limited,OWN0076
+PG00075,Laxmi Retreat,Maharashtra,Mumbai,Goregaon,"264, Park, Goregaon, Mumbai",19.0176,72.9418,11300,11500,Private,Double,Boys,1,1,1,1,0,1,1,1,Fully Furnished,3.3,344,Available,OWN0079
+PG00076,Modern Home,Gujarat,Surat,Rander,"328, Nagar, Rander, Surat",21.1707,72.9022,19500,58500,Private,Single,Coed,1,1,0,0,0,0,0,1,Semi Furnished,4.5,272,Available,OWN0093
+PG00077,Sunshine Palace,Gujarat,Ahmedabad,Satellite,"294, Complex, Satellite, Ahmedabad",22.9436,72.58,13200,39500,Private,Single,Girls,1,0,1,1,1,1,1,1,Semi Furnished,3.5,14,Available,OWN0001
+PG00078,Green PG,Maharashtra,Nagpur,Dharampeth,"36, Marg, Dharampeth, Nagpur",21.064,79.0602,19400,39000,Private,Single,Girls,1,0,1,1,0,0,1,0,Fully Furnished,5.0,204,Available,OWN0058
+PG00079,Legacy Retreat,Maharashtra,Thane,Ghodbunder Road,"273, Chowk, Ghodbunder Road, Thane",19.3044,72.9714,10300,10500,Shared,Double,Boys,1,1,1,0,0,1,1,1,Fully Furnished,4.3,27,Available,OWN0012
+PG00080,Elite House,Gujarat,Anand,Grid Road,"258, Nagar, Grid Road, Anand",22.5717,72.9747,9400,19000,Private,Double,Girls,1,0,0,1,0,1,1,1,Semi Furnished,3.2,350,Available,OWN0127
+PG00081,Harmony Boys Hostel,Gujarat,Ahmedabad,Thaltej,"357, Chowk, Thaltej, Ahmedabad",23.102,72.6022,19900,20000,Private,Single,Boys,1,1,0,0,0,0,1,1,Fully Furnished,3.2,334,Available,OWN0116
+PG00082,Elite Living,Maharashtra,Thane,Ghodbunder Road,"194, Road, Ghodbunder Road, Thane",19.2247,73.0374,10000,20000,Shared,Double,Girls,1,0,1,1,0,0,0,0,Semi Furnished,4.3,206,Full,OWN0142
+PG00083,City Rooms,Gujarat,Gandhinagar,Sector 7,"134, Park, Sector 7, Gandhinagar",23.1941,72.643,8800,17500,Shared,Double,Boys,0,1,1,1,1,1,1,0,Semi Furnished,3.7,81,Available,OWN0059
+PG00084,Metro Living,Gujarat,Jamnagar,Digvijay Plot,"391, Marg, Digvijay Plot, Jamnagar",22.4706,70.0855,4600,9000,Dormitory,Dormitory,Girls,1,1,1,0,0,1,1,1,Semi Furnished,4.9,345,Available,OWN0002
+PG00085,Royal Palace,Gujarat,Mehsana,Modhera Road,"259, Marg, Modhera Road, Mehsana",23.5397,72.4066,10300,20500,Private,Double,Girls,1,1,1,1,0,1,1,1,Semi Furnished,3.7,94,Available,OWN0025
+PG00086,City Living,Maharashtra,Mumbai,Dadar,"204, Society, Dadar, Mumbai",19.0205,72.8825,28400,28500,Private,Single,Girls,0,0,1,1,0,1,1,1,Fully Furnished,3.9,225,Limited,OWN0085
+PG00087,Om Palace,Maharashtra,Mumbai,Malad,"355, Marg, Malad, Mumbai",19.1471,72.9531,14700,44000,Private,Double,Girls,0,1,0,1,1,1,0,1,Unfurnished,3.5,291,Available,OWN0100
+PG00088,Golden Girls Hostel,Maharashtra,Pune,Kondhwa,"28, Society, Kondhwa, Pune",18.4995,73.8999,22100,66500,Private,Double,Boys,1,0,1,1,0,1,1,0,Fully Furnished,4.3,341,Available,OWN0159
+PG00089,Prime Inn,Gujarat,Rajkot,University Road,"365, Colony, University Road, Rajkot",22.3423,70.727,4900,10000,Shared,Double,Boys,1,1,1,1,0,1,1,1,Fully Furnished,3.0,309,Limited,OWN0099
+PG00090,Nest Comforts,Gujarat,Ahmedabad,Ellisbridge,"293, Complex, Ellisbridge, Ahmedabad",23.0023,72.4966,16100,16000,Private,Single,Boys,1,1,1,1,1,1,1,1,Semi Furnished,3.2,57,Available,OWN0002
+PG00091,Metro Villa,Maharashtra,Navi Mumbai,Kharghar,"172, Chowk, Kharghar, Navi Mumbai",19.0945,73.0081,6200,18500,Shared,Triple,Coed,0,1,1,0,0,1,1,1,Semi Furnished,3.3,195,Available,OWN0101
+PG00092,Nest Stay,Gujarat,Bhavnagar,Ghogha Circle,"373, Marg, Ghogha Circle, Bhavnagar",21.7811,72.1601,4200,4000,Dormitory,Dormitory,Boys,0,0,1,1,0,1,1,1,Semi Furnished,3.0,309,Available,OWN0103
+PG00093,Sai Residency,Maharashtra,Mumbai,Vikhroli,"56, Lane, Vikhroli, Mumbai",19.0839,72.93,9800,19500,Shared,Double,Girls,0,1,1,1,1,1,0,1,Semi Furnished,3.3,194,Available,OWN0151
+PG00094,Silver Rooms,Maharashtra,Pune,Wakad,"213, Society, Wakad, Pune",18.4925,73.7711,13700,13500,Private,Double,Boys,1,1,1,0,0,1,1,1,Fully Furnished,3.6,58,Limited,OWN0043
+PG00095,Blue Boys Hostel,Maharashtra,Solapur,Saat Rasta,"287, Chowk, Saat Rasta, Solapur",17.6138,75.8478,4500,4500,Dormitory,Dormitory,Boys,0,1,1,1,1,1,1,1,Fully Furnished,4.5,417,Limited,OWN0148
+PG00096,Zenith Home,Gujarat,Ahmedabad,Vejalpur,"135, Marg, Vejalpur, Ahmedabad",22.9662,72.5401,9900,20000,Shared,Triple,Girls,1,1,1,1,0,0,1,1,Fully Furnished,3.3,62,Available,OWN0037
+PG00097,Vraj Nivas,Maharashtra,Mumbai,Vikhroli,"250, Complex, Vikhroli, Mumbai",19.0934,72.8912,12400,25000,Shared,Triple,Coed,1,1,1,1,0,1,1,1,Unfurnished,3.9,256,Available,OWN0126
+PG00098,Sunrise Comforts,Gujarat,Mehsana,Radhanpur Road,"150, Road, Radhanpur Road, Mehsana",23.586,72.2942,12600,25000,Private,Single,Boys,1,1,1,0,0,1,0,1,Semi Furnished,4.0,220,Available,OWN0064
+PG00099,Golden Villa,Gujarat,Rajkot,Kalawad Road,"61, Lane, Kalawad Road, Rajkot",22.2949,70.7749,9800,10000,Private,Double,Girls,0,0,0,0,0,1,1,1,Unfurnished,3.4,296,Available,OWN0132
+PG00100,Maruti PG,Maharashtra,Amravati,Gadge Nagar,"142, Colony, Gadge Nagar, Amravati",20.9941,77.714,7600,15000,Shared,Double,Boys,1,1,1,1,0,1,0,1,Fully Furnished,3.4,191,Available,OWN0125
+PG00101,Golden Villa,Gujarat,Gandhinagar,Sector 21,"326, Park, Sector 21, Gandhinagar",23.282,72.6994,6500,13000,Shared,Triple,Boys,1,0,1,1,0,1,1,1,Fully Furnished,3.0,404,Limited,OWN0005
+PG00102,Vraj Palace,Gujarat,Surat,Piplod,"353, Colony, Piplod, Surat",21.1596,72.7412,10100,20000,Shared,Double,Coed,1,1,0,1,0,1,1,1,Semi Furnished,4.3,3,Available,OWN0020
+PG00103,Royal Boys Hostel,Gujarat,Surat,Athwa,"62, Chowk, Athwa, Surat",21.1737,72.8212,8300,8500,Shared,Double,Boys,1,1,1,1,0,0,1,1,Fully Furnished,4.0,315,Limited,OWN0113
+PG00104,Maruti Villa,Gujarat,Gandhinagar,Sector 11,"112, Society, Sector 11, Gandhinagar",23.2387,72.5741,7400,15000,Shared,Double,Boys,1,1,1,1,0,1,1,1,Semi Furnished,4.7,340,Full,OWN0053
+PG00105,Elite Comforts,Maharashtra,Mumbai,Jogeshwari,"254, Chowk, Jogeshwari, Mumbai",19.02,72.8582,29200,29000,Private,Single,Girls,0,0,1,0,0,1,1,1,Unfurnished,4.5,11,Available,OWN0004
+PG00106,Laxmi Rooms,Gujarat,Vadodara,Alkapuri,"322, Complex, Alkapuri, Vadodara",22.3833,73.262,8600,17000,Shared,Double,Boys,1,0,0,1,0,1,0,1,Semi Furnished,3.5,226,Limited,OWN0062
+PG00107,Elite Rooms,Gujarat,Ahmedabad,Bodakdev,"342, Colony, Bodakdev, Ahmedabad",23.0989,72.5023,9200,18500,Private,Double,Girls,1,0,1,1,1,0,1,0,Semi Furnished,2.9,416,Available,OWN0135
+PG00108,Elite Heights,Gujarat,Ahmedabad,Bodakdev,"291, Colony, Bodakdev, Ahmedabad",23.0218,72.5733,11700,35000,Private,Single,Boys,1,0,1,1,0,0,1,0,Fully Furnished,4.6,368,Limited,OWN0108
+PG00109,Radha Residency,Gujarat,Vadodara,Manjalpur,"293, Park, Manjalpur, Vadodara",22.2921,73.2209,10800,11000,Private,Double,Boys,0,1,1,1,0,1,1,1,Fully Furnished,4.0,158,Limited,OWN0063
+PG00110,Legacy Comforts,Maharashtra,Mumbai,Santacruz,"78, Road, Santacruz, Mumbai",19.1656,72.9274,9300,9500,Dormitory,Dormitory,Boys,0,1,1,0,0,1,1,1,Fully Furnished,2.9,75,Limited,OWN0024
+PG00111,Sai Villa,Gujarat,Ahmedabad,Chandkheda,"383, Society, Chandkheda, Ahmedabad",23.094,72.575,11900,35500,Shared,Double,Girls,1,1,1,1,0,0,1,1,Fully Furnished,3.8,122,Available,OWN0052
+PG00112,Divine Villa,Gujarat,Surat,Nana Varachha,"161, Chowk, Nana Varachha, Surat",21.0998,72.7601,19800,39500,Private,Single,Girls,0,1,0,1,0,1,1,0,Fully Furnished,4.4,185,Available,OWN0013
+PG00113,Laxmi Villa,Maharashtra,Pune,Wagholi,"285, Complex, Wagholi, Pune",18.578,73.798,15200,15000,Private,Single,Girls,0,0,1,0,0,1,1,1,Fully Furnished,4.6,14,Full,OWN0051
+PG00114,Metro Home,Maharashtra,Kolhapur,Kawala Naka,"22, Marg, Kawala Naka, Kolhapur",16.7607,74.1699,7700,15500,Private,Double,Girls,0,1,1,1,1,0,1,1,Fully Furnished,3.4,213,Full,OWN0123
+PG00115,Harmony Comforts,Gujarat,Ahmedabad,Bopal,"323, Complex, Bopal, Ahmedabad",23.0014,72.5569,9200,18500,Shared,Triple,Girls,1,1,1,1,1,1,1,1,Fully Furnished,4.6,244,Available,OWN0150
+PG00116,Radha PG,Maharashtra,Amravati,Rajapeth,"392, Lane, Rajapeth, Amravati",20.8654,77.8078,4100,12500,Shared,Triple,Boys,1,1,1,1,0,1,1,1,Unfurnished,4.6,417,Full,OWN0127
+PG00117,Om Comforts,Maharashtra,Mumbai,Powai,"11, Complex, Powai, Mumbai",19.0743,72.8039,10800,11000,Shared,Double,Girls,0,0,1,1,0,0,0,1,Semi Furnished,4.9,194,Limited,OWN0102
+PG00118,Blue Retreat,Maharashtra,Mumbai,Ghatkopar,"328, Marg, Ghatkopar, Mumbai",19.0403,72.8123,21900,65500,Shared,Double,Coed,0,1,1,1,0,0,1,1,Unfurnished,4.9,203,Full,OWN0146
+PG00119,Serene House,Gujarat,Ahmedabad,Prahlad Nagar,"170, Society, Prahlad Nagar, Ahmedabad",23.0983,72.6556,8500,17000,Private,Double,Boys,1,1,1,1,1,1,1,1,Semi Furnished,4.9,214,Available,OWN0097
+PG00120,Nirvana Comforts,Gujarat,Gandhinagar,Sector 16,"84, Marg, Sector 16, Gandhinagar",23.1439,72.6332,6800,7000,Private,Double,Boys,1,1,1,0,0,0,1,1,Semi Furnished,3.9,18,Available,OWN0043
+PG00121,Shanti Palace,Maharashtra,Pune,Katraj,"210, Complex, Katraj, Pune",18.4587,73.7849,9700,9500,Shared,Triple,Boys,1,1,0,1,0,1,1,1,Semi Furnished,3.2,16,Available,OWN0164
+PG00122,Laxmi Heights,Gujarat,Rajkot,Kalawad Road,"251, Nagar, Kalawad Road, Rajkot",22.2991,70.733,11000,22000,Private,Single,Boys,1,1,1,0,0,1,1,1,Semi Furnished,4.6,214,Full,OWN0151
+PG00123,Maruti Heights,Gujarat,Vadodara,Alkapuri,"294, Lane, Alkapuri, Vadodara",22.3685,73.2385,7100,21500,Shared,Double,Coed,0,1,1,1,0,1,0,0,Semi Furnished,3.1,219,Available,OWN0112
+PG00124,Urban Residency,Gujarat,Surat,Rander,"45, Chowk, Rander, Surat",21.1068,72.8482,11700,11500,Shared,Triple,Coed,0,1,1,1,0,1,1,1,Unfurnished,4.8,291,Limited,OWN0074
+PG00125,Serene Heights,Maharashtra,Chhatrapati Sambhajinagar,Jalna Road,"20, Colony, Jalna Road, Chhatrapati Sambhajinagar",19.9442,75.3008,10200,20500,Private,Single,Girls,0,1,1,1,0,1,0,1,Semi Furnished,4.7,353,Available,OWN0059
+PG00126,Radha Retreat,Gujarat,Surat,Udhna,"310, Society, Udhna, Surat",21.16,72.8897,23200,46500,Private,Single,Girls,0,1,1,1,0,1,0,0,Fully Furnished,3.2,105,Limited,OWN0064
+PG00127,Radha Girls Hostel,Gujarat,Ahmedabad,Vastrapur,"238, Complex, Vastrapur, Ahmedabad",23.0977,72.6082,10200,30500,Private,Double,Girls,1,0,1,1,0,0,1,1,Fully Furnished,2.9,28,Available,OWN0147
+PG00128,Shanti Living,Maharashtra,Nashik,Gangapur Road,"334, Chowk, Gangapur Road, Nashik",20.0618,73.8163,4900,5000,Shared,Triple,Coed,0,1,1,1,0,1,0,1,Fully Furnished,3.6,181,Available,OWN0056
+PG00129,Silver Stay,Maharashtra,Mumbai,Jogeshwari,"262, Park, Jogeshwari, Mumbai",19.1344,72.8592,13600,13500,Shared,Triple,Boys,1,1,1,1,0,0,1,1,Fully Furnished,3.3,32,Limited,OWN0154
+PG00130,Serene Rooms,Gujarat,Anand,Sardar Gunj,"133, Chowk, Sardar Gunj, Anand",22.597,72.9687,9800,19500,Private,Double,Girls,0,1,1,0,0,0,1,1,Semi Furnished,4.7,95,Available,OWN0121
+PG00131,Sky Boys Hostel,Gujarat,Surat,City Light,"336, Society, City Light, Surat",21.2107,72.8417,21600,43000,Private,Single,Coed,1,1,1,1,1,1,1,1,Fully Furnished,3.2,64,Full,OWN0098
+PG00132,Happy Palace,Maharashtra,Mumbai,Vikhroli,"176, Chowk, Vikhroli, Mumbai",18.9957,72.9415,7900,8000,Dormitory,Dormitory,Coed,0,1,1,1,0,1,1,1,Fully Furnished,4.5,253,Limited,OWN0023
+PG00133,Nova Inn,Gujarat,Surat,Varachha,"3, Road, Varachha, Surat",21.1942,72.8137,9400,28000,Shared,Triple,Coed,1,1,1,1,0,1,1,1,Semi Furnished,3.2,26,Available,OWN0075
+PG00134,Happy Boys Hostel,Maharashtra,Mumbai,Jogeshwari,"251, Park, Jogeshwari, Mumbai",19.0933,72.8485,14100,14000,Shared,Double,Coed,0,1,1,1,1,1,1,1,Semi Furnished,3.4,276,Limited,OWN0153
+PG00135,Elite Home,Maharashtra,Amravati,Gadge Nagar,"214, Marg, Gadge Nagar, Amravati",20.8669,77.8401,8000,8000,Private,Single,Girls,1,1,1,1,0,1,0,1,Semi Furnished,3.1,61,Limited,OWN0128
+PG00136,Star Girls Hostel,Gujarat,Surat,Athwa,"361, Chowk, Athwa, Surat",21.2202,72.8908,15600,31000,Private,Single,Girls,1,1,1,0,0,0,1,1,Fully Furnished,4.4,54,Full,OWN0165
+PG00137,Sky PG,Gujarat,Vadodara,Fatehgunj,"149, Park, Fatehgunj, Vadodara",22.2647,73.1002,8600,8500,Shared,Double,Girls,1,1,1,1,0,0,1,1,Fully Furnished,3.6,61,Available,OWN0117
+PG00138,Maruti Nivas,Gujarat,Vadodara,Vasna,"58, Colony, Vasna, Vadodara",22.3414,73.1773,8400,25000,Shared,Double,Coed,1,1,1,1,0,1,0,0,Semi Furnished,4.8,250,Full,OWN0029
+PG00139,Urban Stay,Maharashtra,Chhatrapati Sambhajinagar,Cidco N-5,"361, Complex, Cidco N-5, Chhatrapati Sambhajinagar",19.7945,75.3004,8200,24500,Shared,Triple,Girls,1,1,1,1,1,1,1,1,Semi Furnished,4.0,316,Available,OWN0165
+PG00140,Blue Residency,Maharashtra,Navi Mumbai,Airoli,"385, Marg, Airoli, Navi Mumbai",19.0958,73.093,20600,41000,Private,Single,Boys,1,1,1,0,0,0,1,1,Fully Furnished,4.2,55,Available,OWN0010
+PG00141,Modern Palace,Maharashtra,Mumbai,Andheri East,"336, Marg, Andheri East, Mumbai",19.1347,72.9302,6100,12000,Dormitory,Dormitory,Boys,1,0,1,0,0,1,1,1,Fully Furnished,3.6,327,Full,OWN0075
+PG00142,Blue Heights,Maharashtra,Mumbai,Mulund,"72, Chowk, Mulund, Mumbai",19.1124,72.7959,14600,14500,Private,Double,Boys,0,1,1,0,0,1,0,1,Semi Furnished,4.9,71,Full,OWN0002
+PG00143,Nova Nivas,Maharashtra,Mumbai,Andheri West,"355, Colony, Andheri West, Mumbai",19.0856,72.8656,19200,38500,Shared,Double,Boys,1,1,0,0,0,1,0,0,Fully Furnished,3.1,214,Limited,OWN0132
+PG00144,Nest Palace,Gujarat,Rajkot,Gondal Road,"103, Lane, Gondal Road, Rajkot",22.3125,70.7687,6100,6000,Shared,Double,Boys,1,1,1,1,0,1,1,1,Fully Furnished,4.4,276,Available,OWN0109
+PG00145,Elite PG,Maharashtra,Nashik,Panchavati,"103, Nagar, Panchavati, Nashik",19.9267,73.7684,9900,10000,Shared,Double,Boys,0,1,1,1,0,1,0,1,Semi Furnished,4.4,290,Available,OWN0131
+PG00146,Ganesh Inn,Maharashtra,Nashik,Sharanpur Road,"214, Park, Sharanpur Road, Nashik",19.9593,73.8194,5200,10500,Dormitory,Dormitory,Boys,0,0,1,1,0,1,1,1,Unfurnished,3.4,93,Full,OWN0020
+PG00147,Comfort Retreat,Gujarat,Surat,Piplod,"143, Complex, Piplod, Surat",21.2125,72.7626,9400,9500,Private,Single,Coed,1,0,1,0,0,0,1,1,Semi Furnished,3.0,365,Available,OWN0057
+PG00148,Maruti Inn,Maharashtra,Navi Mumbai,Airoli,"48, Park, Airoli, Navi Mumbai",18.9553,73.0306,17600,53000,Private,Single,Boys,1,0,0,0,1,0,1,0,Semi Furnished,4.2,23,Limited,OWN0083
+PG00149,New Stay,Gujarat,Jamnagar,Patel Colony,"265, Park, Patel Colony, Jamnagar",22.4502,70.0649,7500,7500,Shared,Double,Girls,1,1,1,0,0,1,1,1,Semi Furnished,3.3,353,Available,OWN0027
+PG00150,Vraj Residency,Gujarat,Surat,Udhna,"383, Colony, Udhna, Surat",21.2384,72.8745,7000,14000,Private,Double,Boys,0,1,1,1,0,1,1,1,Semi Furnished,4.0,331,Limited,OWN0017
+PG00151,Sunshine Home,Maharashtra,Nagpur,Sadar,"149, Nagar, Sadar, Nagpur",21.182,79.0113,12500,12500,Shared,Double,Coed,1,1,1,1,0,1,0,1,Semi Furnished,4.8,410,Full,OWN0096
+PG00152,Cozy PG,Maharashtra,Navi Mumbai,Vashi,"3, Chowk, Vashi, Navi Mumbai",19.0426,73.0396,8400,25000,Shared,Triple,Boys,1,1,1,1,1,0,1,1,Semi Furnished,5.0,284,Available,OWN0141
+PG00153,Serene Boys Hostel,Gujarat,Ahmedabad,Bodakdev,"183, Colony, Bodakdev, Ahmedabad",22.9776,72.5169,8300,16500,Shared,Double,Boys,1,1,1,1,1,1,0,0,Fully Furnished,3.5,405,Available,OWN0165
+PG00154,Nova Villa,Gujarat,Nadiad,Station Road,"229, Park, Station Road, Nadiad",22.6281,72.9037,10000,20000,Shared,Double,Boys,0,1,1,1,0,1,1,1,Fully Furnished,2.9,300,Available,OWN0152
+PG00155,Legacy Heights,Gujarat,Vadodara,Alkapuri,"335, Colony, Alkapuri, Vadodara",22.3165,73.189,15200,45500,Private,Single,Girls,1,1,1,1,0,0,1,1,Fully Furnished,3.8,94,Available,OWN0145
+PG00156,City PG,Maharashtra,Pune,Wakad,"113, Marg, Wakad, Pune",18.5629,73.8537,27600,55000,Private,Single,Boys,1,0,0,1,0,1,0,1,Fully Furnished,4.4,299,Available,OWN0045
+PG00157,Green Living,Gujarat,Jamnagar,Pandit Nehru Marg,"193, Lane, Pandit Nehru Marg, Jamnagar",22.4465,70.0853,9000,27000,Shared,Double,Coed,1,0,1,1,0,1,1,1,Semi Furnished,4.6,341,Available,OWN0085
+PG00158,Blue Retreat,Maharashtra,Pune,Deccan Gymkhana,"12, Lane, Deccan Gymkhana, Pune",18.5519,73.8529,29100,87500,Private,Single,Boys,1,1,0,1,0,0,1,0,Semi Furnished,4.6,46,Available,OWN0156
+PG00159,Prime Nivas,Maharashtra,Amravati,Camp Area,"320, Complex, Camp Area, Amravati",20.8781,77.8391,8400,8500,Private,Double,Boys,1,1,1,1,0,1,1,1,Fully Furnished,3.8,317,Available,OWN0137
+PG00160,Legacy Stay,Maharashtra,Mumbai,Malad,"397, Chowk, Malad, Mumbai",19.0028,72.9064,17400,35000,Shared,Double,Boys,0,1,1,0,0,0,1,1,Fully Furnished,3.3,45,Available,OWN0140
+PG00161,Royal Home,Gujarat,Anand,Grid Road,"267, Road, Grid Road, Anand",22.4755,72.9728,11300,11500,Private,Single,Girls,1,1,1,1,0,1,0,1,Fully Furnished,4.0,288,Available,OWN0095
+PG00162,City Inn,Maharashtra,Mumbai,Santacruz,"377, Colony, Santacruz, Mumbai",19.0317,72.8429,13200,13000,Shared,Triple,Girls,1,1,1,0,0,0,1,1,Semi Furnished,4.6,77,Available,OWN0154
+PG00163,Comfort Inn,Gujarat,Nadiad,College Road,"206, Complex, College Road, Nadiad",22.6513,72.8386,6100,12000,Private,Double,Boys,1,0,0,1,1,0,1,1,Semi Furnished,4.3,187,Available,OWN0001
+PG00164,City Inn,Maharashtra,Navi Mumbai,Vashi,"208, Lane, Vashi, Navi Mumbai",19.1224,73.08,6100,18500,Shared,Triple,Boys,0,1,0,1,0,1,0,1,Fully Furnished,3.7,57,Available,OWN0129
+PG00165,Legacy Living,Gujarat,Rajkot,Kalawad Road,"356, Marg, Kalawad Road, Rajkot",22.3584,70.8844,3900,8000,Dormitory,Dormitory,Girls,0,0,0,1,1,1,0,1,Semi Furnished,4.6,214,Full,OWN0133
+PG00166,Nest Nivas,Maharashtra,Mumbai,Bandra,"244, Park, Bandra, Mumbai",19.0307,72.8044,22000,22000,Private,Double,Boys,1,1,1,0,1,1,1,1,Fully Furnished,3.0,43,Limited,OWN0127
+PG00167,Urban Heights,Maharashtra,Pune,Hinjewadi,"295, Nagar, Hinjewadi, Pune",18.583,73.8335,9900,29500,Shared,Triple,Coed,1,1,1,0,1,1,0,1,Fully Furnished,3.1,268,Available,OWN0003
+PG00168,Sai Living,Gujarat,Ahmedabad,Naranpura,"96, Complex, Naranpura, Ahmedabad",23.0008,72.4995,17500,35000,Private,Single,Coed,1,1,1,1,0,1,1,0,Semi Furnished,4.6,372,Available,OWN0061
+PG00169,Prime Heights,Maharashtra,Mumbai,Thane West,"5, Colony, Thane West, Mumbai",19.0213,72.9317,29100,58000,Private,Single,Coed,0,1,1,1,0,0,1,1,Fully Furnished,4.2,233,Limited,OWN0067
+PG00170,City Palace,Gujarat,Bhavnagar,Kaliyabid,"296, Complex, Kaliyabid, Bhavnagar",21.7364,72.136,8700,17500,Private,Double,Boys,0,1,1,1,1,1,0,1,Semi Furnished,4.1,39,Available,OWN0088
+PG00171,Laxmi Living,Gujarat,Vadodara,Sayajigunj,"228, Park, Sayajigunj, Vadodara",22.3347,73.2191,8700,8500,Shared,Double,Girls,1,1,1,0,0,1,1,1,Unfurnished,3.8,30,Available,OWN0102
+PG00172,Golden Inn,Maharashtra,Mumbai,Borivali,"159, Lane, Borivali, Mumbai",19.0047,72.899,16800,17000,Private,Single,Girls,1,1,0,1,0,0,1,1,Fully Furnished,4.9,360,Available,OWN0152
+PG00173,Modern Girls Hostel,Maharashtra,Pune,Katraj,"247, Complex, Katraj, Pune",18.5246,73.8818,22100,44000,Private,Single,Boys,1,1,1,1,1,1,1,1,Semi Furnished,3.5,395,Available,OWN0075
+PG00174,Nest Retreat,Maharashtra,Pune,Kothrud,"203, Lane, Kothrud, Pune",18.5291,73.8006,14300,14500,Private,Double,Boys,1,1,1,0,0,0,1,1,Semi Furnished,3.7,38,Available,OWN0075
+PG00175,Serene Palace,Gujarat,Ahmedabad,Ambawadi,"165, Road, Ambawadi, Ahmedabad",23.0437,72.5304,7800,8000,Private,Double,Boys,0,1,1,1,0,1,1,1,Unfurnished,3.8,408,Available,OWN0021
+PG00176,Green Heights,Maharashtra,Thane,Naupada,"93, Lane, Naupada, Thane",19.1384,73.0277,6200,6000,Shared,Double,Boys,1,0,1,0,1,0,1,1,Fully Furnished,3.7,162,Full,OWN0041
+PG00177,Cozy Living,Maharashtra,Pune,Hinjewadi,"247, Nagar, Hinjewadi, Pune",18.5645,73.8656,13800,14000,Private,Double,Coed,0,1,1,1,1,0,1,1,Semi Furnished,3.8,308,Available,OWN0023
+PG00178,Elite PG,Gujarat,Vadodara,Akota,"183, Colony, Akota, Vadodara",22.2337,73.2026,7400,22000,Shared,Triple,Boys,0,0,0,1,1,0,1,1,Semi Furnished,3.9,227,Available,OWN0139
+PG00179,Urban Villa,Maharashtra,Pune,Hadapsar,"141, Complex, Hadapsar, Pune",18.5324,73.8646,20200,40500,Private,Single,Girls,1,1,1,1,1,0,0,1,Semi Furnished,4.2,278,Limited,OWN0049
+PG00180,New Boys Hostel,Maharashtra,Mumbai,Santacruz,"210, Park, Santacruz, Mumbai",19.1238,72.8154,15300,15500,Private,Single,Boys,1,1,1,1,0,0,1,1,Fully Furnished,3.6,313,Limited,OWN0004
+PG00181,Golden Villa,Maharashtra,Solapur,Railway Lines,"328, Road, Railway Lines, Solapur",17.6879,75.9835,8000,8000,Private,Double,Coed,0,1,1,1,0,0,0,1,Semi Furnished,4.0,100,Available,OWN0064
+PG00182,Silver Girls Hostel,Maharashtra,Mumbai,Powai,"346, Marg, Powai, Mumbai",19.0865,72.8882,20600,41000,Shared,Double,Boys,1,1,1,1,0,0,1,0,Semi Furnished,3.7,327,Available,OWN0083
+PG00183,Krishna Girls Hostel,Maharashtra,Pune,Hadapsar,"232, Marg, Hadapsar, Pune",18.4979,73.8657,6200,18500,Dormitory,Dormitory,Boys,1,1,0,1,0,1,1,1,Unfurnished,4.6,286,Available,OWN0147
+PG00184,Prime House,Maharashtra,Solapur,Railway Lines,"136, Park, Railway Lines, Solapur",17.5869,75.8993,6400,13000,Shared,Double,Boys,0,1,1,1,0,1,0,1,Semi Furnished,3.0,331,Available,OWN0148
+PG00185,Vraj Retreat,Gujarat,Jamnagar,Patel Colony,"62, Lane, Patel Colony, Jamnagar",22.5466,70.0279,7800,15500,Shared,Triple,Coed,1,1,1,1,0,0,1,1,Unfurnished,4.9,388,Available,OWN0130
+PG00186,Happy Boys Hostel,Gujarat,Ahmedabad,Ellisbridge,"43, Marg, Ellisbridge, Ahmedabad",22.9847,72.5524,7700,15500,Shared,Double,Boys,0,1,1,1,0,0,1,1,Semi Furnished,3.3,39,Available,OWN0111
+PG00187,Vraj Girls Hostel,Gujarat,Gandhinagar,Infocity,"179, Lane, Infocity, Gandhinagar",23.1417,72.6678,9600,19000,Private,Single,Boys,0,0,1,1,1,0,1,1,Semi Furnished,4.7,60,Limited,OWN0063
+PG00188,Royal Boys Hostel,Maharashtra,Navi Mumbai,Nerul,"356, Society, Nerul, Navi Mumbai",19.0994,73.0873,13800,41500,Private,Single,Boys,0,1,1,0,0,0,1,0,Fully Furnished,3.4,33,Available,OWN0159
+PG00189,Ganesh Living,Gujarat,Vadodara,Akota,"340, Park, Akota, Vadodara",22.3351,73.0927,12100,24000,Shared,Double,Coed,1,1,0,1,0,1,1,0,Semi Furnished,4.4,23,Available,OWN0136
+PG00190,City Girls Hostel,Gujarat,Rajkot,Mavdi,"182, Nagar, Mavdi, Rajkot",22.2847,70.7405,5100,10000,Private,Double,Girls,0,0,1,1,1,1,0,1,Fully Furnished,3.6,350,Limited,OWN0161
+PG00191,Modern Boys Hostel,Maharashtra,Pune,Katraj,"230, Complex, Katraj, Pune",18.4737,73.7942,21400,21500,Private,Double,Girls,1,1,1,1,0,0,1,0,Unfurnished,3.5,288,Available,OWN0031
+PG00192,Maruti Retreat,Gujarat,Surat,Piplod,"156, Marg, Piplod, Surat",21.2111,72.8789,7500,7500,Shared,Triple,Girls,1,1,1,1,1,1,1,1,Semi Furnished,3.6,355,Limited,OWN0035
+PG00193,Ganesh Heights,Maharashtra,Mumbai,Santacruz,"243, Colony, Santacruz, Mumbai",19.1142,72.855,15400,31000,Private,Single,Boys,1,1,1,1,1,0,1,1,Semi Furnished,4.7,129,Available,OWN0011
+PG00194,Nirvana PG,Maharashtra,Pune,Pimple Saudagar,"267, Society, Pimple Saudagar, Pune",18.56,73.8376,9800,19500,Shared,Triple,Boys,0,1,1,0,0,1,1,0,Semi Furnished,3.4,88,Available,OWN0157
+PG00195,Divine Residency,Maharashtra,Solapur,Saat Rasta,"370, Complex, Saat Rasta, Solapur",17.663,75.842,8300,16500,Private,Double,Coed,1,1,1,0,0,0,1,1,Semi Furnished,4.4,86,Limited,OWN0032
+PG00196,Ganesh Nivas,Gujarat,Ahmedabad,Ambawadi,"194, Complex, Ambawadi, Ahmedabad",23.0466,72.4968,8400,8500,Private,Double,Coed,1,1,1,1,0,1,1,1,Fully Furnished,3.2,321,Limited,OWN0004
+PG00197,Serene Comforts,Maharashtra,Mumbai,Santacruz,"112, Marg, Santacruz, Mumbai",19.0838,72.7887,8600,26000,Shared,Double,Girls,1,1,0,1,1,1,1,1,Fully Furnished,4.1,311,Available,OWN0023
+PG00198,New Nivas,Gujarat,Ahmedabad,Ellisbridge,"234, Park, Ellisbridge, Ahmedabad",23.1114,72.5104,5900,12000,Dormitory,Dormitory,Boys,0,0,0,1,0,1,0,1,Fully Furnished,3.3,110,Limited,OWN0028
+PG00199,New Retreat,Maharashtra,Mumbai,Jogeshwari,"312, Park, Jogeshwari, Mumbai",19.1637,72.8748,17200,34500,Private,Single,Girls,1,1,1,1,0,0,0,1,Fully Furnished,4.2,63,Limited,OWN0054
+PG00200,Nest Palace,Maharashtra,Nashik,Indira Nagar,"6, Lane, Indira Nagar, Nashik",19.982,73.7599,11400,23000,Shared,Double,Boys,0,1,1,1,0,0,0,1,Semi Furnished,4.8,248,Full,OWN0010
+PG00201,Legacy Boys Hostel,Maharashtra,Pune,Deccan Gymkhana,"237, Chowk, Deccan Gymkhana, Pune",18.4584,73.8496,8900,18000,Dormitory,Dormitory,Boys,0,1,1,1,0,0,1,1,Semi Furnished,3.5,195,Limited,OWN0043
+PG00202,Modern Boys Hostel,Maharashtra,Mumbai,Thane West,"364, Road, Thane West, Mumbai",19.0197,72.8087,22300,44500,Private,Single,Coed,1,1,1,0,0,0,1,1,Fully Furnished,3.9,100,Available,OWN0124
+PG00203,Silver House,Maharashtra,Nagpur,Wardha Road,"106, Road, Wardha Road, Nagpur",21.1954,79.024,4700,4500,Shared,Triple,Girls,0,1,1,1,1,1,1,1,Semi Furnished,3.5,110,Available,OWN0050
+PG00204,Cozy Living,Gujarat,Rajkot,Race Course,"77, Colony, Race Course, Rajkot",22.2713,70.7916,11700,35000,Private,Single,Girls,1,1,1,0,1,1,1,1,Fully Furnished,3.8,69,Available,OWN0013
+PG00205,Divine Girls Hostel,Gujarat,Ahmedabad,Vastrapur,"160, Park, Vastrapur, Ahmedabad",22.948,72.5519,6600,13000,Shared,Triple,Girls,0,1,0,1,1,1,1,1,Fully Furnished,4.9,76,Full,OWN0158
+PG00206,Metro Boys Hostel,Gujarat,Vadodara,Sayajigunj,"233, Marg, Sayajigunj, Vadodara",22.2878,73.2171,23000,46000,Private,Single,Boys,0,1,1,1,0,0,1,1,Semi Furnished,4.0,208,Available,OWN0062
+PG00207,Metro Palace,Maharashtra,Pune,Aundh,"356, Chowk, Aundh, Pune",18.6057,73.8358,18600,18500,Shared,Double,Girls,0,1,0,1,0,1,1,1,Semi Furnished,3.2,210,Available,OWN0028
+PG00208,Elite Residency,Maharashtra,Pune,Pimple Saudagar,"112, Colony, Pimple Saudagar, Pune",18.4893,73.8828,7200,7000,Shared,Triple,Girls,1,1,1,1,1,0,1,1,Semi Furnished,4.8,225,Limited,OWN0089
+PG00209,Laxmi House,Maharashtra,Amravati,Gadge Nagar,"151, Road, Gadge Nagar, Amravati",20.8489,77.8672,14800,29500,Private,Single,Boys,1,1,1,1,0,1,1,1,Fully Furnished,3.3,91,Available,OWN0049
+PG00210,Happy House,Maharashtra,Mumbai,Mulund,"6, Society, Mulund, Mumbai",19.1372,72.8155,19500,19500,Shared,Double,Coed,1,1,1,1,0,1,1,1,Fully Furnished,4.0,233,Available,OWN0058
+PG00211,Maruti Girls Hostel,Gujarat,Surat,Nana Varachha,"18, Road, Nana Varachha, Surat",21.0815,72.8308,12100,12000,Shared,Triple,Boys,1,1,0,0,0,1,1,0,Fully Furnished,3.8,382,Limited,OWN0020
+PG00212,Legacy Stay,Maharashtra,Pune,Camp,"241, Marg, Camp, Pune",18.5407,73.9293,15400,31000,Shared,Double,Girls,1,1,0,0,0,1,1,1,Fully Furnished,2.9,152,Limited,OWN0160
+PG00213,Radha Living,Gujarat,Ahmedabad,Ghatlodia,"68, Nagar, Ghatlodia, Ahmedabad",22.9474,72.5724,15600,15500,Private,Single,Girls,0,1,1,0,1,1,1,1,Unfurnished,4.9,307,Full,OWN0040
+PG00214,Divine Nivas,Maharashtra,Thane,Kolshet Road,"108, Park, Kolshet Road, Thane",19.267,72.9309,10100,20000,Private,Single,Girls,1,1,0,0,1,0,1,1,Fully Furnished,3.8,150,Full,OWN0115
+PG00215,Comfort Home,Gujarat,Jamnagar,Bedi Bandar Road,"273, Park, Bedi Bandar Road, Jamnagar",22.5538,70.0906,6100,12000,Dormitory,Dormitory,Girls,1,0,1,1,0,0,1,1,Semi Furnished,3.9,349,Limited,OWN0047
+PG00216,Royal Retreat,Gujarat,Rajkot,Kalawad Road,"51, Complex, Kalawad Road, Rajkot",22.335,70.8619,9600,9500,Private,Single,Boys,1,1,0,1,0,0,1,1,Fully Furnished,4.7,69,Available,OWN0145
+PG00217,Krishna Rooms,Maharashtra,Nashik,Gangapur Road,"240, Society, Gangapur Road, Nashik",20.0688,73.825,10600,21000,Shared,Triple,Boys,1,0,1,1,0,0,1,1,Fully Furnished,3.0,105,Limited,OWN0046
+PG00218,Shanti Home,Maharashtra,Pune,Viman Nagar,"227, Nagar, Viman Nagar, Pune",18.4563,73.9051,21100,21000,Private,Single,Girls,0,1,1,0,0,1,1,0,Semi Furnished,3.9,397,Available,OWN0112
+PG00219,Nova Home,Gujarat,Anand,Vidyanagar,"291, Complex, Vidyanagar, Anand",22.5717,72.8395,3700,3500,Dormitory,Dormitory,Boys,1,0,1,0,0,1,1,1,Unfurnished,4.3,156,Limited,OWN0028
+PG00220,Divine Palace,Maharashtra,Pune,Magarpatta,"72, Road, Magarpatta, Pune",18.518,73.926,16600,50000,Private,Double,Girls,0,1,0,0,0,1,1,1,Semi Furnished,3.7,111,Limited,OWN0134
+PG00221,Green PG,Maharashtra,Mumbai,Vile Parle,"377, Colony, Vile Parle, Mumbai",19.0128,72.892,17400,17500,Shared,Double,Coed,1,1,0,0,1,1,0,1,Semi Furnished,3.1,307,Limited,OWN0057
+PG00222,Laxmi Boys Hostel,Gujarat,Ahmedabad,Naranpura,"62, Complex, Naranpura, Ahmedabad",23.0092,72.6275,7400,15000,Private,Double,Girls,1,1,1,1,0,1,1,1,Fully Furnished,4.5,326,Limited,OWN0041
+PG00223,Golden Rooms,Gujarat,Ahmedabad,Ghatlodia,"214, Marg, Ghatlodia, Ahmedabad",22.947,72.4827,13600,13500,Shared,Double,Girls,0,1,1,1,0,1,0,1,Fully Furnished,3.3,63,Full,OWN0025
+PG00224,Shanti Living,Maharashtra,Pune,Warje,"28, Lane, Warje, Pune",18.4699,73.9054,25100,25000,Private,Single,Coed,0,1,1,1,0,1,0,1,Fully Furnished,4.4,278,Available,OWN0008
+PG00225,Divine Boys Hostel,Maharashtra,Mumbai,Malad,"215, Lane, Malad, Mumbai",18.9988,72.8301,7700,7500,Shared,Triple,Boys,1,1,1,0,1,1,1,1,Fully Furnished,4.1,94,Available,OWN0035
+PG00226,Star Boys Hostel,Maharashtra,Mumbai,Goregaon,"66, Road, Goregaon, Mumbai",19.0998,72.9633,16500,16500,Shared,Double,Boys,0,1,1,1,0,0,0,1,Semi Furnished,3.3,213,Full,OWN0126
+PG00227,Radha Stay,Maharashtra,Chhatrapati Sambhajinagar,Garkheda,"374, Chowk, Garkheda, Chhatrapati Sambhajinagar",19.8927,75.404,8700,26000,Shared,Double,Boys,0,0,0,1,1,0,0,1,Fully Furnished,3.7,417,Limited,OWN0026
+PG00228,Maruti Palace,Maharashtra,Mumbai,Dadar,"68, Park, Dadar, Mumbai",19.001,72.9233,17400,17500,Private,Double,Boys,0,0,1,1,0,0,0,1,Semi Furnished,3.6,240,Limited,OWN0001
+PG00229,Harmony PG,Maharashtra,Chhatrapati Sambhajinagar,CIDCO,"152, Chowk, CIDCO, Chhatrapati Sambhajinagar",19.8555,75.3776,7500,7500,Shared,Triple,Girls,0,1,0,1,0,1,1,1,Fully Furnished,2.9,190,Available,OWN0144
+PG00230,Legacy Home,Maharashtra,Pune,Hadapsar,"333, Marg, Hadapsar, Pune",18.4553,73.827,14200,14000,Shared,Triple,Coed,1,0,1,1,1,1,1,1,Semi Furnished,3.8,275,Limited,OWN0137
+PG00231,Green Palace,Maharashtra,Kolhapur,Kawala Naka,"235, Society, Kawala Naka, Kolhapur",16.7268,74.2973,4700,9500,Private,Double,Boys,1,1,1,1,0,1,1,1,Unfurnished,3.8,218,Available,OWN0006
+PG00232,Harmony Boys Hostel,Gujarat,Rajkot,Kalawad Road,"211, Park, Kalawad Road, Rajkot",22.2179,70.8566,7900,23500,Shared,Triple,Girls,1,1,1,0,1,1,1,0,Semi Furnished,2.9,183,Available,OWN0043
+PG00233,Sky House,Maharashtra,Pune,Aundh,"83, Lane, Aundh, Pune",18.5585,73.818,15400,15500,Private,Double,Girls,1,1,1,0,1,1,0,1,Fully Furnished,2.9,258,Limited,OWN0118
+PG00234,Sunshine Boys Hostel,Maharashtra,Solapur,Railway Lines,"332, Nagar, Railway Lines, Solapur",17.5707,75.9493,9500,28500,Shared,Double,Coed,0,0,1,1,0,1,1,1,Fully Furnished,4.2,115,Available,OWN0024
+PG00235,Om Living,Gujarat,Gandhinagar,Infocity,"101, Road, Infocity, Gandhinagar",23.241,72.6519,5700,11500,Private,Double,Girls,1,1,1,0,0,1,1,0,Fully Furnished,3.6,148,Available,OWN0079
+PG00236,Divine Retreat,Maharashtra,Navi Mumbai,Panvel,"227, Nagar, Panvel, Navi Mumbai",19.044,72.9785,12300,37000,Private,Double,Coed,0,1,1,0,0,1,0,1,Fully Furnished,2.8,330,Full,OWN0107
+PG00237,Happy Palace,Gujarat,Surat,Ghod Dod Road,"96, Chowk, Ghod Dod Road, Surat",21.208,72.877,18700,37500,Private,Single,Girls,1,1,1,0,1,1,1,1,Fully Furnished,4.3,150,Available,OWN0126
+PG00238,Serene Residency,Maharashtra,Kolhapur,Tarabai Park,"307, Park, Tarabai Park, Kolhapur",16.6201,74.2909,7600,7500,Shared,Triple,Coed,1,1,1,1,0,1,1,1,Fully Furnished,2.9,187,Available,OWN0092
+PG00239,Sky Home,Gujarat,Ahmedabad,Gota,"307, Colony, Gota, Ahmedabad",23.0278,72.6499,8100,16000,Shared,Triple,Girls,1,1,0,1,0,1,1,1,Unfurnished,3.0,82,Available,OWN0049
+PG00240,Harmony Home,Maharashtra,Nashik,Panchavati,"214, Marg, Panchavati, Nashik",20.0179,73.8495,5500,11000,Dormitory,Dormitory,Boys,1,1,1,1,0,1,0,1,Fully Furnished,4.4,63,Available,OWN0037
+PG00241,Golden Retreat,Maharashtra,Pune,Camp,"354, Society, Camp, Pune",18.453,73.7901,9100,9000,Private,Double,Girls,0,1,1,1,1,1,1,1,Semi Furnished,4.8,108,Available,OWN0052
+PG00242,Radha Girls Hostel,Gujarat,Surat,Katargam,"181, Colony, Katargam, Surat",21.0855,72.7673,11300,11500,Shared,Triple,Girls,0,0,1,0,0,1,0,1,Semi Furnished,4.8,261,Full,OWN0122
+PG00243,Sky Girls Hostel,Gujarat,Bhavnagar,Ghogha Circle,"195, Chowk, Ghogha Circle, Bhavnagar",21.7536,72.2343,9500,9500,Private,Single,Boys,1,1,1,1,0,1,1,1,Fully Furnished,4.4,354,Full,OWN0114
+PG00244,Star Residency,Gujarat,Vadodara,Vasna,"244, Park, Vasna, Vadodara",22.2695,73.2452,8100,24500,Private,Double,Girls,0,1,1,1,0,1,0,0,Fully Furnished,4.9,176,Available,OWN0104
+PG00245,Radha Inn,Gujarat,Surat,Varachha,"183, Marg, Varachha, Surat",21.2107,72.7912,10500,21000,Shared,Triple,Coed,1,1,1,1,1,1,1,1,Semi Furnished,4.9,198,Limited,OWN0084
+PG00246,Harmony Heights,Gujarat,Surat,Nana Varachha,"239, Lane, Nana Varachha, Surat",21.1924,72.8779,19700,59000,Private,Single,Girls,1,0,1,1,0,1,1,1,Fully Furnished,2.9,288,Limited,OWN0078
+PG00247,Ganesh Heights,Maharashtra,Chhatrapati Sambhajinagar,Garkheda,"392, Society, Garkheda, Chhatrapati Sambhajinagar",19.8747,75.2775,9000,18000,Shared,Double,Girls,0,1,1,1,0,1,1,1,Fully Furnished,2.9,305,Available,OWN0094
+PG00248,Metro Inn,Gujarat,Gandhinagar,Sector 28,"50, Chowk, Sector 28, Gandhinagar",23.2307,72.6846,13900,14000,Private,Single,Boys,0,1,0,1,0,1,1,1,Fully Furnished,4.7,293,Available,OWN0108
+PG00249,Ganesh Inn,Gujarat,Vadodara,Akota,"166, Society, Akota, Vadodara",22.323,73.2686,12000,24000,Shared,Double,Girls,1,1,0,1,0,0,1,0,Fully Furnished,3.4,155,Full,OWN0103
+PG00250,Radha Residency,Maharashtra,Nashik,Panchavati,"291, Complex, Panchavati, Nashik",20.0412,73.7164,11500,23000,Shared,Double,Girls,1,1,1,1,0,1,0,1,Fully Furnished,4.3,98,Available,OWN0055
+PG00251,Vraj PG,Maharashtra,Pune,Shivaji Nagar,"268, Lane, Shivaji Nagar, Pune",18.4786,73.8815,32500,65000,Private,Single,Boys,1,0,0,1,0,1,1,1,Semi Furnished,3.3,125,Available,OWN0050
+PG00252,Vraj Retreat,Gujarat,Ahmedabad,Gota,"332, Road, Gota, Ahmedabad",23.016,72.5822,17300,17500,Private,Single,Boys,0,1,1,0,1,0,1,1,Fully Furnished,4.9,189,Limited,OWN0024
+PG00253,Sunshine Home,Gujarat,Jamnagar,Digvijay Plot,"268, Complex, Digvijay Plot, Jamnagar",22.4232,70.0705,5800,11500,Private,Double,Boys,1,1,1,0,1,1,1,1,Unfurnished,3.8,133,Full,OWN0015
+PG00254,Legacy Retreat,Maharashtra,Mumbai,Mulund,"244, Lane, Mulund, Mumbai",19.1119,72.808,5900,12000,Dormitory,Dormitory,Coed,0,1,0,1,0,0,0,1,Semi Furnished,3.3,285,Available,OWN0164
+PG00255,Legacy Comforts,Maharashtra,Navi Mumbai,Kharghar,"227, Chowk, Kharghar, Navi Mumbai",19.1056,73.063,10300,10500,Private,Double,Coed,1,0,1,1,0,0,1,1,Fully Furnished,3.0,402,Full,OWN0121
+PG00256,Silver Nivas,Maharashtra,Nagpur,Ramdaspeth,"358, Nagar, Ramdaspeth, Nagpur",21.1849,79.156,11700,11500,Shared,Double,Girls,0,1,1,1,0,1,1,1,Semi Furnished,3.0,130,Available,OWN0034
+PG00257,Divine Heights,Maharashtra,Thane,Majiwada,"377, Colony, Majiwada, Thane",19.2022,73.0572,10400,21000,Private,Double,Girls,1,1,1,0,0,1,1,1,Semi Furnished,3.3,48,Full,OWN0051
+PG00258,Krishna House,Gujarat,Vadodara,Karelibaug,"46, Park, Karelibaug, Vadodara",22.2262,73.2024,21900,44000,Private,Single,Boys,0,1,1,1,0,0,1,1,Fully Furnished,3.7,108,Limited,OWN0073
+PG00259,Prime Stay,Maharashtra,Nagpur,Civil Lines,"149, Nagar, Civil Lines, Nagpur",21.1311,79.0717,18700,37500,Private,Single,Boys,1,1,1,1,0,0,0,1,Fully Furnished,2.9,173,Full,OWN0121
+PG00260,Ganesh Rooms,Maharashtra,Kolhapur,Rajarampuri,"203, Park, Rajarampuri, Kolhapur",16.616,74.2441,5700,17000,Private,Double,Boys,1,1,1,1,0,1,1,1,Unfurnished,3.9,146,Limited,OWN0111
+PG00261,Krishna Boys Hostel,Gujarat,Rajkot,150 Feet Ring Road,"224, Colony, 150 Feet Ring Road, Rajkot",22.3242,70.8493,5800,11500,Private,Double,Girls,1,1,1,1,1,0,1,0,Unfurnished,2.9,185,Full,OWN0144
+PG00262,Prime Home,Maharashtra,Mumbai,Santacruz,"179, Society, Santacruz, Mumbai",19.0062,72.9173,32000,64000,Private,Single,Girls,0,1,1,0,1,0,1,0,Fully Furnished,3.9,51,Full,OWN0007
+PG00263,Silver Boys Hostel,Gujarat,Rajkot,Gondal Road,"79, Road, Gondal Road, Rajkot",22.2359,70.7794,8400,17000,Private,Double,Girls,0,1,0,1,0,1,0,1,Unfurnished,4.1,111,Full,OWN0165
+PG00264,Ganesh Residency,Gujarat,Rajkot,Raiya Road,"205, Nagar, Raiya Road, Rajkot",22.2239,70.7249,4700,4500,Private,Double,Coed,1,0,1,0,0,1,1,1,Semi Furnished,3.5,353,Limited,OWN0092
+PG00265,Ganesh Heights,Maharashtra,Pune,Magarpatta,"138, Chowk, Magarpatta, Pune",18.5227,73.8548,17800,35500,Private,Single,Boys,1,1,0,1,0,0,0,1,Semi Furnished,3.0,242,Available,OWN0123
+PG00266,Shree Retreat,Gujarat,Rajkot,University Road,"152, Road, University Road, Rajkot",22.3371,70.7663,6400,6500,Shared,Triple,Girls,1,1,0,1,0,0,1,1,Fully Furnished,4.5,204,Available,OWN0107
+PG00267,Divine Living,Maharashtra,Chhatrapati Sambhajinagar,Jalna Road,"175, Colony, Jalna Road, Chhatrapati Sambhajinagar",19.8427,75.3836,10900,11000,Private,Single,Coed,1,1,1,1,0,1,1,1,Semi Furnished,4.4,158,Limited,OWN0158
+PG00268,Happy Stay,Gujarat,Bhavnagar,Sardarnagar,"98, Society, Sardarnagar, Bhavnagar",21.8193,72.0777,3300,3500,Shared,Triple,Boys,0,1,1,0,1,1,1,1,Fully Furnished,3.2,81,Limited,OWN0114
+PG00269,Shree Palace,Maharashtra,Navi Mumbai,Belapur,"151, Chowk, Belapur, Navi Mumbai",18.9465,73.0206,23000,46000,Private,Single,Girls,0,1,1,1,0,1,1,1,Semi Furnished,4.6,252,Available,OWN0016
+PG00270,Radha Retreat,Maharashtra,Mumbai,Vikhroli,"243, Society, Vikhroli, Mumbai",19.0898,72.8873,15100,15000,Shared,Triple,Boys,1,1,1,1,1,0,1,1,Semi Furnished,4.2,70,Full,OWN0100
+PG00271,Sai Heights,Maharashtra,Navi Mumbai,Panvel,"83, Lane, Panvel, Navi Mumbai",19.1124,73.0572,8100,8000,Private,Double,Girls,0,1,1,0,0,1,1,1,Semi Furnished,3.6,84,Available,OWN0129
+PG00272,Serene Living,Gujarat,Ahmedabad,Bodakdev,"175, Park, Bodakdev, Ahmedabad",22.9933,72.5019,7400,22000,Shared,Triple,Girls,0,1,1,0,0,0,0,0,Semi Furnished,4.1,55,Limited,OWN0011
+PG00273,Sai Nivas,Maharashtra,Mumbai,Powai,"373, Nagar, Powai, Mumbai",19.0994,72.9445,7200,14500,Shared,Triple,Girls,1,1,0,1,0,0,1,1,Fully Furnished,3.9,46,Available,OWN0107
+PG00274,Maruti Comforts,Gujarat,Bhavnagar,Ghogha Circle,"71, Chowk, Ghogha Circle, Bhavnagar",21.7018,72.1975,14100,28000,Private,Single,Girls,0,1,1,0,0,1,1,1,Semi Furnished,3.8,204,Limited,OWN0165
+PG00275,Harmony Rooms,Gujarat,Surat,Nana Varachha,"215, Chowk, Nana Varachha, Surat",21.0906,72.8548,9700,9500,Shared,Triple,Coed,0,0,1,1,0,1,0,1,Semi Furnished,3.8,179,Full,OWN0104
+PG00276,Ganesh House,Maharashtra,Nashik,Nashik Road,"267, Complex, Nashik Road, Nashik",19.9227,73.7965,19400,19500,Private,Single,Girls,1,0,1,1,0,1,1,1,Semi Furnished,4.7,135,Limited,OWN0091
+PG00277,Nirvana Stay,Gujarat,Surat,Rander,"233, Park, Rander, Surat",21.2496,72.8219,5400,11000,Dormitory,Dormitory,Girls,0,0,1,1,0,0,1,1,Fully Furnished,4.5,235,Available,OWN0109
+PG00278,Happy Heights,Maharashtra,Thane,Ghodbunder Road,"110, Marg, Ghodbunder Road, Thane",19.1449,72.9646,13900,41500,Private,Double,Boys,1,1,1,0,0,0,0,1,Fully Furnished,4.4,69,Full,OWN0132
+PG00279,Comfort Nivas,Maharashtra,Chhatrapati Sambhajinagar,CIDCO,"287, Park, CIDCO, Chhatrapati Sambhajinagar",19.9112,75.3353,3700,7500,Dormitory,Dormitory,Boys,0,1,1,1,0,1,1,1,Fully Furnished,4.1,27,Full,OWN0079
+PG00280,Royal Home,Maharashtra,Chhatrapati Sambhajinagar,Garkheda,"281, Park, Garkheda, Chhatrapati Sambhajinagar",19.8192,75.3864,10700,21500,Private,Single,Girls,0,1,1,1,0,1,1,1,Fully Furnished,4.7,169,Available,OWN0160
+PG00281,Metro PG,Maharashtra,Pune,Katraj,"344, Marg, Katraj, Pune",18.5001,73.9287,13500,27000,Shared,Triple,Coed,0,1,1,1,0,1,1,1,Fully Furnished,3.8,12,Available,OWN0137
+PG00282,Divine Residency,Gujarat,Surat,Adajan,"274, Park, Adajan, Surat",21.1297,72.7781,9900,10000,Private,Single,Coed,1,0,1,1,1,1,1,1,Fully Furnished,3.0,160,Full,OWN0044
+PG00283,Modern Inn,Gujarat,Ahmedabad,Prahlad Nagar,"51, Park, Prahlad Nagar, Ahmedabad",22.9652,72.6098,7700,7500,Private,Double,Boys,0,1,1,0,0,1,1,1,Fully Furnished,3.9,211,Limited,OWN0005
+PG00284,Nest House,Gujarat,Vadodara,Subhanpura,"156, Chowk, Subhanpura, Vadodara",22.3387,73.1355,8600,8500,Private,Double,Girls,0,1,1,0,0,1,1,1,Fully Furnished,4.9,3,Available,OWN0124
+PG00285,City Palace,Gujarat,Rajkot,150 Feet Ring Road,"300, Complex, 150 Feet Ring Road, Rajkot",22.365,70.7806,7200,14500,Private,Single,Girls,0,0,1,0,0,1,1,1,Semi Furnished,4.9,328,Available,OWN0116
+PG00286,Zenith Boys Hostel,Gujarat,Rajkot,Gondal Road,"9, Colony, Gondal Road, Rajkot",22.3908,70.7737,4700,9500,Shared,Double,Girls,0,1,1,1,1,0,1,1,Semi Furnished,4.6,230,Limited,OWN0091
+PG00287,Sky Stay,Maharashtra,Navi Mumbai,Belapur,"64, Marg, Belapur, Navi Mumbai",19.0919,73.0041,10900,22000,Private,Single,Boys,1,0,1,0,1,0,0,1,Fully Furnished,4.3,313,Available,OWN0051
+PG00288,Nirvana Heights,Maharashtra,Navi Mumbai,Kopar Khairane,"88, Complex, Kopar Khairane, Navi Mumbai",19.0143,73.0963,8600,8500,Private,Double,Girls,0,1,0,0,0,0,1,1,Fully Furnished,4.9,350,Available,OWN0065
+PG00289,Elite Boys Hostel,Maharashtra,Pune,Shivaji Nagar,"222, Chowk, Shivaji Nagar, Pune",18.4308,73.8436,15000,15000,Private,Double,Girls,0,1,1,1,0,1,1,1,Semi Furnished,2.9,380,Available,OWN0109
+PG00290,Green Home,Maharashtra,Navi Mumbai,Nerul,"15, Marg, Nerul, Navi Mumbai",18.9784,72.999,19600,19500,Private,Single,Girls,1,1,1,1,0,0,0,1,Semi Furnished,4.5,323,Available,OWN0032
+PG00291,Green House,Gujarat,Ahmedabad,Vastrapur,"32, Marg, Vastrapur, Ahmedabad",23.0975,72.5493,8500,25500,Private,Double,Girls,1,0,1,1,0,0,0,1,Fully Furnished,3.8,222,Full,OWN0159
+PG00292,Star Home,Gujarat,Ahmedabad,Navrangpura,"53, Road, Navrangpura, Ahmedabad",23.0142,72.5405,10500,10500,Shared,Double,Girls,0,1,1,0,0,1,0,1,Fully Furnished,3.8,336,Limited,OWN0080
+PG00293,New Girls Hostel,Maharashtra,Mumbai,Vile Parle,"5, Complex, Vile Parle, Mumbai",19.1256,72.8142,14100,42500,Shared,Triple,Boys,0,1,1,1,0,0,1,1,Semi Furnished,5.0,310,Limited,OWN0149
+PG00294,Blue Home,Maharashtra,Mumbai,Ghatkopar,"233, Road, Ghatkopar, Mumbai",19.0969,72.8631,14200,42500,Shared,Triple,Girls,1,1,1,0,0,1,1,1,Fully Furnished,2.8,186,Available,OWN0030
+PG00295,Sai PG,Gujarat,Surat,Ghod Dod Road,"16, Lane, Ghod Dod Road, Surat",21.1152,72.8465,13400,40000,Private,Single,Coed,1,1,1,1,1,0,1,1,Semi Furnished,3.5,110,Available,OWN0062
+PG00296,Vraj Residency,Gujarat,Bhavnagar,Kaliyabid,"61, Colony, Kaliyabid, Bhavnagar",21.7935,72.2313,8600,17000,Shared,Double,Boys,1,1,1,0,0,1,0,1,Fully Furnished,3.3,325,Limited,OWN0033
+PG00297,Golden Heights,Maharashtra,Thane,Manpada,"340, Society, Manpada, Thane",19.2878,72.9258,21500,64500,Private,Single,Coed,1,1,1,1,0,1,1,1,Unfurnished,4.1,21,Available,OWN0052
+PG00298,Ganesh Nivas,Maharashtra,Mumbai,Dadar,"192, Nagar, Dadar, Mumbai",19.0573,72.8428,16300,16500,Shared,Double,Boys,0,1,1,1,0,1,0,1,Fully Furnished,3.2,122,Available,OWN0020
+PG00299,Legacy Residency,Gujarat,Bhavnagar,Waghawadi Road,"142, Lane, Waghawadi Road, Bhavnagar",21.7275,72.1522,8800,17500,Private,Single,Boys,1,1,1,0,1,1,1,0,Semi Furnished,4.0,136,Available,OWN0077
+PG00300,Laxmi Stay,Gujarat,Rajkot,150 Feet Ring Road,"242, Complex, 150 Feet Ring Road, Rajkot",22.3549,70.7849,3800,4000,Dormitory,Dormitory,Coed,1,1,1,0,0,1,0,1,Fully Furnished,4.5,360,Available,OWN0113
+PG00301,Happy Rooms,Maharashtra,Mumbai,Vile Parle,"378, Road, Vile Parle, Mumbai",18.9914,72.8127,9300,18500,Shared,Triple,Boys,0,1,1,1,0,1,1,0,Unfurnished,4.1,412,Limited,OWN0156
+PG00302,Laxmi Residency,Maharashtra,Mumbai,Thane West,"274, Chowk, Thane West, Mumbai",19.1624,72.8245,25500,51000,Private,Single,Girls,1,1,1,1,0,1,1,1,Unfurnished,3.4,122,Available,OWN0135
+PG00303,Urban Retreat,Gujarat,Ahmedabad,Vastrapur,"201, Colony, Vastrapur, Ahmedabad",22.9989,72.4834,7300,7500,Dormitory,Dormitory,Boys,1,0,1,0,0,0,1,1,Semi Furnished,3.5,106,Available,OWN0118
+PG00304,Laxmi Comforts,Gujarat,Rajkot,Kalawad Road,"270, Park, Kalawad Road, Rajkot",22.3923,70.7924,4500,4500,Dormitory,Dormitory,Coed,0,1,0,1,0,0,1,1,Semi Furnished,3.2,130,Available,OWN0159
+PG00305,Nirvana Home,Maharashtra,Nagpur,Trimurti Nagar,"202, Road, Trimurti Nagar, Nagpur",21.125,79.1168,11700,11500,Private,Double,Boys,0,1,1,1,0,1,0,1,Fully Furnished,4.5,169,Available,OWN0043
+PG00306,Zenith Inn,Gujarat,Vadodara,Waghodia Road,"176, Chowk, Waghodia Road, Vadodara",22.2252,73.096,8700,8500,Shared,Double,Boys,1,1,1,1,0,1,0,1,Semi Furnished,4.7,90,Limited,OWN0156
+PG00307,Blue Residency,Gujarat,Ahmedabad,Gota,"344, Road, Gota, Ahmedabad",22.9548,72.6149,10500,31500,Shared,Double,Boys,1,1,0,0,0,0,0,1,Fully Furnished,2.9,5,Available,OWN0097
+PG00308,Golden Stay,Maharashtra,Nagpur,Civil Lines,"216, Road, Civil Lines, Nagpur",21.1232,79.0411,5700,5500,Dormitory,Dormitory,Boys,1,0,1,0,1,1,1,1,Fully Furnished,4.0,100,Limited,OWN0139
+PG00309,City Boys Hostel,Gujarat,Jamnagar,Pandit Nehru Marg,"89, Road, Pandit Nehru Marg, Jamnagar",22.4024,70.0062,11500,23000,Private,Single,Boys,0,1,1,1,0,1,0,1,Fully Furnished,5.0,294,Available,OWN0025
+PG00310,Happy Boys Hostel,Maharashtra,Pune,Pimple Saudagar,"90, Park, Pimple Saudagar, Pune",18.5524,73.9417,5200,15500,Dormitory,Dormitory,Girls,0,1,1,0,0,0,1,1,Semi Furnished,3.1,124,Limited,OWN0063
+PG00311,Star House,Maharashtra,Pune,Hinjewadi,"193, Lane, Hinjewadi, Pune",18.4552,73.8565,17000,34000,Shared,Double,Girls,1,1,1,1,0,1,0,1,Fully Furnished,4.4,178,Available,OWN0139
+PG00312,Om Inn,Gujarat,Ahmedabad,Chandkheda,"267, Park, Chandkheda, Ahmedabad",23.0768,72.6067,13300,13500,Private,Double,Boys,1,0,0,1,1,1,0,1,Fully Furnished,3.7,242,Available,OWN0051
+PG00313,Nirvana Villa,Gujarat,Vadodara,Karelibaug,"326, Lane, Karelibaug, Vadodara",22.3263,73.1458,12100,12000,Private,Double,Boys,1,1,1,1,1,0,1,1,Fully Furnished,3.0,156,Available,OWN0040
+PG00314,Zenith Rooms,Maharashtra,Mumbai,Powai,"193, Complex, Powai, Mumbai",19.0323,72.8712,15700,15500,Shared,Double,Boys,1,0,1,1,0,1,1,1,Fully Furnished,3.5,304,Available,OWN0010
+PG00315,Star Retreat,Maharashtra,Amravati,Rajapeth,"131, Park, Rajapeth, Amravati",20.9167,77.7914,5100,10000,Shared,Double,Girls,0,1,1,0,0,0,1,1,Fully Furnished,3.8,351,Available,OWN0064
+PG00316,Ganesh Inn,Maharashtra,Pune,Aundh,"362, Society, Aundh, Pune",18.4326,73.9055,15200,30500,Shared,Double,Girls,1,1,0,1,0,0,0,0,Fully Furnished,4.1,411,Available,OWN0037
+PG00317,Modern Stay,Gujarat,Vadodara,Manjalpur,"87, Marg, Manjalpur, Vadodara",22.3846,73.1628,20800,41500,Private,Single,Girls,1,1,1,1,1,0,1,1,Fully Furnished,2.9,96,Limited,OWN0050
+PG00318,Silver Nivas,Gujarat,Vadodara,Vasna,"41, Nagar, Vasna, Vadodara",22.2965,73.2555,10700,21500,Private,Single,Boys,1,0,1,1,0,0,0,1,Fully Furnished,4.5,195,Limited,OWN0069
+PG00319,Metro Girls Hostel,Maharashtra,Solapur,Vijapur Road,"350, Park, Vijapur Road, Solapur",17.7061,75.9252,4300,8500,Dormitory,Dormitory,Girls,0,0,0,0,1,0,1,1,Unfurnished,2.9,65,Full,OWN0072
+PG00320,Nova Retreat,Maharashtra,Navi Mumbai,Panvel,"339, Lane, Panvel, Navi Mumbai",19.0897,73.006,10600,21000,Private,Double,Coed,0,0,1,1,1,1,0,1,Fully Furnished,4.9,246,Full,OWN0026
+PG00321,Harmony PG,Maharashtra,Nagpur,Wardha Road,"66, Marg, Wardha Road, Nagpur",21.1651,79.1263,13200,26500,Shared,Double,Girls,0,1,1,1,1,0,1,1,Unfurnished,2.9,170,Full,OWN0072
+PG00322,Cozy House,Gujarat,Vadodara,Fatehgunj,"274, Marg, Fatehgunj, Vadodara",22.3371,73.2625,7800,15500,Private,Double,Coed,0,1,1,1,0,0,1,1,Fully Furnished,3.4,60,Available,OWN0152
+PG00323,Happy Boys Hostel,Maharashtra,Navi Mumbai,Kopar Khairane,"195, Road, Kopar Khairane, Navi Mumbai",19.1126,73.0428,21800,43500,Private,Single,Boys,0,0,0,1,0,1,1,1,Semi Furnished,3.5,420,Full,OWN0057
+PG00324,Comfort Boys Hostel,Maharashtra,Mumbai,Kurla,"159, Complex, Kurla, Mumbai",19.0125,72.8387,11600,11500,Dormitory,Dormitory,Boys,1,1,1,0,0,0,1,1,Semi Furnished,4.3,29,Full,OWN0046
+PG00325,Blue Stay,Maharashtra,Thane,Majiwada,"281, Chowk, Majiwada, Thane",19.1988,73.0653,12600,38000,Private,Double,Coed,0,1,0,0,0,1,1,1,Semi Furnished,2.9,366,Available,OWN0042
+PG00326,Prime Palace,Maharashtra,Mumbai,Kurla,"112, Lane, Kurla, Mumbai",19.1113,72.8401,17000,17000,Shared,Double,Girls,1,0,1,1,1,1,1,0,Fully Furnished,3.9,176,Available,OWN0039
+PG00327,Laxmi Heights,Maharashtra,Pune,Pimple Saudagar,"155, Colony, Pimple Saudagar, Pune",18.4745,73.7881,20600,41000,Shared,Double,Girls,0,1,1,1,0,1,1,1,Semi Furnished,3.9,14,Available,OWN0147
+PG00328,Nova Retreat,Maharashtra,Mumbai,Malad,"153, Colony, Malad, Mumbai",19.129,72.8203,24500,24500,Private,Single,Coed,1,0,1,1,1,0,1,1,Semi Furnished,4.5,109,Full,OWN0031
+PG00329,Divine Boys Hostel,Gujarat,Surat,Nana Varachha,"63, Road, Nana Varachha, Surat",21.2053,72.7421,17600,17500,Private,Single,Boys,1,1,1,0,1,0,1,1,Fully Furnished,4.9,403,Available,OWN0137
+PG00330,City Palace,Maharashtra,Mumbai,Santacruz,"353, Society, Santacruz, Mumbai",19.1111,72.8818,10900,11000,Shared,Double,Boys,0,1,1,1,1,1,1,1,Fully Furnished,4.8,207,Available,OWN0066
+PG00331,Radha Palace,Maharashtra,Pune,Wakad,"366, Park, Wakad, Pune",18.5269,73.7794,8600,8500,Shared,Triple,Girls,1,0,1,0,1,1,1,1,Fully Furnished,3.5,48,Available,OWN0086
+PG00332,Royal Home,Maharashtra,Nashik,Gangapur Road,"194, Lane, Gangapur Road, Nashik",20.0639,73.7404,14200,28500,Private,Single,Coed,0,0,1,1,0,1,1,1,Fully Furnished,3.5,387,Available,OWN0089
+PG00333,Laxmi Heights,Maharashtra,Nashik,Sharanpur Road,"304, Colony, Sharanpur Road, Nashik",20.0817,73.7955,8000,24000,Private,Double,Girls,0,1,1,0,0,1,1,1,Fully Furnished,5.0,411,Available,OWN0074
+PG00334,Om Rooms,Gujarat,Rajkot,Mavdi,"326, Society, Mavdi, Rajkot",22.3076,70.8415,4400,4500,Dormitory,Dormitory,Boys,1,1,1,1,1,1,0,1,Fully Furnished,4.9,349,Available,OWN0035
+PG00335,Legacy Home,Maharashtra,Mumbai,Jogeshwari,"208, Road, Jogeshwari, Mumbai",19.1093,72.9095,15200,45500,Shared,Triple,Girls,0,1,1,0,0,0,1,1,Semi Furnished,4.9,348,Full,OWN0135
+PG00336,Sunshine Girls Hostel,Maharashtra,Kolhapur,Tarabai Park,"27, Chowk, Tarabai Park, Kolhapur",16.6285,74.3044,7900,8000,Shared,Double,Coed,0,0,0,1,0,1,1,1,Fully Furnished,4.8,332,Available,OWN0010
+PG00337,Royal Villa,Maharashtra,Navi Mumbai,Airoli,"169, Nagar, Airoli, Navi Mumbai",19.0957,72.95,14000,14000,Private,Single,Coed,1,1,1,1,1,1,1,1,Semi Furnished,3.3,205,Available,OWN0094
+PG00338,Divine Villa,Gujarat,Nadiad,College Road,"83, Colony, College Road, Nadiad",22.7005,72.8203,8200,16500,Private,Single,Boys,1,1,1,0,1,1,1,1,Fully Furnished,3.7,284,Available,OWN0033
+PG00339,Ganesh House,Gujarat,Gandhinagar,Sector 16,"57, Society, Sector 16, Gandhinagar",23.2159,72.7131,4900,5000,Shared,Double,Boys,1,0,1,1,1,1,1,1,Fully Furnished,4.2,376,Available,OWN0064
+PG00340,Star Heights,Gujarat,Rajkot,Kalawad Road,"362, Society, Kalawad Road, Rajkot",22.3695,70.8912,9600,9500,Shared,Double,Boys,1,1,1,0,0,1,1,1,Fully Furnished,3.7,159,Limited,OWN0060
+PG00341,Elite Rooms,Gujarat,Vadodara,Vasna,"57, Nagar, Vasna, Vadodara",22.3035,73.183,10200,10000,Private,Double,Girls,1,1,1,1,1,1,1,1,Fully Furnished,3.9,174,Available,OWN0025
+PG00342,Sai Girls Hostel,Maharashtra,Pune,Wakad,"122, Nagar, Wakad, Pune",18.49,73.9001,17300,52000,Private,Single,Coed,1,1,0,1,1,0,0,1,Fully Furnished,3.6,374,Available,OWN0052
+PG00343,Nest Living,Maharashtra,Mumbai,Kandivali,"389, Complex, Kandivali, Mumbai",18.9939,72.8222,9400,9500,Dormitory,Dormitory,Coed,0,1,1,0,0,1,1,1,Fully Furnished,2.9,292,Available,OWN0049
+PG00344,Sunshine Residency,Maharashtra,Nagpur,Sitabuldi,"85, Marg, Sitabuldi, Nagpur",21.1449,79.094,13300,13500,Shared,Double,Girls,1,1,1,1,0,0,1,1,Fully Furnished,3.5,115,Available,OWN0069
+PG00345,New PG,Maharashtra,Mumbai,Powai,"328, Colony, Powai, Mumbai",19.0263,72.8837,5600,5500,Dormitory,Dormitory,Boys,0,1,0,1,1,1,1,1,Fully Furnished,4.4,284,Available,OWN0035
+PG00346,Royal Girls Hostel,Gujarat,Anand,Sardar Gunj,"113, Nagar, Sardar Gunj, Anand",22.5329,72.8492,8500,17000,Private,Double,Girls,0,1,1,1,1,1,1,1,Semi Furnished,4.7,205,Available,OWN0060
+PG00347,Golden Heights,Maharashtra,Nagpur,Sitabuldi,"93, Marg, Sitabuldi, Nagpur",21.1222,79.1606,15800,16000,Private,Double,Boys,0,1,1,1,0,1,1,1,Fully Furnished,4.8,209,Available,OWN0135
+PG00348,Sunrise Home,Gujarat,Surat,Adajan,"7, Road, Adajan, Surat",21.1888,72.8091,7100,7000,Private,Double,Boys,0,1,1,1,0,1,1,1,Fully Furnished,3.2,172,Available,OWN0063
+PG00349,Comfort Home,Gujarat,Ahmedabad,Bopal,"279, Nagar, Bopal, Ahmedabad",23.0454,72.5036,7100,7000,Private,Double,Boys,1,1,1,1,0,0,1,1,Unfurnished,3.9,59,Available,OWN0073
+PG00350,Golden PG,Gujarat,Bhavnagar,Kaliyabid,"310, Colony, Kaliyabid, Bhavnagar",21.6958,72.2281,10900,22000,Private,Single,Girls,0,1,0,1,0,1,1,0,Semi Furnished,4.5,79,Limited,OWN0038
+PG00351,Nova Residency,Gujarat,Gandhinagar,Sector 16,"58, Chowk, Sector 16, Gandhinagar",23.206,72.6903,2700,2500,Dormitory,Dormitory,Boys,1,1,1,1,0,1,0,1,Semi Furnished,4.2,128,Available,OWN0141
+PG00352,Om Inn,Maharashtra,Mumbai,Vile Parle,"43, Chowk, Vile Parle, Mumbai",19.0747,72.8842,10000,10000,Shared,Triple,Girls,1,1,0,1,0,1,1,0,Fully Furnished,4.7,401,Limited,OWN0076
+PG00353,Shree Palace,Maharashtra,Mumbai,Vile Parle,"115, Road, Vile Parle, Mumbai",19.1609,72.952,11100,11000,Shared,Double,Girls,0,1,1,1,0,1,1,1,Fully Furnished,3.1,128,Available,OWN0146
+PG00354,Happy Rooms,Maharashtra,Thane,Kolshet Road,"241, Chowk, Kolshet Road, Thane",19.1552,72.9209,6400,6500,Shared,Double,Girls,1,1,1,1,1,1,1,0,Fully Furnished,4.4,135,Full,OWN0129
+PG00355,Golden Inn,Gujarat,Rajkot,University Road,"65, Lane, University Road, Rajkot",22.2902,70.7404,14000,14000,Private,Single,Boys,0,1,1,1,0,1,0,1,Fully Furnished,3.0,42,Available,OWN0086
+PG00356,Shanti Stay,Gujarat,Ahmedabad,Gota,"388, Nagar, Gota, Ahmedabad",22.9618,72.5006,14700,44000,Private,Single,Coed,0,1,1,1,0,0,1,1,Fully Furnished,3.7,102,Available,OWN0101
+PG00357,Maruti Home,Maharashtra,Nagpur,Manish Nagar,"258, Colony, Manish Nagar, Nagpur",21.1823,79.0157,6800,7000,Private,Double,Girls,0,1,1,0,1,1,1,1,Semi Furnished,5.0,259,Available,OWN0156
+PG00358,New Girls Hostel,Maharashtra,Pune,Kondhwa,"320, Chowk, Kondhwa, Pune",18.5109,73.7903,12200,36500,Private,Double,Girls,0,0,1,0,1,1,0,1,Semi Furnished,4.6,47,Available,OWN0117
+PG00359,Sai Girls Hostel,Gujarat,Rajkot,150 Feet Ring Road,"46, Society, 150 Feet Ring Road, Rajkot",22.243,70.7626,9200,18500,Private,Double,Boys,0,1,1,1,1,0,1,0,Unfurnished,3.1,190,Available,OWN0160
+PG00360,Divine Living,Maharashtra,Navi Mumbai,Kharghar,"350, Road, Kharghar, Navi Mumbai",18.958,73.0141,8300,25000,Shared,Triple,Girls,1,0,1,1,0,1,1,1,Fully Furnished,3.8,331,Available,OWN0120
+PG00361,Laxmi Retreat,Gujarat,Ahmedabad,Paldi,"103, Chowk, Paldi, Ahmedabad",23.0642,72.6465,20000,40000,Private,Single,Coed,1,1,1,0,1,1,1,0,Semi Furnished,2.9,416,Available,OWN0111
+PG00362,Vraj Living,Maharashtra,Navi Mumbai,Nerul,"130, Colony, Nerul, Navi Mumbai",18.9527,73.0959,18800,37500,Private,Single,Boys,0,1,1,1,0,1,0,1,Semi Furnished,3.2,181,Full,OWN0124
+PG00363,Nirvana Inn,Maharashtra,Mumbai,Powai,"6, Complex, Powai, Mumbai",19.1598,72.8663,15300,15500,Shared,Triple,Boys,1,0,0,0,0,1,1,1,Fully Furnished,4.7,61,Limited,OWN0105
+PG00364,Happy Villa,Gujarat,Vadodara,Alkapuri,"328, Society, Alkapuri, Vadodara",22.3951,73.261,9400,9500,Private,Double,Boys,1,0,0,1,1,0,1,0,Fully Furnished,4.7,361,Available,OWN0117
+PG00365,Harmony Boys Hostel,Gujarat,Mehsana,Radhanpur Road,"59, Colony, Radhanpur Road, Mehsana",23.5614,72.3769,5900,12000,Shared,Double,Girls,1,1,1,1,0,0,0,1,Fully Furnished,4.6,48,Limited,OWN0158
+PG00366,Legacy Home,Maharashtra,Solapur,Railway Lines,"325, Marg, Railway Lines, Solapur",17.6593,75.9517,5500,11000,Shared,Triple,Girls,0,1,0,0,0,0,1,0,Semi Furnished,4.5,205,Available,OWN0096
+PG00367,Maruti Comforts,Maharashtra,Nashik,Panchavati,"3, Chowk, Panchavati, Nashik",19.9585,73.8581,16800,50500,Private,Single,Girls,0,1,0,1,0,0,0,1,Fully Furnished,4.2,375,Available,OWN0082
+PG00368,Happy Home,Maharashtra,Mumbai,Vikhroli,"324, Chowk, Vikhroli, Mumbai",19.0276,72.9155,12300,24500,Shared,Triple,Boys,1,1,1,1,0,1,1,0,Fully Furnished,3.6,383,Limited,OWN0117
+PG00369,Om Rooms,Maharashtra,Pune,Magarpatta,"100, Complex, Magarpatta, Pune",18.464,73.8842,12200,12000,Shared,Triple,Girls,1,0,1,1,0,1,1,1,Fully Furnished,3.4,95,Available,OWN0127
+PG00370,Sunrise Retreat,Maharashtra,Thane,Naupada,"38, Marg, Naupada, Thane",19.1986,72.9765,7000,14000,Dormitory,Dormitory,Boys,0,1,1,1,0,0,1,0,Fully Furnished,3.6,180,Available,OWN0158
+PG00371,Cozy Palace,Maharashtra,Pune,Kothrud,"311, Road, Kothrud, Pune",18.4589,73.9002,13500,13500,Shared,Double,Girls,0,1,1,1,0,1,1,1,Fully Furnished,4.4,336,Available,OWN0127
+PG00372,Star Living,Gujarat,Nadiad,Station Road,"202, Society, Station Road, Nadiad",22.7699,72.8168,5200,10500,Shared,Triple,Boys,1,1,1,1,0,1,1,1,Fully Furnished,4.8,35,Available,OWN0009
+PG00373,Harmony Girls Hostel,Maharashtra,Navi Mumbai,Kharghar,"204, Road, Kharghar, Navi Mumbai",19.0486,72.9925,9300,9500,Private,Double,Girls,1,1,1,1,1,0,1,1,Semi Furnished,3.5,122,Available,OWN0099
+PG00374,Radha Residency,Gujarat,Rajkot,University Road,"294, Chowk, University Road, Rajkot",22.3088,70.7307,5800,11500,Shared,Double,Girls,1,0,1,1,1,1,1,1,Fully Furnished,4.2,297,Full,OWN0119
+PG00375,Legacy PG,Gujarat,Rajkot,Raiya Road,"173, Road, Raiya Road, Rajkot",22.3879,70.7189,9800,19500,Private,Single,Girls,1,1,1,1,0,0,1,1,Unfurnished,3.1,194,Full,OWN0027
+PG00376,Om Nivas,Gujarat,Ahmedabad,Vastrapur,"46, Lane, Vastrapur, Ahmedabad",23.0811,72.5064,5500,5500,Shared,Triple,Girls,1,0,1,0,1,1,1,1,Fully Furnished,3.2,73,Available,OWN0031
+PG00377,Maruti Villa,Gujarat,Surat,Piplod,"343, Society, Piplod, Surat",21.2157,72.9009,15900,32000,Shared,Double,Girls,0,1,1,0,0,1,0,1,Semi Furnished,4.7,358,Available,OWN0127
+PG00378,Ganesh Palace,Gujarat,Ahmedabad,Navrangpura,"250, Society, Navrangpura, Ahmedabad",23.0532,72.5657,16000,32000,Private,Double,Girls,0,1,0,1,1,0,1,1,Semi Furnished,3.2,207,Available,OWN0072
+PG00379,Silver House,Gujarat,Mehsana,Modhera Road,"237, Society, Modhera Road, Mehsana",23.5533,72.4359,5800,11500,Shared,Double,Coed,0,1,1,0,1,1,1,1,Fully Furnished,2.9,142,Available,OWN0013
+PG00380,Sky Living,Maharashtra,Pune,Katraj,"272, Marg, Katraj, Pune",18.4653,73.8008,14300,14500,Shared,Double,Boys,1,0,1,1,0,1,0,1,Fully Furnished,3.7,115,Limited,OWN0069
+PG00381,New Rooms,Maharashtra,Mumbai,Powai,"376, Road, Powai, Mumbai",19.1274,72.8503,26800,27000,Private,Single,Girls,1,1,1,1,0,0,1,1,Fully Furnished,4.9,42,Available,OWN0003
+PG00382,Shree Heights,Maharashtra,Pune,Deccan Gymkhana,"57, Road, Deccan Gymkhana, Pune",18.5354,73.8546,9600,9500,Shared,Triple,Coed,0,0,1,0,0,1,1,1,Semi Furnished,3.4,237,Available,OWN0091
+PG00383,Nova Home,Gujarat,Rajkot,150 Feet Ring Road,"139, Complex, 150 Feet Ring Road, Rajkot",22.3743,70.8516,6500,6500,Shared,Double,Coed,1,1,1,1,0,1,1,0,Fully Furnished,3.0,143,Full,OWN0140
+PG00384,Sky Living,Maharashtra,Kolhapur,Kawala Naka,"348, Park, Kawala Naka, Kolhapur",16.7927,74.311,6500,6500,Shared,Double,Boys,0,1,0,1,0,1,0,1,Fully Furnished,2.8,353,Available,OWN0039
+PG00385,Modern Heights,Maharashtra,Mumbai,Chembur,"148, Society, Chembur, Mumbai",19.0983,72.9073,14500,14500,Shared,Double,Boys,1,1,1,1,1,1,1,1,Semi Furnished,4.3,396,Available,OWN0023
+PG00386,Golden Rooms,Maharashtra,Pune,Wakad,"113, Road, Wakad, Pune",18.6097,73.8021,19000,38000,Shared,Double,Girls,0,1,1,1,0,1,1,1,Semi Furnished,4.3,105,Available,OWN0107
+PG00387,Zenith Nivas,Maharashtra,Mumbai,Chembur,"193, Chowk, Chembur, Mumbai",19.0409,72.8412,28900,58000,Private,Single,Girls,1,1,1,1,1,1,0,1,Semi Furnished,4.2,157,Limited,OWN0149
+PG00388,Laxmi House,Maharashtra,Mumbai,Kandivali,"207, Road, Kandivali, Mumbai",19.0978,72.9497,6600,13000,Shared,Triple,Girls,0,1,1,1,1,1,1,1,Semi Furnished,4.3,381,Limited,OWN0053
+PG00389,Om House,Maharashtra,Mumbai,Vile Parle,"155, Nagar, Vile Parle, Mumbai",19.1193,72.8769,15100,15000,Shared,Triple,Girls,1,1,0,1,1,1,1,1,Fully Furnished,4.8,156,Available,OWN0048
+PG00390,Divine Home,Maharashtra,Thane,Manpada,"222, Colony, Manpada, Thane",19.1751,72.9984,9800,29500,Shared,Double,Girls,1,1,1,1,0,1,1,1,Semi Furnished,3.8,419,Available,OWN0008
+PG00391,Modern PG,Gujarat,Rajkot,Kalawad Road,"331, Marg, Kalawad Road, Rajkot",22.3155,70.7142,9000,18000,Private,Double,Coed,1,0,1,0,0,1,1,1,Fully Furnished,4.2,183,Limited,OWN0145
+PG00392,Modern Inn,Gujarat,Gandhinagar,Sector 28,"35, Marg, Sector 28, Gandhinagar",23.2802,72.5721,14600,44000,Private,Single,Girls,0,1,1,1,0,1,1,1,Fully Furnished,4.7,84,Available,OWN0028
+PG00393,Shree Home,Maharashtra,Mumbai,Santacruz,"90, Chowk, Santacruz, Mumbai",19.0443,72.8294,18100,18000,Shared,Double,Boys,0,1,1,1,0,0,1,1,Fully Furnished,5.0,296,Available,OWN0051
+PG00394,Blue Retreat,Gujarat,Vadodara,Akota,"271, Lane, Akota, Vadodara",22.3394,73.1318,11200,11000,Private,Single,Coed,0,1,1,1,1,1,0,0,Semi Furnished,3.9,109,Available,OWN0122
+PG00395,Happy Residency,Maharashtra,Mumbai,Mulund,"225, Chowk, Mulund, Mumbai",19.0973,72.8883,8900,18000,Shared,Triple,Girls,1,1,1,1,1,0,1,1,Fully Furnished,3.6,83,Full,OWN0020
+PG00396,Sunshine Rooms,Maharashtra,Mumbai,Dadar,"205, Road, Dadar, Mumbai",19.1396,72.9554,10400,10500,Shared,Triple,Girls,1,1,1,0,1,1,0,0,Semi Furnished,4.7,123,Available,OWN0145
+PG00397,Maruti Residency,Maharashtra,Kolhapur,Rajarampuri,"283, Marg, Rajarampuri, Kolhapur",16.6773,74.166,2300,4500,Dormitory,Dormitory,Boys,1,1,1,1,0,0,1,1,Semi Furnished,4.6,276,Limited,OWN0098
+PG00398,Ganesh House,Maharashtra,Pune,Kothrud,"221, Chowk, Kothrud, Pune",18.5298,73.7761,20900,42000,Shared,Double,Boys,1,1,0,1,1,1,1,1,Semi Furnished,4.0,26,Full,OWN0004
+PG00399,Happy Villa,Maharashtra,Chhatrapati Sambhajinagar,Garkheda,"93, Nagar, Garkheda, Chhatrapati Sambhajinagar",19.9325,75.2671,11000,11000,Private,Single,Girls,0,1,1,1,1,1,1,1,Fully Furnished,4.8,115,Available,OWN0078
+PG00400,Shree Living,Maharashtra,Navi Mumbai,Panvel,"164, Complex, Panvel, Navi Mumbai",19.0423,73.0961,13800,14000,Shared,Double,Coed,0,0,1,1,0,1,0,1,Fully Furnished,3.3,228,Limited,OWN0117
+PG00401,Radha Inn,Maharashtra,Navi Mumbai,Vashi,"154, Society, Vashi, Navi Mumbai",19.0328,72.9458,7300,14500,Private,Double,Boys,1,1,1,1,0,0,1,1,Unfurnished,4.8,389,Full,OWN0068
+PG00402,Vraj Retreat,Maharashtra,Nashik,Panchavati,"374, Road, Panchavati, Nashik",19.9465,73.7047,9200,27500,Shared,Triple,Coed,1,1,1,1,1,1,0,0,Fully Furnished,2.8,412,Limited,OWN0071
+PG00403,Nirvana Inn,Gujarat,Ahmedabad,Chandkheda,"20, Nagar, Chandkheda, Ahmedabad",23.0713,72.5346,6200,18500,Private,Double,Girls,0,0,0,1,1,1,1,1,Semi Furnished,4.0,212,Available,OWN0021
+PG00404,Divine Nivas,Gujarat,Rajkot,Race Course,"133, Nagar, Race Course, Rajkot",22.3132,70.8838,8100,24500,Private,Single,Boys,0,1,1,1,0,1,1,1,Fully Furnished,4.9,135,Full,OWN0005
+PG00405,Shree Girls Hostel,Maharashtra,Pune,Magarpatta,"56, Society, Magarpatta, Pune",18.5277,73.7748,11900,24000,Shared,Double,Boys,0,1,1,1,1,1,1,1,Unfurnished,4.8,194,Available,OWN0076
+PG00406,Prime Stay,Maharashtra,Pune,Aundh,"55, Lane, Aundh, Pune",18.4967,73.8191,18300,36500,Shared,Double,Girls,0,1,1,1,1,0,1,0,Unfurnished,5.0,292,Available,OWN0148
+PG00407,Harmony PG,Maharashtra,Pune,Katraj,"311, Marg, Katraj, Pune",18.5274,73.7885,13000,26000,Shared,Double,Boys,0,1,1,0,1,1,0,1,Fully Furnished,4.9,212,Available,OWN0091
+PG00408,Om Villa,Maharashtra,Mumbai,Borivali,"215, Lane, Borivali, Mumbai",19.1506,72.9053,12400,25000,Shared,Triple,Boys,0,1,1,0,0,1,1,1,Fully Furnished,3.9,398,Available,OWN0047
+PG00409,Nest Heights,Maharashtra,Chhatrapati Sambhajinagar,CIDCO,"381, Society, CIDCO, Chhatrapati Sambhajinagar",19.8162,75.3287,10000,10000,Private,Single,Girls,1,1,1,1,1,0,1,1,Fully Furnished,4.6,175,Available,OWN0158
+PG00410,Divine Retreat,Gujarat,Ahmedabad,Vastrapur,"323, Marg, Vastrapur, Ahmedabad",22.9458,72.6471,9100,27500,Shared,Double,Girls,0,0,1,0,0,1,1,1,Fully Furnished,3.9,304,Available,OWN0025
+PG00411,Harmony Retreat,Gujarat,Vadodara,Akota,"147, Park, Akota, Vadodara",22.2786,73.1927,7600,7500,Private,Double,Coed,1,1,0,1,0,1,1,1,Fully Furnished,3.2,135,Full,OWN0028
+PG00412,Nest Nivas,Maharashtra,Solapur,Saat Rasta,"15, Road, Saat Rasta, Solapur",17.6201,75.8337,2800,3000,Dormitory,Dormitory,Girls,1,1,0,1,0,1,1,0,Semi Furnished,4.8,64,Available,OWN0111
+PG00413,Cozy Girls Hostel,Maharashtra,Mumbai,Borivali,"41, Lane, Borivali, Mumbai",19.1416,72.9665,13400,40000,Shared,Double,Girls,0,1,1,0,1,1,1,1,Fully Furnished,4.0,323,Available,OWN0163
+PG00414,Om Palace,Maharashtra,Pune,Kharadi,"136, Marg, Kharadi, Pune",18.455,73.8344,12600,12500,Private,Double,Girls,0,0,1,1,1,1,1,1,Fully Furnished,3.4,197,Limited,OWN0061
+PG00415,Modern Comforts,Maharashtra,Pune,Deccan Gymkhana,"150, Marg, Deccan Gymkhana, Pune",18.5259,73.9385,13400,13500,Shared,Triple,Girls,1,0,0,0,0,1,1,1,Fully Furnished,4.9,341,Available,OWN0102
+PG00416,Maruti Comforts,Maharashtra,Pune,Deccan Gymkhana,"15, Nagar, Deccan Gymkhana, Pune",18.5816,73.9222,20800,41500,Private,Single,Coed,1,1,1,1,0,0,1,1,Fully Furnished,4.6,160,Available,OWN0057
+PG00417,Cozy Boys Hostel,Maharashtra,Mumbai,Powai,"67, Complex, Powai, Mumbai",19.0825,72.928,11100,22000,Private,Double,Girls,0,0,1,1,0,1,1,1,Fully Furnished,4.7,120,Available,OWN0042
+PG00418,Shree Stay,Maharashtra,Kolhapur,Shivaji University Road,"19, Road, Shivaji University Road, Kolhapur",16.6894,74.2528,7700,15500,Shared,Double,Girls,1,1,1,1,1,1,0,1,Fully Furnished,4.4,141,Full,OWN0020
+PG00419,Legacy House,Gujarat,Ahmedabad,Ellisbridge,"49, Chowk, Ellisbridge, Ahmedabad",22.9361,72.6151,11600,11500,Private,Double,Boys,1,1,1,0,0,1,1,1,Fully Furnished,3.4,148,Full,OWN0137
+PG00420,Laxmi Girls Hostel,Maharashtra,Mumbai,Thane West,"391, Complex, Thane West, Mumbai",18.9891,72.8772,9200,9000,Shared,Double,Girls,1,1,1,1,1,1,1,1,Fully Furnished,4.9,306,Available,OWN0037
+PG00421,Om PG,Gujarat,Anand,Anand-Vidyanagar Road,"393, Marg, Anand-Vidyanagar Road, Anand",22.5687,72.99,7500,22500,Private,Single,Boys,0,0,1,1,0,1,1,0,Fully Furnished,3.8,250,Available,OWN0021
+PG00422,Royal Nivas,Maharashtra,Solapur,Vijapur Road,"267, Society, Vijapur Road, Solapur",17.6958,75.884,8000,16000,Private,Single,Coed,1,0,1,0,0,1,1,1,Fully Furnished,4.8,349,Available,OWN0083
+PG00423,New Palace,Maharashtra,Pune,Magarpatta,"315, Park, Magarpatta, Pune",18.5319,73.7966,15600,15500,Shared,Double,Girls,1,1,1,1,1,1,0,1,Semi Furnished,3.2,51,Available,OWN0085
+PG00424,City Stay,Gujarat,Ahmedabad,Ambawadi,"99, Nagar, Ambawadi, Ahmedabad",23.0395,72.4934,11200,22500,Private,Double,Girls,0,1,1,1,0,1,1,1,Semi Furnished,3.1,270,Available,OWN0099
+PG00425,Nova Palace,Gujarat,Gandhinagar,Infocity,"87, Road, Infocity, Gandhinagar",23.2345,72.7209,6500,6500,Shared,Triple,Boys,1,1,1,0,1,0,1,1,Fully Furnished,4.5,126,Available,OWN0097
+PG00426,Harmony Boys Hostel,Maharashtra,Nashik,Sharanpur Road,"272, Society, Sharanpur Road, Nashik",19.9929,73.7559,8800,17500,Shared,Triple,Coed,0,1,1,1,0,1,1,1,Fully Furnished,3.8,346,Available,OWN0109
+PG00427,Star Inn,Gujarat,Vadodara,Waghodia Road,"192, Colony, Waghodia Road, Vadodara",22.3749,73.2569,5200,15500,Dormitory,Dormitory,Coed,1,1,1,0,0,1,1,1,Semi Furnished,4.2,206,Available,OWN0065
+PG00428,Nova Villa,Gujarat,Rajkot,Kalawad Road,"252, Colony, Kalawad Road, Rajkot",22.3887,70.8604,3500,3500,Shared,Triple,Girls,0,1,1,1,0,1,0,1,Fully Furnished,4.4,163,Available,OWN0140
+PG00429,Sunrise Boys Hostel,Gujarat,Rajkot,Raiya Road,"345, Park, Raiya Road, Rajkot",22.2489,70.8227,7500,15000,Shared,Double,Coed,1,1,1,1,0,1,1,1,Fully Furnished,4.1,355,Available,OWN0045
+PG00430,Cozy Boys Hostel,Maharashtra,Pune,Kothrud,"239, Society, Kothrud, Pune",18.4864,73.8676,9800,10000,Shared,Double,Boys,1,1,0,0,0,1,1,1,Semi Furnished,3.3,351,Limited,OWN0049
+PG00431,New Nivas,Maharashtra,Nagpur,Manish Nagar,"143, Colony, Manish Nagar, Nagpur",21.1117,79.0665,11800,12000,Shared,Double,Girls,0,1,1,1,0,1,0,1,Semi Furnished,4.3,90,Available,OWN0150
+PG00432,New Palace,Gujarat,Jamnagar,Digvijay Plot,"176, Complex, Digvijay Plot, Jamnagar",22.5596,70.0458,7000,14000,Shared,Triple,Boys,1,1,0,1,0,1,1,1,Semi Furnished,4.2,20,Available,OWN0027
+PG00433,Metro Home,Maharashtra,Pune,Kothrud,"96, Park, Kothrud, Pune",18.459,73.8523,13800,41500,Private,Single,Boys,1,1,1,1,0,1,1,1,Semi Furnished,3.5,122,Limited,OWN0130
+PG00434,Laxmi Stay,Gujarat,Ahmedabad,Ellisbridge,"84, Complex, Ellisbridge, Ahmedabad",23.0718,72.6531,16400,49000,Private,Single,Girls,0,1,1,0,0,1,0,1,Fully Furnished,3.2,3,Limited,OWN0052
+PG00435,Shanti Retreat,Maharashtra,Chhatrapati Sambhajinagar,Jalna Road,"47, Lane, Jalna Road, Chhatrapati Sambhajinagar",19.8416,75.2865,6800,13500,Private,Single,Girls,1,1,1,1,0,1,1,1,Unfurnished,3.7,165,Limited,OWN0035
+PG00436,Vraj Inn,Gujarat,Anand,Sardar Gunj,"274, Society, Sardar Gunj, Anand",22.6361,72.9865,4500,13500,Private,Double,Coed,1,1,1,1,1,1,1,1,Fully Furnished,3.9,25,Available,OWN0112
+PG00437,New Rooms,Gujarat,Ahmedabad,CG Road,"199, Marg, CG Road, Ahmedabad",23.0502,72.558,9000,27000,Private,Double,Girls,0,1,1,1,1,0,0,1,Fully Furnished,4.1,199,Limited,OWN0003
+PG00438,Vraj Living,Maharashtra,Mumbai,Thane West,"380, Society, Thane West, Mumbai",19.062,72.7975,12200,24500,Shared,Triple,Girls,0,0,1,1,0,0,0,1,Fully Furnished,4.9,365,Available,OWN0051
+PG00439,Comfort Home,Maharashtra,Mumbai,Kurla,"251, Marg, Kurla, Mumbai",19.0643,72.8714,12900,26000,Private,Double,Girls,0,1,1,1,0,1,1,1,Fully Furnished,4.4,275,Limited,OWN0064
+PG00440,Serene Retreat,Gujarat,Surat,Pal,"141, Park, Pal, Surat",21.0972,72.8719,6700,20000,Dormitory,Dormitory,Girls,0,1,1,1,0,0,0,1,Fully Furnished,4.4,175,Full,OWN0078
+PG00441,Golden Retreat,Gujarat,Mehsana,Highway Road,"60, Lane, Highway Road, Mehsana",23.5311,72.4137,7300,7500,Shared,Triple,Girls,0,1,1,1,0,1,1,1,Fully Furnished,2.9,207,Full,OWN0073
+PG00442,Happy Living,Gujarat,Rajkot,Mavdi,"137, Marg, Mavdi, Rajkot",22.2512,70.853,4400,9000,Shared,Triple,Boys,1,1,1,1,0,1,1,1,Fully Furnished,4.0,178,Available,OWN0089
+PG00443,Shanti Nivas,Maharashtra,Thane,Naupada,"345, Chowk, Naupada, Thane",19.2115,73.0218,12100,36500,Private,Single,Coed,0,1,1,1,0,0,1,1,Fully Furnished,4.1,322,Available,OWN0111
+PG00444,Serene Comforts,Gujarat,Mehsana,Highway Road,"193, Complex, Highway Road, Mehsana",23.6332,72.3304,5200,5000,Private,Double,Coed,0,1,1,1,0,0,1,1,Semi Furnished,3.7,309,Available,OWN0093
+PG00445,Om Inn,Maharashtra,Pune,Kondhwa,"254, Marg, Kondhwa, Pune",18.5208,73.8626,11700,11500,Private,Double,Boys,1,1,1,1,0,1,1,0,Fully Furnished,4.2,319,Available,OWN0157
+PG00446,Sunrise Boys Hostel,Maharashtra,Pune,Baner,"313, Lane, Baner, Pune",18.5383,73.8985,13600,41000,Private,Double,Girls,0,1,1,0,0,1,1,0,Fully Furnished,4.9,105,Available,OWN0076
+PG00447,Shree Villa,Gujarat,Ahmedabad,Navrangpura,"124, Colony, Navrangpura, Ahmedabad",22.9698,72.5644,5100,10000,Dormitory,Dormitory,Girls,0,0,1,0,1,0,1,1,Fully Furnished,3.8,200,Available,OWN0107
+PG00448,Legacy Stay,Maharashtra,Navi Mumbai,Kopar Khairane,"225, Marg, Kopar Khairane, Navi Mumbai",19.0397,73.0685,7000,21000,Shared,Double,Girls,0,1,1,1,0,0,1,1,Semi Furnished,3.6,339,Available,OWN0063
+PG00449,Green Villa,Maharashtra,Nashik,Gangapur Road,"364, Marg, Gangapur Road, Nashik",19.9551,73.7592,9900,20000,Shared,Triple,Boys,0,1,1,0,1,1,1,1,Fully Furnished,3.4,369,Available,OWN0163
+PG00450,Happy House,Gujarat,Rajkot,Gondal Road,"312, Nagar, Gondal Road, Rajkot",22.2931,70.7653,6300,6500,Shared,Double,Boys,0,1,1,0,0,1,1,1,Fully Furnished,3.1,259,Available,OWN0096
+PG00451,Nova Nivas,Gujarat,Jamnagar,Pandit Nehru Marg,"248, Chowk, Pandit Nehru Marg, Jamnagar",22.4974,70.1244,6600,6500,Private,Double,Boys,1,0,1,1,0,1,0,0,Semi Furnished,4.7,403,Limited,OWN0059
+PG00452,Silver Boys Hostel,Maharashtra,Nagpur,Ramdaspeth,"260, Society, Ramdaspeth, Nagpur",21.1754,79.0699,8500,8500,Private,Double,Coed,1,1,1,0,1,0,0,1,Semi Furnished,3.2,314,Available,OWN0072
+PG00453,Happy Rooms,Gujarat,Ahmedabad,Naranpura,"32, Lane, Naranpura, Ahmedabad",23.0645,72.6465,18900,19000,Private,Single,Girls,1,1,1,1,1,1,1,1,Fully Furnished,4.1,300,Available,OWN0029
+PG00454,Zenith Stay,Maharashtra,Pune,Shivaji Nagar,"129, Chowk, Shivaji Nagar, Pune",18.5703,73.8018,17300,34500,Shared,Double,Boys,0,1,0,1,1,1,1,1,Unfurnished,4.9,252,Available,OWN0131
+PG00455,Modern Home,Maharashtra,Mumbai,Powai,"227, Park, Powai, Mumbai",19.0182,72.9246,20100,20000,Shared,Double,Boys,1,1,1,1,1,1,1,1,Fully Furnished,3.1,395,Available,OWN0044
+PG00456,Harmony Heights,Maharashtra,Thane,Manpada,"335, Chowk, Manpada, Thane",19.2476,72.9467,15500,31000,Shared,Double,Coed,1,1,1,0,0,1,1,1,Fully Furnished,4.9,31,Full,OWN0091
+PG00457,Sunrise Palace,Maharashtra,Pune,Wakad,"107, Nagar, Wakad, Pune",18.6059,73.9048,31900,95500,Private,Single,Boys,0,1,1,1,0,1,1,1,Fully Furnished,4.4,243,Full,OWN0012
+PG00458,Serene Comforts,Maharashtra,Nashik,Indira Nagar,"144, Chowk, Indira Nagar, Nashik",20.0313,73.8634,18500,37000,Private,Single,Boys,1,1,1,1,0,1,1,1,Fully Furnished,3.2,48,Available,OWN0084
+PG00459,Sunrise House,Maharashtra,Mumbai,Bandra,"396, Society, Bandra, Mumbai",19.0862,72.9348,12400,25000,Shared,Triple,Girls,0,1,1,1,0,1,0,1,Semi Furnished,4.9,74,Available,OWN0106
+PG00460,Elite Girls Hostel,Gujarat,Nadiad,Station Road,"9, Chowk, Station Road, Nadiad",22.7476,72.9215,4400,9000,Dormitory,Dormitory,Coed,1,1,1,1,1,1,1,1,Fully Furnished,4.7,296,Full,OWN0157
+PG00461,Vraj Living,Maharashtra,Pune,Hadapsar,"239, Marg, Hadapsar, Pune",18.5657,73.9048,9600,29000,Shared,Triple,Boys,1,1,1,0,0,1,1,1,Semi Furnished,2.8,118,Available,OWN0039
+PG00462,Legacy Villa,Gujarat,Vadodara,Manjalpur,"335, Lane, Manjalpur, Vadodara",22.3224,73.2294,6200,6000,Shared,Triple,Boys,1,1,1,1,0,0,1,0,Fully Furnished,3.5,120,Limited,OWN0052
+PG00463,Shanti Girls Hostel,Gujarat,Rajkot,Mavdi,"14, Colony, Mavdi, Rajkot",22.3923,70.7541,5000,5000,Shared,Triple,Boys,1,1,1,1,0,0,1,1,Unfurnished,4.4,65,Available,OWN0054
+PG00464,Urban Retreat,Gujarat,Surat,Ghod Dod Road,"98, Lane, Ghod Dod Road, Surat",21.2135,72.8056,6800,20500,Dormitory,Dormitory,Girls,1,1,1,0,0,0,1,0,Semi Furnished,3.8,336,Available,OWN0022
+PG00465,Comfort House,Maharashtra,Pune,Pimple Saudagar,"128, Colony, Pimple Saudagar, Pune",18.5881,73.7696,20300,20500,Shared,Double,Boys,1,0,0,1,0,1,1,1,Unfurnished,4.9,382,Limited,OWN0047
+PG00466,Shanti Rooms,Gujarat,Bhavnagar,Waghawadi Road,"207, Park, Waghawadi Road, Bhavnagar",21.8161,72.0673,3200,3000,Dormitory,Dormitory,Boys,1,0,1,0,0,1,1,1,Fully Furnished,3.1,10,Available,OWN0058
+PG00467,Maruti Villa,Gujarat,Ahmedabad,Bodakdev,"69, Road, Bodakdev, Ahmedabad",22.9527,72.567,12300,37000,Private,Single,Coed,1,1,1,1,0,0,1,1,Fully Furnished,4.9,118,Limited,OWN0025
+PG00468,Om Living,Maharashtra,Pune,Camp,"95, Nagar, Camp, Pune",18.59,73.7856,17600,35000,Private,Double,Girls,0,1,1,1,0,0,1,0,Fully Furnished,2.9,104,Full,OWN0004
+PG00469,Laxmi Boys Hostel,Gujarat,Surat,Adajan,"6, Marg, Adajan, Surat",21.2306,72.7839,13000,13000,Shared,Double,Girls,1,1,1,0,0,1,1,0,Fully Furnished,3.6,252,Limited,OWN0117
+PG00470,Sai Retreat,Maharashtra,Pune,Kondhwa,"329, Road, Kondhwa, Pune",18.5678,73.814,8200,8000,Dormitory,Dormitory,Boys,1,1,1,1,0,1,0,0,Unfurnished,3.2,264,Available,OWN0057
+PG00471,Prime PG,Maharashtra,Nashik,Gangapur Road,"273, Park, Gangapur Road, Nashik",20.0395,73.7635,6700,6500,Shared,Triple,Coed,0,1,0,1,0,0,1,0,Fully Furnished,3.2,28,Full,OWN0103
+PG00472,Happy Rooms,Gujarat,Rajkot,Race Course,"1, Society, Race Course, Rajkot",22.3889,70.8731,14600,14500,Private,Single,Boys,1,1,1,0,0,0,0,1,Semi Furnished,4.2,203,Available,OWN0064
+PG00473,Happy Inn,Maharashtra,Thane,Ghodbunder Road,"64, Colony, Ghodbunder Road, Thane",19.169,73.0589,15500,15500,Private,Single,Boys,1,1,1,1,1,1,0,1,Semi Furnished,3.1,389,Full,OWN0088
+PG00474,Cozy Villa,Maharashtra,Chhatrapati Sambhajinagar,CIDCO,"219, Colony, CIDCO, Chhatrapati Sambhajinagar",19.8549,75.4137,4800,5000,Shared,Triple,Girls,1,1,0,0,1,0,1,1,Fully Furnished,2.9,56,Full,OWN0072
+PG00475,Sunshine Boys Hostel,Maharashtra,Thane,Majiwada,"215, Nagar, Majiwada, Thane",19.178,72.9334,4800,9500,Dormitory,Dormitory,Boys,1,1,1,1,1,0,1,1,Semi Furnished,3.6,268,Full,OWN0098
+PG00476,Silver Home,Gujarat,Ahmedabad,Satellite,"61, Lane, Satellite, Ahmedabad",23.0388,72.6242,14300,14500,Private,Double,Coed,1,0,0,1,0,0,0,1,Semi Furnished,4.3,16,Available,OWN0047
+PG00477,Sunrise Villa,Gujarat,Ahmedabad,Prahlad Nagar,"130, Park, Prahlad Nagar, Ahmedabad",22.9503,72.6471,10100,10000,Shared,Double,Coed,1,1,1,0,1,1,0,1,Semi Furnished,4.5,402,Limited,OWN0128
+PG00478,Om Boys Hostel,Maharashtra,Thane,Vartak Nagar,"157, Society, Vartak Nagar, Thane",19.1916,72.985,6700,13500,Dormitory,Dormitory,Boys,0,0,1,0,0,1,1,1,Fully Furnished,3.2,11,Available,OWN0149
+PG00479,Nest Nivas,Gujarat,Rajkot,Race Course,"204, Society, Race Course, Rajkot",22.3399,70.8131,14500,29000,Private,Single,Girls,1,1,1,1,0,0,0,0,Semi Furnished,4.1,45,Available,OWN0058
+PG00480,Radha Stay,Maharashtra,Mumbai,Andheri West,"254, Lane, Andheri West, Mumbai",19.0303,72.8156,9400,9500,Shared,Triple,Boys,1,1,0,0,0,1,1,0,Fully Furnished,3.2,268,Available,OWN0161
+PG00481,Sai Living,Maharashtra,Mumbai,Thane West,"221, Park, Thane West, Mumbai",19.1204,72.9149,17300,17500,Private,Double,Boys,1,0,1,0,0,1,0,0,Semi Furnished,4.0,56,Limited,OWN0155
+PG00482,Nest Comforts,Gujarat,Vadodara,Sayajigunj,"239, Nagar, Sayajigunj, Vadodara",22.3464,73.2073,14900,15000,Shared,Double,Girls,0,1,1,1,1,1,0,1,Semi Furnished,2.9,371,Available,OWN0065
+PG00483,Vraj House,Maharashtra,Navi Mumbai,Kopar Khairane,"203, Lane, Kopar Khairane, Navi Mumbai",18.948,73.0473,11100,33500,Shared,Double,Girls,0,1,1,0,0,1,0,0,Fully Furnished,4.5,303,Available,OWN0019
+PG00484,Star Comforts,Maharashtra,Pune,Warje,"308, Colony, Warje, Pune",18.5049,73.7957,19300,19500,Shared,Double,Coed,1,1,1,1,0,1,1,1,Fully Furnished,3.5,93,Limited,OWN0065
+PG00485,City Residency,Maharashtra,Mumbai,Powai,"174, Marg, Powai, Mumbai",19.0329,72.8238,17300,52000,Shared,Double,Boys,1,1,1,0,0,1,1,1,Unfurnished,4.0,38,Full,OWN0049
+PG00486,City Home,Maharashtra,Pune,Deccan Gymkhana,"350, Colony, Deccan Gymkhana, Pune",18.4631,73.806,16900,17000,Shared,Triple,Coed,1,0,1,1,0,0,0,1,Unfurnished,4.9,58,Available,OWN0047
+PG00487,Prime Boys Hostel,Maharashtra,Pune,Aundh,"233, Complex, Aundh, Pune",18.5924,73.8563,15200,30500,Shared,Triple,Coed,1,1,0,1,0,1,1,0,Fully Furnished,4.7,340,Limited,OWN0152
+PG00488,Harmony Inn,Gujarat,Ahmedabad,Nikol,"388, Complex, Nikol, Ahmedabad",22.9489,72.5993,9300,18500,Shared,Double,Boys,1,1,1,1,0,1,1,1,Semi Furnished,3.4,353,Limited,OWN0136
+PG00489,Nirvana Nivas,Maharashtra,Thane,Naupada,"329, Park, Naupada, Thane",19.2987,72.9434,11200,22500,Shared,Double,Boys,0,1,0,0,0,1,1,1,Semi Furnished,4.8,53,Available,OWN0048
+PG00490,Shanti Stay,Maharashtra,Kolhapur,Shivaji University Road,"24, Chowk, Shivaji University Road, Kolhapur",16.6281,74.1899,4900,10000,Private,Double,Coed,0,0,0,1,0,1,1,1,Semi Furnished,4.7,219,Limited,OWN0161
+PG00491,Maruti Inn,Gujarat,Rajkot,Gondal Road,"143, Lane, Gondal Road, Rajkot",22.3465,70.7613,10000,10000,Shared,Double,Girls,0,1,1,1,0,1,0,1,Fully Furnished,3.5,381,Available,OWN0102
+PG00492,Silver Home,Gujarat,Rajkot,150 Feet Ring Road,"203, Lane, 150 Feet Ring Road, Rajkot",22.2651,70.8148,4200,12500,Dormitory,Dormitory,Girls,0,1,1,1,0,1,0,1,Fully Furnished,4.2,227,Limited,OWN0114
+PG00493,Star Palace,Maharashtra,Pune,Hinjewadi,"372, Park, Hinjewadi, Pune",18.5497,73.8574,21900,44000,Private,Single,Boys,1,0,1,1,0,1,1,1,Fully Furnished,4.4,15,Full,OWN0018
+PG00494,Prime Boys Hostel,Maharashtra,Thane,Manpada,"30, Society, Manpada, Thane",19.2234,72.9883,9700,19500,Shared,Double,Girls,1,1,1,1,0,1,0,1,Fully Furnished,3.3,324,Available,OWN0140
+PG00495,New Inn,Gujarat,Ahmedabad,Ghatlodia,"231, Lane, Ghatlodia, Ahmedabad",23.1012,72.5975,10400,10500,Shared,Triple,Boys,1,0,1,1,0,0,1,1,Fully Furnished,4.4,224,Limited,OWN0037
+PG00496,Happy Girls Hostel,Gujarat,Ahmedabad,Ellisbridge,"107, Chowk, Ellisbridge, Ahmedabad",23.0604,72.5789,23200,46500,Private,Single,Girls,1,1,1,0,1,1,1,1,Semi Furnished,4.3,319,Available,OWN0119
+PG00497,Nova Home,Maharashtra,Mumbai,Vikhroli,"278, Marg, Vikhroli, Mumbai",19.0535,72.8429,18900,19000,Private,Double,Girls,1,1,1,1,0,1,1,1,Fully Furnished,4.3,142,Full,OWN0145
+PG00498,Prime Retreat,Maharashtra,Nagpur,Sitabuldi,"163, Marg, Sitabuldi, Nagpur",21.1593,79.1424,13900,41500,Private,Double,Girls,1,1,1,1,1,1,0,0,Fully Furnished,3.0,185,Available,OWN0039
+PG00499,Urban Villa,Maharashtra,Navi Mumbai,Kharghar,"244, Park, Kharghar, Navi Mumbai",19.0943,73.005,9800,10000,Shared,Double,Boys,1,1,0,1,0,1,1,1,Semi Furnished,3.3,61,Limited,OWN0038
+PG00500,Ganesh Heights,Maharashtra,Kolhapur,Rajarampuri,"195, Marg, Rajarampuri, Kolhapur",16.751,74.1777,12500,37500,Private,Single,Girls,0,1,1,1,0,1,1,1,Fully Furnished,3.2,322,Available,OWN0101
+PG00501,Star Boys Hostel,Maharashtra,Solapur,Railway Lines,"150, Society, Railway Lines, Solapur",17.7486,75.9588,10300,20500,Private,Double,Girls,0,1,1,1,0,0,1,1,Fully Furnished,4.2,361,Available,OWN0115
+PG00502,Zenith Residency,Maharashtra,Amravati,Camp Area,"171, Complex, Camp Area, Amravati",20.8547,77.8246,4800,5000,Private,Double,Coed,1,1,1,1,0,1,1,1,Fully Furnished,5.0,220,Available,OWN0088
+PG00503,Serene Rooms,Gujarat,Surat,Katargam,"137, Society, Katargam, Surat",21.2096,72.8405,4800,9500,Dormitory,Dormitory,Coed,0,0,1,1,0,1,1,1,Semi Furnished,3.3,47,Full,OWN0003
+PG00504,Prime Villa,Maharashtra,Nagpur,Ramdaspeth,"324, Park, Ramdaspeth, Nagpur",21.2124,79.1093,8200,8000,Shared,Double,Boys,1,1,1,1,0,1,1,1,Semi Furnished,3.2,104,Limited,OWN0127
+PG00505,Elite Villa,Maharashtra,Pune,Aundh,"95, Complex, Aundh, Pune",18.5149,73.8984,18800,56500,Private,Single,Boys,0,1,1,1,1,1,0,1,Semi Furnished,4.1,310,Available,OWN0164
+PG00506,Shree Stay,Gujarat,Rajkot,Mavdi,"336, Nagar, Mavdi, Rajkot",22.2591,70.7743,12300,12500,Private,Single,Boys,0,0,1,0,0,1,0,1,Semi Furnished,4.8,188,Limited,OWN0156
+PG00507,City Heights,Maharashtra,Pune,Baner,"190, Marg, Baner, Pune",18.5329,73.8976,29200,87500,Private,Single,Girls,1,1,1,0,0,0,0,1,Semi Furnished,3.8,81,Available,OWN0099
+PG00508,Ganesh House,Gujarat,Mehsana,Highway Road,"205, Park, Highway Road, Mehsana",23.6552,72.4212,5500,5500,Private,Double,Girls,1,1,1,1,1,1,1,1,Semi Furnished,3.4,100,Available,OWN0128
+PG00509,City Home,Gujarat,Nadiad,College Road,"35, Park, College Road, Nadiad",22.6916,72.8916,7300,7500,Shared,Triple,Boys,1,1,1,1,0,0,1,1,Fully Furnished,3.4,374,Available,OWN0033
+PG00510,Shanti Boys Hostel,Gujarat,Bhavnagar,Sardarnagar,"353, Lane, Sardarnagar, Bhavnagar",21.6859,72.1424,6100,12000,Dormitory,Dormitory,Coed,0,1,1,1,1,1,1,1,Unfurnished,3.3,306,Limited,OWN0064
+PG00511,Silver Inn,Maharashtra,Mumbai,Santacruz,"385, Colony, Santacruz, Mumbai",19.1463,72.8441,20400,41000,Shared,Double,Girls,1,1,1,0,0,1,0,1,Fully Furnished,2.8,185,Limited,OWN0124
+PG00512,Urban Palace,Maharashtra,Mumbai,Bandra,"331, Lane, Bandra, Mumbai",19.1582,72.8749,5600,5500,Dormitory,Dormitory,Girls,0,1,1,1,0,1,0,1,Fully Furnished,3.1,15,Available,OWN0165
+PG00513,Ganesh Nivas,Maharashtra,Nagpur,Dharampeth,"305, Marg, Dharampeth, Nagpur",21.1222,79.1378,10400,31000,Shared,Double,Boys,1,1,1,0,1,0,1,1,Fully Furnished,4.4,284,Available,OWN0112
+PG00514,Comfort Rooms,Maharashtra,Pune,Pimple Saudagar,"166, Road, Pimple Saudagar, Pune",18.4624,73.8771,11200,11000,Shared,Double,Girls,1,1,1,0,1,1,1,1,Fully Furnished,3.0,208,Available,OWN0135
+PG00515,Golden Palace,Gujarat,Mehsana,Radhanpur Road,"230, Colony, Radhanpur Road, Mehsana",23.623,72.378,5900,17500,Private,Double,Boys,1,1,1,1,1,0,0,0,Fully Furnished,3.5,201,Limited,OWN0102
+PG00516,Maruti Residency,Gujarat,Ahmedabad,Gota,"21, Lane, Gota, Ahmedabad",23.0211,72.6019,6400,6500,Shared,Double,Girls,0,1,0,1,1,1,0,1,Fully Furnished,4.0,264,Available,OWN0052
+PG00517,Krishna Inn,Maharashtra,Nagpur,Wardha Road,"62, Nagar, Wardha Road, Nagpur",21.116,79.0571,15700,15500,Shared,Double,Coed,1,1,0,0,0,1,1,1,Semi Furnished,4.3,306,Limited,OWN0093
+PG00518,Krishna Palace,Maharashtra,Mumbai,Dadar,"262, Road, Dadar, Mumbai",19.088,72.9469,20000,40000,Private,Single,Boys,0,1,1,0,0,1,1,1,Semi Furnished,4.9,42,Limited,OWN0001
+PG00519,Radha Stay,Maharashtra,Thane,Manpada,"156, Marg, Manpada, Thane",19.1373,72.8901,10700,10500,Private,Single,Boys,0,1,1,1,0,1,1,1,Fully Furnished,3.8,412,Full,OWN0031
+PG00520,Nova Nivas,Maharashtra,Solapur,Saat Rasta,"8, Society, Saat Rasta, Solapur",17.7413,75.9591,14600,29000,Private,Single,Coed,1,1,1,0,1,1,1,1,Fully Furnished,4.6,214,Available,OWN0004
+PG00521,Radha Rooms,Maharashtra,Mumbai,Andheri West,"369, Marg, Andheri West, Mumbai",19.1042,72.9604,16800,33500,Private,Single,Girls,0,0,1,1,0,1,1,1,Semi Furnished,4.4,149,Available,OWN0154
+PG00522,Sai House,Gujarat,Bhavnagar,Sardarnagar,"165, Park, Sardarnagar, Bhavnagar",21.7725,72.1291,11800,12000,Private,Single,Boys,0,0,1,1,0,1,1,0,Fully Furnished,3.6,241,Available,OWN0139
+PG00523,Prime Boys Hostel,Maharashtra,Chhatrapati Sambhajinagar,Garkheda,"277, Colony, Garkheda, Chhatrapati Sambhajinagar",19.9464,75.3151,5000,10000,Shared,Triple,Coed,1,1,1,1,1,1,1,0,Semi Furnished,3.2,119,Limited,OWN0086
+PG00524,Nest Inn,Maharashtra,Mumbai,Ghatkopar,"268, Chowk, Ghatkopar, Mumbai",19.1177,72.9311,36100,36000,Private,Single,Boys,0,1,0,0,1,1,0,1,Fully Furnished,3.1,39,Limited,OWN0079
+PG00525,Silver Palace,Gujarat,Vadodara,Vasna,"13, Road, Vasna, Vadodara",22.2717,73.1289,10200,20500,Private,Single,Boys,0,1,1,1,0,1,1,1,Fully Furnished,4.1,247,Limited,OWN0152
+PG00526,Krishna Heights,Gujarat,Ahmedabad,Ghatlodia,"197, Complex, Ghatlodia, Ahmedabad",23.1084,72.5714,13400,27000,Shared,Double,Girls,0,1,0,0,1,1,1,1,Semi Furnished,4.2,51,Available,OWN0087
+PG00527,Divine Palace,Gujarat,Vadodara,Akota,"315, Chowk, Akota, Vadodara",22.2234,73.147,7600,15000,Private,Double,Girls,1,1,1,1,0,1,0,1,Fully Furnished,3.9,92,Full,OWN0076
+PG00528,Cozy House,Maharashtra,Thane,Ghodbunder Road,"40, Lane, Ghodbunder Road, Thane",19.1806,72.9478,9900,10000,Shared,Double,Boys,1,1,0,1,0,0,0,0,Fully Furnished,3.2,70,Limited,OWN0155
+PG00529,Vraj Stay,Maharashtra,Mumbai,Kurla,"363, Complex, Kurla, Mumbai",19.0753,72.9307,15800,31500,Shared,Double,Girls,1,1,1,1,0,0,1,1,Fully Furnished,4.8,73,Available,OWN0042
+PG00530,Legacy Girls Hostel,Gujarat,Ahmedabad,Paldi,"286, Nagar, Paldi, Ahmedabad",23.0521,72.5617,8900,9000,Shared,Triple,Girls,1,1,1,0,1,1,0,1,Semi Furnished,4.1,7,Available,OWN0036
+PG00531,Star Heights,Gujarat,Gandhinagar,Sector 11,"245, Marg, Sector 11, Gandhinagar",23.2805,72.6911,14600,14500,Private,Single,Girls,1,1,1,0,1,1,0,1,Fully Furnished,4.5,323,Available,OWN0058
+PG00532,Urban Inn,Maharashtra,Thane,Kolshet Road,"15, Lane, Kolshet Road, Thane",19.139,72.9658,8100,8000,Shared,Triple,Boys,1,0,1,1,0,1,1,1,Fully Furnished,3.0,310,Available,OWN0017
+PG00533,Radha Inn,Maharashtra,Mumbai,Kandivali,"144, Marg, Kandivali, Mumbai",19.1251,72.7949,13700,27500,Shared,Triple,Boys,0,1,1,0,0,1,1,1,Semi Furnished,4.5,73,Available,OWN0024
+PG00534,Green Living,Maharashtra,Pune,Kondhwa,"323, Nagar, Kondhwa, Pune",18.5263,73.8776,10400,21000,Dormitory,Dormitory,Coed,0,1,1,1,0,1,1,1,Fully Furnished,4.1,345,Limited,OWN0157
+PG00535,Star Girls Hostel,Maharashtra,Kolhapur,Tarabai Park,"365, Complex, Tarabai Park, Kolhapur",16.7594,74.2772,8200,16500,Shared,Double,Girls,0,1,1,0,1,1,1,1,Fully Furnished,3.4,293,Available,OWN0088
+PG00536,Ganesh Inn,Gujarat,Surat,Nana Varachha,"2, Society, Nana Varachha, Surat",21.0932,72.7635,15200,45500,Private,Double,Coed,0,1,1,1,1,1,0,1,Fully Furnished,3.7,64,Available,OWN0032
+PG00537,Silver Living,Gujarat,Bhavnagar,Waghawadi Road,"66, Society, Waghawadi Road, Bhavnagar",21.6819,72.0746,2800,8500,Dormitory,Dormitory,Girls,1,1,0,0,1,1,1,1,Semi Furnished,4.8,184,Limited,OWN0039
+PG00538,Legacy Stay,Gujarat,Ahmedabad,Prahlad Nagar,"83, Society, Prahlad Nagar, Ahmedabad",23.0697,72.5123,9800,10000,Shared,Triple,Coed,0,1,1,1,1,1,1,1,Fully Furnished,4.1,310,Limited,OWN0115
+PG00539,Divine Villa,Gujarat,Vadodara,Gotri,"77, Chowk, Gotri, Vadodara",22.3697,73.1647,7600,15000,Shared,Triple,Boys,1,0,1,1,0,1,1,1,Fully Furnished,3.0,360,Limited,OWN0044
+PG00540,Radha Comforts,Maharashtra,Nashik,Gangapur Road,"367, Nagar, Gangapur Road, Nashik",19.9467,73.7634,7200,21500,Shared,Double,Coed,1,1,1,0,0,1,1,1,Semi Furnished,4.8,48,Available,OWN0090
+PG00541,Blue Nivas,Gujarat,Vadodara,Sayajigunj,"113, Complex, Sayajigunj, Vadodara",22.3813,73.138,9200,9000,Shared,Triple,Coed,1,0,1,1,1,1,0,1,Fully Furnished,4.7,145,Full,OWN0048
+PG00542,Golden PG,Gujarat,Vadodara,Fatehgunj,"294, Colony, Fatehgunj, Vadodara",22.2472,73.1032,12900,13000,Private,Single,Girls,0,1,1,1,0,1,0,1,Fully Furnished,3.2,276,Full,OWN0063
+PG00543,Sunshine Stay,Maharashtra,Nashik,Nashik Road,"257, Complex, Nashik Road, Nashik",20.0615,73.8377,13200,13000,Shared,Double,Boys,1,1,1,0,0,1,1,1,Fully Furnished,4.1,24,Available,OWN0097
+PG00544,Laxmi Inn,Gujarat,Surat,City Light,"269, Marg, City Light, Surat",21.1631,72.8849,7500,22500,Dormitory,Dormitory,Coed,0,1,1,1,0,1,1,1,Fully Furnished,4.1,191,Limited,OWN0030
+PG00545,Serene Palace,Maharashtra,Pune,Katraj,"385, Road, Katraj, Pune",18.4993,73.8206,17600,17500,Private,Double,Girls,0,1,1,1,1,1,1,1,Fully Furnished,4.7,240,Available,OWN0014
+PG00546,New Girls Hostel,Gujarat,Vadodara,Karelibaug,"28, Park, Karelibaug, Vadodara",22.3787,73.2573,12500,25000,Shared,Double,Girls,1,1,1,0,0,1,1,1,Unfurnished,3.2,54,Available,OWN0144
+PG00547,Sai Stay,Gujarat,Vadodara,Alkapuri,"230, Chowk, Alkapuri, Vadodara",22.3089,73.2047,11300,11500,Private,Double,Boys,0,1,0,0,0,1,1,1,Semi Furnished,3.9,81,Full,OWN0097
+PG00548,Radha House,Gujarat,Gandhinagar,Sector 28,"73, Lane, Sector 28, Gandhinagar",23.2048,72.677,6400,6500,Private,Single,Boys,0,1,1,1,0,1,1,1,Unfurnished,2.8,36,Available,OWN0010
+PG00549,Blue Heights,Gujarat,Vadodara,Akota,"59, Society, Akota, Vadodara",22.3589,73.1306,10300,20500,Shared,Triple,Boys,0,1,0,0,0,1,1,1,Semi Furnished,3.9,145,Limited,OWN0063
+PG00550,Sunshine Rooms,Gujarat,Vadodara,Alkapuri,"256, Chowk, Alkapuri, Vadodara",22.2953,73.1402,14400,14500,Private,Single,Girls,0,0,1,0,0,1,1,1,Fully Furnished,4.4,217,Available,OWN0077
+PG00551,Green Boys Hostel,Gujarat,Ahmedabad,Paldi,"30, Chowk, Paldi, Ahmedabad",23.0447,72.6521,10000,20000,Private,Single,Boys,1,1,0,1,0,1,1,1,Fully Furnished,4.1,87,Available,OWN0154
+PG00552,Golden Stay,Gujarat,Gandhinagar,Sector 16,"77, Complex, Sector 16, Gandhinagar",23.2792,72.565,9100,9000,Private,Double,Coed,1,1,1,0,0,0,0,1,Semi Furnished,2.9,161,Available,OWN0010
+PG00553,Star Nivas,Maharashtra,Amravati,Rajapeth,"201, Marg, Rajapeth, Amravati",21.0253,77.8002,11700,35000,Private,Single,Girls,1,1,1,1,0,0,1,1,Semi Furnished,2.9,176,Limited,OWN0122
+PG00554,Laxmi Retreat,Maharashtra,Nashik,Nashik Road,"121, Nagar, Nashik Road, Nashik",20.0788,73.755,8200,8000,Shared,Double,Girls,0,1,1,1,1,1,0,1,Semi Furnished,4.4,225,Available,OWN0165
+PG00555,Nova PG,Maharashtra,Pune,Camp,"187, Colony, Camp, Pune",18.5991,73.8045,19100,38000,Private,Single,Boys,1,0,1,0,0,0,0,1,Semi Furnished,4.9,387,Available,OWN0048
+PG00556,Prime PG,Gujarat,Ahmedabad,Paldi,"72, Lane, Paldi, Ahmedabad",23.1043,72.5562,10200,20500,Shared,Double,Boys,1,1,1,1,0,1,1,1,Unfurnished,3.2,78,Available,OWN0130
+PG00557,Star Retreat,Gujarat,Rajkot,Mavdi,"395, Road, Mavdi, Rajkot",22.374,70.8911,7600,15000,Shared,Triple,Girls,1,1,1,1,0,1,0,0,Unfurnished,4.1,121,Full,OWN0152
+PG00558,Comfort Comforts,Gujarat,Vadodara,Fatehgunj,"343, Nagar, Fatehgunj, Vadodara",22.2713,73.2086,17000,34000,Private,Single,Boys,1,1,1,1,0,1,0,0,Fully Furnished,4.7,378,Limited,OWN0164
+PG00559,Shanti Rooms,Maharashtra,Nashik,Panchavati,"400, Society, Panchavati, Nashik",20.0269,73.7892,8100,8000,Shared,Triple,Boys,1,1,1,1,0,1,0,1,Fully Furnished,3.4,134,Available,OWN0110
+PG00560,New Rooms,Gujarat,Surat,Piplod,"278, Complex, Piplod, Surat",21.1453,72.8788,9100,9000,Shared,Double,Boys,0,1,1,0,1,1,0,1,Fully Furnished,4.6,276,Available,OWN0032
+PG00561,Golden Girls Hostel,Maharashtra,Mumbai,Bandra,"91, Chowk, Bandra, Mumbai",19.1274,72.8518,10100,30500,Shared,Double,Boys,0,0,1,1,1,1,0,1,Fully Furnished,4.8,326,Available,OWN0088
+PG00562,Laxmi Palace,Maharashtra,Thane,Kolshet Road,"86, Lane, Kolshet Road, Thane",19.1469,72.9803,8300,8500,Shared,Double,Girls,0,0,1,1,0,1,1,0,Fully Furnished,3.2,295,Available,OWN0096
+PG00563,Golden House,Maharashtra,Pune,Katraj,"50, Complex, Katraj, Pune",18.5654,73.768,17300,52000,Shared,Double,Boys,0,1,1,1,0,1,1,1,Fully Furnished,4.7,31,Full,OWN0036
+PG00564,Maruti Residency,Maharashtra,Pune,Pimple Saudagar,"272, Park, Pimple Saudagar, Pune",18.6103,73.8172,12300,24500,Private,Single,Boys,1,1,0,0,0,0,1,1,Fully Furnished,3.5,66,Available,OWN0055
+PG00565,Nest Residency,Maharashtra,Mumbai,Borivali,"365, Complex, Borivali, Mumbai",19.0277,72.8375,9100,27500,Dormitory,Dormitory,Coed,0,1,1,0,0,0,1,1,Semi Furnished,3.1,51,Full,OWN0151
+PG00566,Laxmi Home,Gujarat,Ahmedabad,Ghatlodia,"136, Colony, Ghatlodia, Ahmedabad",22.9402,72.6271,5600,5500,Shared,Triple,Girls,0,1,0,1,1,1,1,1,Unfurnished,4.7,263,Available,OWN0105
+PG00567,Star Heights,Gujarat,Ahmedabad,Nikol,"281, Lane, Nikol, Ahmedabad",23.09,72.5852,15700,31500,Private,Single,Girls,1,1,1,0,1,1,0,1,Fully Furnished,4.2,257,Available,OWN0030
+PG00568,Nirvana Nivas,Gujarat,Anand,Grid Road,"329, Society, Grid Road, Anand",22.6089,72.9633,2400,2500,Dormitory,Dormitory,Boys,0,1,1,1,1,0,1,1,Semi Furnished,4.6,10,Available,OWN0088
+PG00569,Cozy Girls Hostel,Gujarat,Vadodara,Karelibaug,"167, Chowk, Karelibaug, Vadodara",22.2437,73.2078,16100,16000,Private,Single,Boys,1,1,0,0,0,1,0,1,Fully Furnished,3.8,84,Available,OWN0016
+PG00570,New House,Maharashtra,Nagpur,Wardha Road,"146, Nagar, Wardha Road, Nagpur",21.0925,79.0181,7700,15500,Private,Double,Girls,1,1,1,0,0,0,1,1,Fully Furnished,3.1,402,Available,OWN0125
+PG00571,Harmony Living,Gujarat,Jamnagar,Digvijay Plot,"354, Society, Digvijay Plot, Jamnagar",22.4005,70.0975,7100,21500,Private,Double,Girls,0,1,0,1,1,0,0,0,Semi Furnished,4.8,96,Limited,OWN0136
+PG00572,Nest Retreat,Gujarat,Ahmedabad,Navrangpura,"291, Park, Navrangpura, Ahmedabad",22.9914,72.6055,18300,36500,Private,Single,Boys,1,0,1,1,0,0,1,1,Fully Furnished,4.2,128,Available,OWN0087
+PG00573,Vraj Stay,Gujarat,Bhavnagar,Ghogha Circle,"354, Society, Ghogha Circle, Bhavnagar",21.7703,72.1507,4600,9000,Private,Double,Boys,1,1,1,0,0,0,1,1,Fully Furnished,2.9,8,Full,OWN0105
+PG00574,Shanti Residency,Gujarat,Surat,City Light,"175, Lane, City Light, Surat",21.1959,72.9013,9500,19000,Shared,Double,Boys,1,1,1,1,0,0,1,1,Fully Furnished,3.0,301,Available,OWN0148
+PG00575,Sunrise Home,Gujarat,Rajkot,Mavdi,"322, Road, Mavdi, Rajkot",22.3392,70.8804,6700,6500,Shared,Double,Girls,1,1,1,1,0,1,1,1,Unfurnished,3.2,324,Limited,OWN0077
+PG00576,Blue Heights,Maharashtra,Thane,Kolshet Road,"194, Road, Kolshet Road, Thane",19.156,72.8995,18000,18000,Private,Single,Boys,1,1,1,1,0,1,1,1,Semi Furnished,4.9,305,Full,OWN0150
+PG00577,Legacy Palace,Maharashtra,Navi Mumbai,Belapur,"230, Chowk, Belapur, Navi Mumbai",18.9713,73.1192,11100,11000,Private,Double,Girls,0,0,0,1,1,0,1,1,Semi Furnished,4.6,67,Full,OWN0059
+PG00578,Happy PG,Maharashtra,Nagpur,Dharampeth,"266, Colony, Dharampeth, Nagpur",21.1566,79.0692,7300,22000,Shared,Double,Boys,1,1,1,1,0,1,1,1,Semi Furnished,2.9,254,Full,OWN0053
+PG00579,Prime Villa,Gujarat,Surat,Athwa,"37, Chowk, Athwa, Surat",21.206,72.7572,11700,23500,Shared,Double,Girls,0,1,1,1,1,0,1,1,Fully Furnished,3.5,390,Limited,OWN0164
+PG00580,Silver Villa,Maharashtra,Mumbai,Borivali,"276, Park, Borivali, Mumbai",19.1098,72.8742,9800,19500,Private,Double,Coed,1,1,1,1,1,1,1,1,Fully Furnished,4.3,279,Available,OWN0126
+PG00581,Urban Inn,Maharashtra,Mumbai,Borivali,"241, Road, Borivali, Mumbai",19.0131,72.9361,8800,17500,Shared,Double,Boys,0,1,1,1,0,1,1,1,Fully Furnished,3.7,411,Available,OWN0059
+PG00582,Blue Inn,Maharashtra,Amravati,Camp Area,"374, Road, Camp Area, Amravati",20.9664,77.7555,7400,15000,Shared,Double,Girls,0,1,1,1,0,0,0,0,Semi Furnished,4.0,67,Available,OWN0069
+PG00583,Nest Stay,Maharashtra,Nashik,College Road,"134, Nagar, College Road, Nashik",20.0632,73.7453,7800,8000,Dormitory,Dormitory,Girls,1,1,1,1,1,1,1,1,Semi Furnished,4.2,154,Limited,OWN0134
+PG00584,Shree Retreat,Maharashtra,Mumbai,Chembur,"388, Colony, Chembur, Mumbai",19.0594,72.8162,11500,23000,Private,Double,Girls,1,0,0,1,0,1,1,1,Semi Furnished,4.7,24,Available,OWN0059
+PG00585,New Palace,Maharashtra,Nagpur,Ramdaspeth,"374, Road, Ramdaspeth, Nagpur",21.117,79.1212,11900,35500,Shared,Double,Boys,0,0,1,0,0,0,1,1,Fully Furnished,3.2,144,Available,OWN0035
+PG00586,New Comforts,Maharashtra,Mumbai,Andheri West,"105, Lane, Andheri West, Mumbai",19.1073,72.8489,16800,33500,Private,Double,Boys,0,1,1,0,0,1,1,1,Fully Furnished,4.7,66,Available,OWN0156
+PG00587,Star Heights,Maharashtra,Navi Mumbai,Nerul,"111, Colony, Nerul, Navi Mumbai",19.0498,73.0533,21600,21500,Private,Single,Boys,0,0,1,1,0,1,1,1,Fully Furnished,3.7,285,Limited,OWN0135
+PG00588,Sunrise Stay,Maharashtra,Kolhapur,Rajarampuri,"301, Society, Rajarampuri, Kolhapur",16.7791,74.1909,14200,14000,Private,Single,Girls,1,1,1,0,1,1,0,1,Semi Furnished,3.7,4,Full,OWN0055
+PG00589,Modern Residency,Gujarat,Jamnagar,Bedi Bandar Road,"64, Complex, Bedi Bandar Road, Jamnagar",22.4048,69.9781,4800,9500,Shared,Triple,Boys,1,1,1,1,0,1,0,1,Fully Furnished,4.1,78,Available,OWN0116
+PG00590,Comfort Rooms,Gujarat,Rajkot,150 Feet Ring Road,"67, Complex, 150 Feet Ring Road, Rajkot",22.2892,70.7288,5800,11500,Shared,Triple,Boys,1,0,1,0,0,1,1,1,Fully Furnished,4.7,24,Full,OWN0015
+PG00591,Golden Stay,Maharashtra,Mumbai,Goregaon,"198, Colony, Goregaon, Mumbai",19.051,72.8593,11500,11500,Shared,Double,Coed,0,1,1,1,0,1,1,1,Semi Furnished,3.9,393,Available,OWN0037
+PG00592,Comfort Home,Maharashtra,Pune,Warje,"124, Nagar, Warje, Pune",18.5801,73.819,17200,34500,Shared,Double,Girls,1,1,1,1,0,1,1,1,Fully Furnished,4.4,30,Available,OWN0095
+PG00593,Nirvana Nivas,Maharashtra,Mumbai,Andheri East,"9, Marg, Andheri East, Mumbai",19.095,72.7962,6200,18500,Dormitory,Dormitory,Girls,0,1,1,0,0,1,0,1,Semi Furnished,4.1,310,Limited,OWN0117
+PG00594,Nirvana Comforts,Gujarat,Ahmedabad,Nikol,"76, Park, Nikol, Ahmedabad",22.9857,72.5777,11700,11500,Shared,Double,Girls,0,0,1,0,0,1,0,1,Fully Furnished,4.0,31,Available,OWN0006
+PG00595,Zenith Retreat,Maharashtra,Amravati,Camp Area,"16, Marg, Camp Area, Amravati",20.8753,77.8048,9600,9500,Private,Single,Girls,1,1,0,1,0,1,1,1,Fully Furnished,4.6,148,Limited,OWN0089
+PG00596,Nirvana Retreat,Maharashtra,Navi Mumbai,Kopar Khairane,"175, Road, Kopar Khairane, Navi Mumbai",18.9642,72.9653,9400,9500,Shared,Triple,Boys,1,1,1,1,0,1,1,1,Fully Furnished,3.9,221,Available,OWN0038
+PG00597,Cozy Living,Maharashtra,Nagpur,Ramdaspeth,"99, Nagar, Ramdaspeth, Nagpur",21.1587,79.1747,19000,38000,Private,Single,Girls,0,1,1,0,0,1,1,0,Fully Furnished,3.7,202,Available,OWN0015
+PG00598,Star Boys Hostel,Gujarat,Ahmedabad,CG Road,"14, Road, CG Road, Ahmedabad",23.0232,72.4949,4200,8500,Dormitory,Dormitory,Boys,1,1,1,0,1,1,1,1,Fully Furnished,4.1,229,Limited,OWN0161
+PG00599,Radha Stay,Gujarat,Surat,Udhna,"254, Marg, Udhna, Surat",21.1465,72.8559,22900,46000,Private,Single,Boys,0,1,1,1,1,0,0,1,Semi Furnished,3.8,199,Full,OWN0042
+PG00600,Laxmi Living,Maharashtra,Mumbai,Borivali,"35, Lane, Borivali, Mumbai",19.1244,72.8351,18800,37500,Private,Single,Boys,1,0,1,0,0,1,0,1,Fully Furnished,5.0,87,Limited,OWN0021
+PG00601,Vraj Comforts,Maharashtra,Pune,Kothrud,"263, Park, Kothrud, Pune",18.4988,73.8061,21200,21000,Private,Single,Girls,1,1,1,1,1,1,0,0,Fully Furnished,3.1,205,Available,OWN0012
+PG00602,Elite Comforts,Maharashtra,Navi Mumbai,Vashi,"232, Lane, Vashi, Navi Mumbai",19.0206,72.991,6900,14000,Shared,Triple,Boys,0,1,1,0,1,0,1,0,Semi Furnished,4.1,96,Available,OWN0050
+PG00603,Serene Villa,Gujarat,Vadodara,Vasna,"120, Chowk, Vasna, Vadodara",22.2481,73.1895,11300,34000,Shared,Double,Girls,1,1,1,1,1,0,0,1,Semi Furnished,4.1,371,Limited,OWN0104
+PG00604,Shree Inn,Maharashtra,Pune,Viman Nagar,"266, Colony, Viman Nagar, Pune",18.512,73.8927,15300,15500,Shared,Double,Girls,0,1,1,1,0,1,1,0,Fully Furnished,4.5,279,Full,OWN0027
+PG00605,Harmony Nivas,Maharashtra,Pune,Pimple Saudagar,"38, Colony, Pimple Saudagar, Pune",18.5329,73.8985,31500,94500,Private,Single,Girls,0,0,1,1,0,1,1,1,Fully Furnished,4.8,22,Full,OWN0009
+PG00606,Legacy Retreat,Maharashtra,Navi Mumbai,Kopar Khairane,"369, Nagar, Kopar Khairane, Navi Mumbai",19.0743,73.0589,12900,38500,Shared,Double,Boys,1,1,1,1,0,1,1,1,Unfurnished,4.3,228,Available,OWN0046
+PG00607,Star Nivas,Gujarat,Vadodara,Waghodia Road,"14, Marg, Waghodia Road, Vadodara",22.2895,73.1615,7900,16000,Private,Double,Coed,1,1,1,1,0,0,1,1,Fully Furnished,4.6,166,Available,OWN0051
+PG00608,Harmony Stay,Maharashtra,Mumbai,Andheri West,"205, Colony, Andheri West, Mumbai",19.1283,72.8835,14400,14500,Shared,Triple,Boys,0,0,1,1,0,1,1,1,Semi Furnished,3.2,280,Available,OWN0088
+PG00609,Laxmi Villa,Maharashtra,Thane,Vartak Nagar,"304, Chowk, Vartak Nagar, Thane",19.1735,73.0563,15600,15500,Private,Single,Girls,0,1,1,1,1,1,0,0,Fully Furnished,4.9,296,Full,OWN0088
+PG00610,Urban Nivas,Gujarat,Anand,Sardar Gunj,"273, Park, Sardar Gunj, Anand",22.4888,72.9614,5300,16000,Shared,Triple,Boys,1,0,1,1,0,1,1,1,Semi Furnished,4.9,57,Available,OWN0101
+PG00611,Krishna Inn,Gujarat,Bhavnagar,Waghawadi Road,"287, Park, Waghawadi Road, Bhavnagar",21.8458,72.15,11200,11000,Private,Single,Girls,1,1,1,0,0,0,1,1,Unfurnished,4.1,87,Available,OWN0134
+PG00612,Comfort Residency,Maharashtra,Thane,Vartak Nagar,"187, Lane, Vartak Nagar, Thane",19.2331,72.9365,11800,23500,Private,Single,Boys,1,1,1,1,1,1,0,0,Fully Furnished,4.6,232,Full,OWN0012
+PG00613,Silver Rooms,Gujarat,Ahmedabad,Bopal,"395, Society, Bopal, Ahmedabad",23.104,72.5083,13400,40000,Private,Single,Girls,1,1,1,1,0,1,1,1,Fully Furnished,4.7,181,Available,OWN0036
+PG00614,Vraj Retreat,Maharashtra,Navi Mumbai,Airoli,"30, Park, Airoli, Navi Mumbai",19.0886,73.0854,10500,21000,Shared,Triple,Boys,1,1,1,1,0,0,1,1,Fully Furnished,4.1,189,Limited,OWN0082
+PG00615,Modern Home,Maharashtra,Nashik,Panchavati,"43, Chowk, Panchavati, Nashik",19.9593,73.7902,4100,4000,Dormitory,Dormitory,Boys,1,1,1,1,0,1,1,1,Semi Furnished,5.0,62,Limited,OWN0082
+PG00616,Harmony Palace,Gujarat,Ahmedabad,Navrangpura,"325, Chowk, Navrangpura, Ahmedabad",22.9908,72.5679,11000,33000,Shared,Double,Boys,1,1,1,0,0,1,0,0,Fully Furnished,3.8,329,Limited,OWN0075
+PG00617,Sunshine Nivas,Maharashtra,Pune,Wakad,"189, Nagar, Wakad, Pune",18.5648,73.7901,12300,12500,Private,Double,Girls,0,1,1,1,1,0,1,1,Fully Furnished,3.6,7,Full,OWN0134
+PG00618,Nest Villa,Gujarat,Vadodara,Fatehgunj,"177, Road, Fatehgunj, Vadodara",22.3053,73.1279,6200,6000,Shared,Triple,Boys,0,0,1,1,0,1,1,1,Fully Furnished,4.7,19,Available,OWN0159
+PG00619,Shree Home,Gujarat,Ahmedabad,Ambawadi,"201, Road, Ambawadi, Ahmedabad",23.0013,72.5998,8700,8500,Shared,Double,Girls,1,1,1,0,0,0,1,0,Unfurnished,4.8,169,Available,OWN0040
+PG00620,Silver Retreat,Maharashtra,Mumbai,Goregaon,"168, Society, Goregaon, Mumbai",19.1194,72.9464,13900,28000,Shared,Double,Girls,0,1,1,1,0,1,1,1,Fully Furnished,3.9,333,Available,OWN0127
+PG00621,Nirvana Boys Hostel,Gujarat,Vadodara,Vasna,"134, Nagar, Vasna, Vadodara",22.2694,73.2607,5800,11500,Shared,Triple,Girls,0,0,1,1,0,1,1,1,Semi Furnished,4.1,391,Available,OWN0128
+PG00622,Urban House,Maharashtra,Pune,Hadapsar,"297, Complex, Hadapsar, Pune",18.5187,73.9279,5300,5500,Dormitory,Dormitory,Girls,1,1,1,0,1,1,1,1,Semi Furnished,3.9,418,Full,OWN0120
+PG00623,Shanti Girls Hostel,Maharashtra,Mumbai,Jogeshwari,"342, Complex, Jogeshwari, Mumbai",19.1415,72.8666,16200,16000,Private,Single,Girls,1,1,1,0,0,0,0,1,Fully Furnished,2.9,86,Full,OWN0147
+PG00624,Nirvana Nivas,Maharashtra,Kolhapur,Rajarampuri,"399, Park, Rajarampuri, Kolhapur",16.6191,74.1802,7000,21000,Shared,Double,Boys,1,1,1,1,0,1,1,1,Fully Furnished,4.9,77,Available,OWN0163
+PG00625,Zenith Retreat,Gujarat,Surat,Piplod,"239, Colony, Piplod, Surat",21.101,72.7694,7400,15000,Private,Double,Girls,1,1,1,1,0,1,0,1,Unfurnished,4.5,130,Available,OWN0160
+PG00626,Vraj Inn,Maharashtra,Nagpur,Civil Lines,"173, Lane, Civil Lines, Nagpur",21.0625,79.1011,9200,9000,Shared,Triple,Girls,1,0,1,1,1,1,1,1,Unfurnished,4.7,298,Limited,OWN0035
+PG00627,City Inn,Gujarat,Surat,City Light,"34, Road, City Light, Surat",21.1478,72.7442,11300,34000,Shared,Double,Girls,1,1,1,0,1,1,1,1,Fully Furnished,3.6,160,Limited,OWN0034
+PG00628,Prime Stay,Gujarat,Vadodara,Alkapuri,"73, Marg, Alkapuri, Vadodara",22.2639,73.1047,7100,14000,Dormitory,Dormitory,Girls,1,1,1,1,1,0,0,1,Semi Furnished,2.8,119,Available,OWN0073
+PG00629,Blue Stay,Maharashtra,Mumbai,Malad,"114, Nagar, Malad, Mumbai",19.0476,72.8347,24900,50000,Private,Single,Boys,0,1,1,1,0,0,1,1,Semi Furnished,4.5,181,Available,OWN0109
+PG00630,Happy Living,Maharashtra,Thane,Naupada,"237, Chowk, Naupada, Thane",19.1735,73.0396,13700,41000,Private,Single,Boys,1,1,0,0,0,1,1,1,Unfurnished,3.9,219,Available,OWN0140
+PG00631,Divine Home,Gujarat,Ahmedabad,Satellite,"76, Road, Satellite, Ahmedabad",23.0787,72.602,7400,7500,Shared,Double,Boys,1,1,1,1,0,1,0,1,Fully Furnished,4.9,144,Available,OWN0052
+PG00632,Sunrise Retreat,Maharashtra,Nashik,Gangapur Road,"94, Park, Gangapur Road, Nashik",19.9281,73.7352,14000,42000,Shared,Double,Boys,1,1,1,1,1,0,0,1,Fully Furnished,4.6,228,Full,OWN0112
+PG00633,Green Comforts,Maharashtra,Chhatrapati Sambhajinagar,Cidco N-5,"71, Marg, Cidco N-5, Chhatrapati Sambhajinagar",19.9344,75.2675,11600,23000,Private,Single,Boys,0,1,1,1,1,1,1,1,Unfurnished,2.9,386,Limited,OWN0150
+PG00634,Radha Stay,Gujarat,Vadodara,Waghodia Road,"162, Lane, Waghodia Road, Vadodara",22.2294,73.2199,6100,18500,Shared,Triple,Boys,0,1,1,1,0,1,0,1,Fully Furnished,3.9,117,Limited,OWN0051
+PG00635,Ganesh Rooms,Maharashtra,Mumbai,Kurla,"53, Chowk, Kurla, Mumbai",19.1093,72.9342,5600,11000,Dormitory,Dormitory,Coed,0,1,1,1,0,0,1,1,Semi Furnished,3.9,305,Available,OWN0150
+PG00636,Royal Residency,Maharashtra,Mumbai,Malad,"365, Nagar, Malad, Mumbai",19.1652,72.868,26900,27000,Private,Single,Coed,1,1,0,1,1,1,1,1,Semi Furnished,2.9,414,Limited,OWN0067
+PG00637,Shree Girls Hostel,Gujarat,Ahmedabad,Vejalpur,"351, Complex, Vejalpur, Ahmedabad",23.1024,72.6253,11500,11500,Shared,Triple,Girls,1,1,1,0,0,1,1,1,Fully Furnished,4.6,39,Full,OWN0103
+PG00638,Cozy Villa,Maharashtra,Kolhapur,Shivaji University Road,"183, Complex, Shivaji University Road, Kolhapur",16.7113,74.1822,6800,13500,Shared,Triple,Girls,1,1,1,0,1,1,1,1,Fully Furnished,4.7,99,Available,OWN0022
+PG00639,Golden Nivas,Gujarat,Rajkot,Mavdi,"262, Marg, Mavdi, Rajkot",22.2304,70.8288,7400,22000,Shared,Triple,Girls,0,1,1,1,0,0,0,1,Fully Furnished,2.9,184,Available,OWN0031
+PG00640,City Retreat,Gujarat,Vadodara,Gotri,"23, Marg, Gotri, Vadodara",22.3594,73.1674,8800,26500,Shared,Triple,Boys,0,1,1,1,0,1,0,1,Semi Furnished,3.2,330,Available,OWN0155
+PG00641,Ganesh Inn,Maharashtra,Solapur,Saat Rasta,"280, Lane, Saat Rasta, Solapur",17.685,75.9667,4900,10000,Shared,Triple,Girls,1,1,1,1,0,1,0,1,Fully Furnished,4.2,143,Available,OWN0033
+PG00642,Sunshine Comforts,Gujarat,Ahmedabad,Chandkheda,"315, Road, Chandkheda, Ahmedabad",22.9804,72.5534,13400,40000,Shared,Double,Boys,1,1,1,1,1,1,1,1,Semi Furnished,4.5,374,Available,OWN0154
+PG00643,Maruti Home,Maharashtra,Pune,Aundh,"120, Lane, Aundh, Pune",18.6101,73.9239,13200,13000,Shared,Double,Boys,0,1,1,1,0,0,0,1,Unfurnished,4.5,256,Available,OWN0032
+PG00644,Star Rooms,Maharashtra,Pune,Katraj,"141, Road, Katraj, Pune",18.4876,73.7724,17600,35000,Shared,Double,Coed,0,0,1,1,0,1,1,1,Fully Furnished,4.0,376,Available,OWN0103
+PG00645,Divine Living,Maharashtra,Mumbai,Vile Parle,"212, Complex, Vile Parle, Mumbai",19.0122,72.8366,14700,29500,Shared,Double,Boys,0,0,1,1,0,0,1,0,Fully Furnished,4.2,228,Available,OWN0130
+PG00646,Urban Boys Hostel,Gujarat,Jamnagar,Bedi Bandar Road,"302, Nagar, Bedi Bandar Road, Jamnagar",22.5047,70.1237,2300,7000,Dormitory,Dormitory,Girls,1,1,1,0,0,0,1,0,Semi Furnished,2.9,61,Available,OWN0021
+PG00647,Legacy Inn,Gujarat,Mehsana,Modhera Road,"107, Chowk, Modhera Road, Mehsana",23.5091,72.4292,7400,22000,Private,Single,Girls,1,1,1,1,1,1,1,1,Fully Furnished,4.0,300,Available,OWN0013
+PG00648,Radha Retreat,Gujarat,Rajkot,Mavdi,"221, Marg, Mavdi, Rajkot",22.3937,70.835,7600,15000,Private,Single,Girls,1,0,1,1,0,1,1,0,Semi Furnished,4.9,101,Limited,OWN0156
+PG00649,Krishna Inn,Gujarat,Ahmedabad,Maninagar,"196, Colony, Maninagar, Ahmedabad",22.9762,72.6222,10200,20500,Shared,Double,Boys,0,1,1,0,1,0,1,0,Fully Furnished,3.1,95,Full,OWN0116
+PG00650,Laxmi House,Gujarat,Nadiad,Station Road,"392, Park, Station Road, Nadiad",22.7288,72.8571,5700,5500,Shared,Double,Boys,1,0,0,0,1,0,1,0,Fully Furnished,4.8,277,Available,OWN0122
+PG00651,Nest House,Maharashtra,Pune,Pimple Saudagar,"101, Society, Pimple Saudagar, Pune",18.517,73.8557,27200,27000,Private,Single,Coed,0,1,1,0,0,0,1,1,Fully Furnished,3.0,87,Available,OWN0136
+PG00652,Ganesh PG,Gujarat,Vadodara,Akota,"237, Complex, Akota, Vadodara",22.2788,73.1686,11800,12000,Private,Double,Boys,1,1,1,0,0,0,1,1,Unfurnished,2.9,349,Full,OWN0066
+PG00653,Prime Palace,Gujarat,Rajkot,150 Feet Ring Road,"40, Society, 150 Feet Ring Road, Rajkot",22.2652,70.7963,11500,34500,Private,Single,Coed,0,1,0,1,0,0,1,1,Semi Furnished,4.5,127,Limited,OWN0165
+PG00654,Nest Inn,Maharashtra,Pune,Aundh,"351, Colony, Aundh, Pune",18.5185,73.7722,7200,7000,Shared,Triple,Boys,0,1,1,0,0,1,1,1,Fully Furnished,5.0,120,Available,OWN0140
+PG00655,Metro Comforts,Maharashtra,Mumbai,Kandivali,"157, Road, Kandivali, Mumbai",19.034,72.9486,20300,61000,Private,Double,Girls,1,0,1,1,0,1,1,0,Fully Furnished,3.4,346,Full,OWN0067
+PG00656,Legacy Girls Hostel,Gujarat,Vadodara,Alkapuri,"353, Society, Alkapuri, Vadodara",22.3659,73.129,5400,11000,Shared,Triple,Girls,1,1,1,1,0,0,0,1,Semi Furnished,4.0,220,Full,OWN0136
+PG00657,Elite Rooms,Maharashtra,Mumbai,Kandivali,"162, Marg, Kandivali, Mumbai",19.1453,72.9253,14400,14500,Shared,Double,Girls,1,1,0,0,0,1,0,1,Fully Furnished,3.1,107,Limited,OWN0058
+PG00658,Silver House,Maharashtra,Pune,Aundh,"58, Complex, Aundh, Pune",18.5243,73.8096,17200,17000,Shared,Double,Girls,1,1,1,1,0,1,1,1,Fully Furnished,3.3,4,Available,OWN0134
+PG00659,Sunrise Heights,Gujarat,Jamnagar,Pandit Nehru Marg,"367, Chowk, Pandit Nehru Marg, Jamnagar",22.449,69.9759,8800,9000,Private,Single,Girls,1,0,1,1,0,1,1,1,Fully Furnished,2.9,250,Available,OWN0141
+PG00660,Urban Home,Maharashtra,Pune,Hadapsar,"18, Road, Hadapsar, Pune",18.4871,73.8403,20900,21000,Private,Double,Boys,1,0,1,1,0,1,0,1,Unfurnished,2.9,224,Full,OWN0100
+PG00661,Laxmi Girls Hostel,Gujarat,Mehsana,Highway Road,"154, Society, Highway Road, Mehsana",23.5113,72.4422,5400,5500,Shared,Triple,Coed,0,1,1,1,0,1,0,1,Fully Furnished,2.8,398,Available,OWN0050
+PG00662,Ganesh Inn,Gujarat,Nadiad,Santram Road,"82, Chowk, Santram Road, Nadiad",22.6403,72.8715,6600,20000,Shared,Triple,Girls,1,1,1,1,0,1,0,1,Fully Furnished,4.6,222,Available,OWN0117
+PG00663,Shree House,Maharashtra,Thane,Manpada,"12, Society, Manpada, Thane",19.2101,72.956,12300,37000,Private,Double,Girls,0,0,1,1,0,1,1,0,Semi Furnished,3.6,74,Full,OWN0119
+PG00664,Serene Villa,Gujarat,Bhavnagar,Kaliyabid,"149, Society, Kaliyabid, Bhavnagar",21.8494,72.0831,8800,9000,Shared,Double,Boys,1,1,0,1,1,1,1,0,Fully Furnished,3.2,75,Limited,OWN0123
+PG00665,Krishna Girls Hostel,Gujarat,Gandhinagar,Infocity,"137, Colony, Infocity, Gandhinagar",23.139,72.5565,11300,11500,Private,Single,Girls,1,0,1,0,1,0,1,1,Semi Furnished,2.8,378,Available,OWN0162
+PG00666,Zenith Nivas,Gujarat,Anand,Sardar Gunj,"109, Colony, Sardar Gunj, Anand",22.5483,73.01,8000,24000,Private,Double,Coed,0,0,0,1,1,1,1,0,Fully Furnished,3.2,137,Limited,OWN0062
+PG00667,Royal Heights,Gujarat,Ahmedabad,Ellisbridge,"34, Road, Ellisbridge, Ahmedabad",22.9455,72.6509,5000,15000,Shared,Triple,Girls,1,1,1,1,0,0,1,1,Fully Furnished,4.4,25,Limited,OWN0059
+PG00668,Nirvana House,Maharashtra,Navi Mumbai,Panvel,"103, Road, Panvel, Navi Mumbai",19.0859,72.9493,18300,18500,Private,Single,Girls,0,1,1,0,1,1,0,1,Fully Furnished,3.4,418,Limited,OWN0146
+PG00669,Maruti Girls Hostel,Maharashtra,Mumbai,Vikhroli,"68, Nagar, Vikhroli, Mumbai",19.0928,72.8909,28000,84000,Private,Single,Boys,0,1,1,1,0,0,1,0,Semi Furnished,3.0,135,Available,OWN0040
+PG00670,Sky Residency,Gujarat,Gandhinagar,Infocity,"240, Nagar, Infocity, Gandhinagar",23.2451,72.6195,7400,22000,Private,Double,Girls,0,0,1,0,0,1,0,0,Fully Furnished,4.4,232,Available,OWN0141
+PG00671,Sunshine Palace,Gujarat,Vadodara,Fatehgunj,"281, Nagar, Fatehgunj, Vadodara",22.3776,73.2588,5400,11000,Dormitory,Dormitory,Boys,1,1,1,1,0,1,1,1,Fully Furnished,4.2,183,Available,OWN0102
+PG00672,Comfort Boys Hostel,Gujarat,Surat,Nana Varachha,"393, Park, Nana Varachha, Surat",21.1131,72.8895,10900,32500,Private,Single,Girls,1,1,0,0,0,1,1,1,Semi Furnished,3.1,415,Available,OWN0114
+PG00673,Sunrise Inn,Maharashtra,Pune,Hinjewadi,"368, Park, Hinjewadi, Pune",18.554,73.7986,7900,8000,Dormitory,Dormitory,Boys,0,0,0,1,1,0,0,0,Fully Furnished,4.9,8,Available,OWN0107
+PG00674,Shanti Nivas,Maharashtra,Nagpur,Sadar,"178, Nagar, Sadar, Nagpur",21.07,79.0182,13100,26000,Private,Double,Boys,1,1,1,1,0,1,1,1,Semi Furnished,4.2,121,Limited,OWN0017
+PG00675,Shanti Rooms,Gujarat,Ahmedabad,CG Road,"396, Road, CG Road, Ahmedabad",22.9843,72.6034,10700,10500,Private,Double,Boys,0,1,1,1,0,1,1,1,Unfurnished,4.9,337,Available,OWN0158
+PG00676,Nirvana Boys Hostel,Maharashtra,Pune,Aundh,"76, Road, Aundh, Pune",18.6032,73.8314,25900,77500,Private,Single,Boys,1,1,1,0,0,1,1,1,Fully Furnished,3.4,401,Limited,OWN0062
+PG00677,Shanti Palace,Maharashtra,Amravati,Gadge Nagar,"292, Nagar, Gadge Nagar, Amravati",20.8955,77.812,5700,11500,Private,Double,Coed,1,1,0,1,0,1,1,1,Fully Furnished,3.3,197,Available,OWN0034
+PG00678,Krishna Nivas,Maharashtra,Kolhapur,Tarabai Park,"299, Road, Tarabai Park, Kolhapur",16.6665,74.236,4000,4000,Shared,Triple,Girls,1,0,1,0,1,1,0,1,Semi Furnished,3.6,5,Limited,OWN0139
+PG00679,Laxmi Villa,Maharashtra,Mumbai,Vikhroli,"113, Colony, Vikhroli, Mumbai",19.0779,72.8314,15800,31500,Shared,Double,Coed,1,0,1,0,0,1,1,1,Fully Furnished,4.4,397,Available,OWN0043
+PG00680,Sky Stay,Gujarat,Jamnagar,Digvijay Plot,"356, Colony, Digvijay Plot, Jamnagar",22.5523,70.0109,6500,13000,Shared,Double,Boys,0,1,1,0,1,0,0,1,Semi Furnished,2.8,99,Available,OWN0044
+PG00681,Harmony Home,Gujarat,Ahmedabad,Paldi,"268, Marg, Paldi, Ahmedabad",22.9447,72.6446,9100,9000,Shared,Triple,Girls,1,1,1,1,1,1,1,1,Semi Furnished,3.8,363,Limited,OWN0098
+PG00682,Nova Palace,Maharashtra,Mumbai,Andheri West,"35, Complex, Andheri West, Mumbai",19.1136,72.9228,6400,19000,Dormitory,Dormitory,Girls,1,1,1,1,0,0,1,0,Fully Furnished,4.4,247,Available,OWN0014
+PG00683,Om House,Gujarat,Surat,Athwa,"340, Colony, Athwa, Surat",21.1909,72.8377,17300,17500,Private,Single,Boys,0,0,1,1,0,0,1,1,Semi Furnished,4.3,379,Limited,OWN0004
+PG00684,Prime Comforts,Gujarat,Surat,Rander,"68, Colony, Rander, Surat",21.1176,72.7502,8900,9000,Shared,Double,Coed,1,1,1,0,1,1,1,1,Fully Furnished,3.2,352,Full,OWN0015
+PG00685,Zenith Villa,Gujarat,Gandhinagar,Infocity,"183, Chowk, Infocity, Gandhinagar",23.1671,72.696,4400,4500,Dormitory,Dormitory,Boys,0,1,0,1,0,0,0,1,Fully Furnished,4.7,23,Full,OWN0041
+PG00686,Sunrise Living,Maharashtra,Mumbai,Jogeshwari,"127, Complex, Jogeshwari, Mumbai",19.0253,72.9576,10800,11000,Shared,Double,Boys,0,1,1,1,0,1,1,1,Semi Furnished,4.7,204,Available,OWN0011
+PG00687,Sunshine Inn,Gujarat,Jamnagar,Pandit Nehru Marg,"186, Park, Pandit Nehru Marg, Jamnagar",22.5481,69.9828,9400,9500,Private,Single,Girls,1,1,0,1,0,1,1,1,Fully Furnished,4.2,195,Available,OWN0049
+PG00688,New House,Gujarat,Surat,Piplod,"131, Lane, Piplod, Surat",21.1496,72.8192,10200,30500,Shared,Triple,Coed,0,1,1,1,0,1,0,1,Fully Furnished,5.0,354,Limited,OWN0160
+PG00689,Golden Inn,Maharashtra,Solapur,Railway Lines,"135, Lane, Railway Lines, Solapur",17.685,75.9468,8900,18000,Private,Single,Boys,0,0,1,1,1,1,1,1,Fully Furnished,4.6,417,Limited,OWN0020
+PG00690,Ganesh Living,Gujarat,Ahmedabad,Thaltej,"256, Park, Thaltej, Ahmedabad",23.0852,72.5766,11400,23000,Shared,Double,Girls,0,1,1,1,0,0,1,0,Semi Furnished,3.9,416,Available,OWN0054
+PG00691,Sai Stay,Maharashtra,Kolhapur,Tarabai Park,"275, Road, Tarabai Park, Kolhapur",16.6292,74.2151,5300,10500,Shared,Triple,Coed,1,1,1,0,0,1,1,1,Fully Furnished,4.8,9,Available,OWN0071
+PG00692,Cozy Living,Gujarat,Surat,Katargam,"93, Chowk, Katargam, Surat",21.22,72.847,11200,33500,Private,Double,Boys,1,0,1,1,1,0,0,1,Semi Furnished,3.8,214,Available,OWN0118
+PG00693,Cozy Heights,Gujarat,Vadodara,Alkapuri,"272, Park, Alkapuri, Vadodara",22.2226,73.2074,3900,11500,Dormitory,Dormitory,Boys,1,0,1,1,1,0,1,1,Fully Furnished,4.8,261,Limited,OWN0067
+PG00694,Blue Stay,Gujarat,Vadodara,Akota,"355, Complex, Akota, Vadodara",22.2259,73.1807,12400,25000,Private,Single,Girls,1,1,1,1,0,1,1,1,Fully Furnished,4.6,393,Limited,OWN0092
+PG00695,Sai Boys Hostel,Maharashtra,Nashik,Indira Nagar,"333, Complex, Indira Nagar, Nashik",20.0753,73.7111,9000,9000,Shared,Double,Boys,0,1,1,1,0,1,1,1,Fully Furnished,4.1,408,Available,OWN0056
+PG00696,Comfort Palace,Maharashtra,Nagpur,Dharampeth,"63, Lane, Dharampeth, Nagpur",21.1448,79.0278,24100,24000,Private,Single,Girls,0,1,1,1,0,1,1,1,Fully Furnished,4.2,340,Limited,OWN0061
+PG00697,Divine Comforts,Gujarat,Surat,Piplod,"359, Lane, Piplod, Surat",21.1954,72.8799,8100,16000,Shared,Triple,Boys,0,0,1,1,0,1,1,1,Fully Furnished,2.9,206,Available,OWN0013
+PG00698,Serene Home,Maharashtra,Mumbai,Kurla,"392, Complex, Kurla, Mumbai",18.9942,72.8214,6400,13000,Shared,Triple,Boys,1,1,1,0,0,1,0,1,Semi Furnished,4.9,364,Available,OWN0127
+PG00699,Legacy Living,Maharashtra,Pune,Katraj,"400, Chowk, Katraj, Pune",18.5965,73.9039,10400,10500,Shared,Double,Girls,0,0,1,1,0,1,1,1,Fully Furnished,3.1,289,Full,OWN0145
+PG00700,Sky Nivas,Gujarat,Surat,Rander,"376, Park, Rander, Surat",21.2585,72.8547,16700,16500,Private,Single,Girls,0,1,0,0,0,0,1,1,Fully Furnished,3.4,353,Limited,OWN0071
+PG00701,Om Rooms,Gujarat,Ahmedabad,Chandkheda,"396, Society, Chandkheda, Ahmedabad",22.9336,72.6018,7200,14500,Shared,Double,Boys,1,1,1,1,0,1,0,1,Fully Furnished,3.5,144,Limited,OWN0012
+PG00702,Green Girls Hostel,Gujarat,Bhavnagar,Kaliyabid,"45, Chowk, Kaliyabid, Bhavnagar",21.7769,72.2058,2900,6000,Dormitory,Dormitory,Boys,1,1,1,1,0,1,0,1,Fully Furnished,3.9,415,Available,OWN0123
+PG00703,Blue Stay,Maharashtra,Nashik,Gangapur Road,"37, Marg, Gangapur Road, Nashik",19.9108,73.7302,10600,10500,Private,Double,Boys,0,0,1,0,0,1,1,1,Semi Furnished,4.0,113,Available,OWN0110
+PG00704,Sky House,Maharashtra,Mumbai,Santacruz,"225, Chowk, Santacruz, Mumbai",19.0276,72.9313,20700,62000,Shared,Double,Coed,1,1,1,1,0,0,0,1,Unfurnished,4.3,161,Available,OWN0155
+PG00705,Sunshine Boys Hostel,Gujarat,Ahmedabad,CG Road,"94, Lane, CG Road, Ahmedabad",22.9917,72.5153,11000,11000,Private,Single,Boys,0,1,1,0,0,1,0,1,Semi Furnished,2.8,218,Full,OWN0119
+PG00706,Serene Inn,Gujarat,Jamnagar,Bedi Bandar Road,"153, Marg, Bedi Bandar Road, Jamnagar",22.4788,70.105,3800,4000,Shared,Triple,Coed,1,1,1,1,0,1,1,1,Semi Furnished,3.8,22,Available,OWN0099
+PG00707,Zenith Villa,Maharashtra,Navi Mumbai,Airoli,"41, Society, Airoli, Navi Mumbai",19.0198,72.9733,8800,9000,Shared,Triple,Boys,1,1,1,1,0,1,1,1,Semi Furnished,3.7,123,Full,OWN0081
+PG00708,Laxmi Girls Hostel,Maharashtra,Pune,Warje,"145, Chowk, Warje, Pune",18.5421,73.8674,20300,40500,Shared,Double,Coed,0,1,1,1,0,1,1,0,Semi Furnished,4.5,127,Limited,OWN0067
+PG00709,Krishna Stay,Gujarat,Rajkot,Mavdi,"270, Complex, Mavdi, Rajkot",22.2652,70.8157,12600,38000,Private,Single,Girls,0,1,1,1,0,1,0,1,Unfurnished,3.0,83,Available,OWN0003
+PG00710,Sky Home,Maharashtra,Amravati,Gadge Nagar,"246, Road, Gadge Nagar, Amravati",20.9276,77.7006,6900,14000,Shared,Double,Coed,1,1,1,0,1,1,1,1,Fully Furnished,3.5,35,Available,OWN0157
+PG00711,City Home,Gujarat,Vadodara,Alkapuri,"70, Society, Alkapuri, Vadodara",22.3653,73.1167,13900,41500,Private,Double,Boys,0,1,1,1,0,1,1,0,Unfurnished,3.0,296,Limited,OWN0018
+PG00712,Urban Inn,Gujarat,Vadodara,Sayajigunj,"199, Lane, Sayajigunj, Vadodara",22.3167,73.1252,16600,16500,Private,Single,Girls,1,1,0,1,0,1,0,1,Fully Furnished,3.2,211,Available,OWN0028
+PG00713,Maruti Inn,Gujarat,Ahmedabad,Chandkheda,"277, Road, Chandkheda, Ahmedabad",23.0519,72.61,12100,12000,Private,Double,Coed,0,1,1,0,1,0,1,1,Fully Furnished,4.8,35,Available,OWN0049
+PG00714,Prime Comforts,Maharashtra,Amravati,Camp Area,"275, Park, Camp Area, Amravati",20.8848,77.7469,5200,10500,Dormitory,Dormitory,Boys,1,1,1,1,0,0,1,1,Fully Furnished,3.1,409,Available,OWN0035
+PG00715,Shanti Palace,Gujarat,Ahmedabad,Prahlad Nagar,"6, Lane, Prahlad Nagar, Ahmedabad",23.0047,72.6599,18200,18000,Private,Single,Boys,0,1,1,0,1,0,1,1,Semi Furnished,4.5,164,Available,OWN0015
+PG00716,Sky Comforts,Gujarat,Surat,Rander,"377, Complex, Rander, Surat",21.1468,72.7512,4800,5000,Shared,Triple,Boys,1,1,1,0,0,0,0,0,Fully Furnished,3.8,86,Full,OWN0034
+PG00717,Maruti Living,Gujarat,Rajkot,150 Feet Ring Road,"339, Complex, 150 Feet Ring Road, Rajkot",22.2244,70.8588,6500,13000,Shared,Triple,Boys,1,1,1,0,0,0,0,1,Fully Furnished,4.0,277,Full,OWN0113
+PG00718,Sunshine Residency,Gujarat,Surat,Rander,"93, Colony, Rander, Surat",21.1646,72.7678,17600,53000,Private,Single,Coed,1,1,1,0,0,1,1,1,Semi Furnished,3.0,98,Available,OWN0022
+PG00719,Sunshine PG,Gujarat,Ahmedabad,Vastrapur,"121, Park, Vastrapur, Ahmedabad",22.954,72.5638,4300,4500,Dormitory,Dormitory,Girls,1,1,0,1,1,1,1,1,Fully Furnished,4.9,319,Available,OWN0091
+PG00720,Cozy Heights,Gujarat,Surat,Katargam,"53, Colony, Katargam, Surat",21.2125,72.9026,10100,30500,Private,Double,Coed,1,1,1,1,1,1,1,1,Semi Furnished,4.1,333,Available,OWN0050
+PG00721,Star Rooms,Maharashtra,Kolhapur,Rajarampuri,"151, Nagar, Rajarampuri, Kolhapur",16.7396,74.3003,9200,18500,Private,Double,Boys,1,1,1,1,1,1,0,1,Fully Furnished,3.9,181,Available,OWN0081
+PG00722,Sky Inn,Gujarat,Surat,Rander,"219, Lane, Rander, Surat",21.1609,72.7874,12600,12500,Private,Double,Girls,1,1,1,1,0,1,1,1,Fully Furnished,4.0,75,Limited,OWN0035
+PG00723,Prime Rooms,Gujarat,Ahmedabad,Thaltej,"60, Society, Thaltej, Ahmedabad",23.0356,72.6483,12500,12500,Private,Double,Coed,0,1,1,1,1,1,1,1,Semi Furnished,3.2,321,Limited,OWN0047
+PG00724,Sunshine Stay,Gujarat,Ahmedabad,CG Road,"331, Complex, CG Road, Ahmedabad",22.9462,72.6008,15900,16000,Private,Single,Girls,1,1,0,1,0,1,1,1,Fully Furnished,4.9,91,Limited,OWN0096
+PG00725,Vraj Retreat,Maharashtra,Nagpur,Dharampeth,"275, Marg, Dharampeth, Nagpur",21.1838,79.0951,3100,9500,Dormitory,Dormitory,Boys,1,1,1,1,0,1,1,1,Fully Furnished,4.5,93,Available,OWN0129
+PG00726,Shree Boys Hostel,Maharashtra,Solapur,Vijapur Road,"267, Park, Vijapur Road, Solapur",17.6495,75.9108,5700,11500,Shared,Triple,Girls,0,0,1,1,1,1,1,1,Semi Furnished,3.8,77,Available,OWN0050
+PG00727,Blue Living,Gujarat,Surat,City Light,"273, Lane, City Light, Surat",21.2044,72.7493,16100,48500,Shared,Double,Girls,0,1,1,1,0,1,0,1,Semi Furnished,4.1,297,Limited,OWN0025
+PG00728,Nest Stay,Maharashtra,Pune,Warje,"30, Lane, Warje, Pune",18.5561,73.7867,21300,21500,Shared,Double,Boys,1,1,1,1,0,1,1,1,Fully Furnished,2.9,417,Available,OWN0063
+PG00729,City Nivas,Maharashtra,Chhatrapati Sambhajinagar,Garkheda,"214, Colony, Garkheda, Chhatrapati Sambhajinagar",19.8852,75.2536,3700,11000,Shared,Triple,Girls,0,1,1,1,1,1,0,0,Fully Furnished,4.7,315,Full,OWN0053
+PG00730,Sunshine Boys Hostel,Gujarat,Vadodara,Akota,"326, Society, Akota, Vadodara",22.2906,73.2257,9000,18000,Shared,Triple,Coed,1,1,1,0,1,1,1,1,Fully Furnished,4.8,370,Limited,OWN0026
+PG00731,Sky Villa,Maharashtra,Pune,Warje,"378, Society, Warje, Pune",18.562,73.807,22900,23000,Shared,Double,Coed,1,0,1,1,1,0,0,1,Fully Furnished,4.2,278,Available,OWN0069
+PG00732,Divine Retreat,Gujarat,Vadodara,Gotri,"60, Marg, Gotri, Vadodara",22.329,73.1753,7900,16000,Dormitory,Dormitory,Girls,0,1,1,1,0,1,0,1,Semi Furnished,4.4,362,Available,OWN0095
+PG00733,Modern Nivas,Maharashtra,Pune,Pimple Saudagar,"176, Park, Pimple Saudagar, Pune",18.5265,73.9042,25300,50500,Private,Single,Girls,0,0,1,1,0,1,1,1,Fully Furnished,5.0,158,Available,OWN0113
+PG00734,Nest Villa,Maharashtra,Mumbai,Thane West,"158, Marg, Thane West, Mumbai",19.0732,72.8889,25900,52000,Private,Single,Girls,1,1,0,0,0,1,1,1,Fully Furnished,4.9,178,Available,OWN0149
+PG00735,Krishna Rooms,Maharashtra,Mumbai,Vile Parle,"162, Road, Vile Parle, Mumbai",19.0052,72.8562,16600,33000,Shared,Double,Girls,0,1,0,1,0,0,1,1,Semi Furnished,4.8,12,Limited,OWN0046
+PG00736,Om Stay,Gujarat,Vadodara,Fatehgunj,"285, Complex, Fatehgunj, Vadodara",22.2817,73.11,6900,14000,Shared,Double,Girls,0,1,1,1,0,0,0,1,Fully Furnished,5.0,124,Available,OWN0115
+PG00737,City Inn,Maharashtra,Nashik,College Road,"390, Chowk, College Road, Nashik",19.916,73.7381,12700,12500,Private,Double,Girls,0,0,1,1,1,1,0,0,Semi Furnished,4.8,153,Available,OWN0146
+PG00738,Cozy Heights,Gujarat,Ahmedabad,Ghatlodia,"83, Chowk, Ghatlodia, Ahmedabad",23.097,72.6456,7200,7000,Shared,Triple,Boys,1,1,1,0,1,1,0,1,Fully Furnished,3.6,219,Available,OWN0103
+PG00739,Ganesh House,Maharashtra,Thane,Vartak Nagar,"399, Colony, Vartak Nagar, Thane",19.158,73.0573,14700,14500,Private,Double,Girls,1,1,1,0,1,1,1,1,Semi Furnished,4.3,228,Limited,OWN0067
+PG00740,Sai Comforts,Maharashtra,Mumbai,Santacruz,"308, Chowk, Santacruz, Mumbai",19.1481,72.8423,19400,39000,Private,Single,Girls,1,0,0,1,0,1,1,1,Semi Furnished,2.9,382,Available,OWN0033
+PG00741,Nova Comforts,Maharashtra,Pune,Baner,"399, Colony, Baner, Pune",18.5979,73.7789,20700,62000,Shared,Double,Boys,0,1,1,0,0,1,1,1,Fully Furnished,4.7,74,Limited,OWN0081
+PG00742,Sai Residency,Gujarat,Ahmedabad,Satellite,"230, Society, Satellite, Ahmedabad",23.1084,72.5404,7100,21500,Private,Double,Girls,1,1,1,1,0,1,1,1,Fully Furnished,4.0,383,Full,OWN0076
+PG00743,Nirvana Villa,Gujarat,Ahmedabad,Ambawadi,"103, Nagar, Ambawadi, Ahmedabad",22.9539,72.5859,11300,34000,Private,Double,Boys,1,1,1,1,1,0,1,1,Semi Furnished,4.8,96,Available,OWN0010
+PG00744,City Nivas,Maharashtra,Mumbai,Jogeshwari,"246, Complex, Jogeshwari, Mumbai",19.0823,72.8192,15100,15000,Shared,Double,Girls,1,1,1,1,0,1,1,1,Semi Furnished,4.5,28,Available,OWN0145
+PG00745,New Living,Maharashtra,Chhatrapati Sambhajinagar,Jalna Road,"196, Marg, Jalna Road, Chhatrapati Sambhajinagar",19.8627,75.3394,9000,18000,Private,Single,Girls,0,1,1,1,0,1,1,0,Semi Furnished,3.7,177,Available,OWN0151
+PG00746,Nova Comforts,Maharashtra,Mumbai,Andheri East,"296, Road, Andheri East, Mumbai",19.1101,72.8079,20000,20000,Shared,Double,Coed,0,1,1,1,0,1,1,1,Unfurnished,4.5,155,Limited,OWN0158
+PG00747,Sai Heights,Maharashtra,Nagpur,Ramdaspeth,"169, Park, Ramdaspeth, Nagpur",21.1346,79.0992,8900,9000,Shared,Double,Girls,1,1,1,1,0,0,1,1,Fully Furnished,3.1,273,Available,OWN0164
+PG00748,Metro Rooms,Maharashtra,Pune,Shivaji Nagar,"135, Park, Shivaji Nagar, Pune",18.5922,73.8499,9100,9000,Shared,Triple,Girls,1,1,1,1,0,1,1,1,Semi Furnished,4.7,61,Limited,OWN0148
+PG00749,Metro Stay,Gujarat,Vadodara,Akota,"12, Colony, Akota, Vadodara",22.3674,73.1056,12100,36500,Shared,Double,Girls,0,0,1,1,0,1,0,1,Fully Furnished,4.5,389,Limited,OWN0004
+PG00750,Sunrise Home,Maharashtra,Nagpur,Ramdaspeth,"63, Lane, Ramdaspeth, Nagpur",21.0909,79.1194,9200,18500,Shared,Double,Boys,1,1,1,1,0,1,1,1,Semi Furnished,4.6,260,Limited,OWN0011
+PG00751,Zenith Palace,Gujarat,Rajkot,Kalawad Road,"206, Society, Kalawad Road, Rajkot",22.3722,70.7661,4900,10000,Dormitory,Dormitory,Coed,0,1,1,1,0,0,1,1,Fully Furnished,4.6,33,Limited,OWN0161
+PG00752,Vraj Residency,Gujarat,Gandhinagar,Sector 7,"188, Nagar, Sector 7, Gandhinagar",23.3012,72.7227,8200,8000,Shared,Double,Girls,0,1,1,0,1,1,1,0,Semi Furnished,4.3,263,Full,OWN0121
+PG00753,Maruti Inn,Maharashtra,Mumbai,Kurla,"210, Road, Kurla, Mumbai",18.9911,72.8162,15000,30000,Private,Single,Boys,1,0,1,1,0,1,1,0,Fully Furnished,4.8,174,Available,OWN0163
+PG00754,Sai Home,Maharashtra,Solapur,Vijapur Road,"20, Lane, Vijapur Road, Solapur",17.719,75.8241,5600,5500,Shared,Double,Boys,1,1,1,0,0,1,1,1,Fully Furnished,4.5,120,Available,OWN0055
+PG00755,Maruti Heights,Maharashtra,Solapur,Saat Rasta,"206, Nagar, Saat Rasta, Solapur",17.644,75.9599,7300,7500,Shared,Triple,Girls,0,1,1,0,0,1,0,0,Semi Furnished,3.6,364,Available,OWN0085
+PG00756,Zenith Living,Maharashtra,Mumbai,Kurla,"101, Road, Kurla, Mumbai",19.0104,72.8761,19900,20000,Shared,Double,Girls,0,0,0,0,0,1,1,1,Fully Furnished,3.9,36,Available,OWN0053
+PG00757,Sunshine Comforts,Maharashtra,Mumbai,Kurla,"375, Lane, Kurla, Mumbai",19.1033,72.8523,15100,15000,Private,Single,Girls,1,1,1,0,0,1,1,1,Fully Furnished,2.9,282,Available,OWN0035
+PG00758,Green Nivas,Gujarat,Gandhinagar,Sector 11,"120, Society, Sector 11, Gandhinagar",23.3002,72.7132,5600,11000,Shared,Triple,Boys,0,1,1,1,0,0,1,1,Fully Furnished,3.6,402,Available,OWN0142
+PG00759,Modern Home,Maharashtra,Pune,Hinjewadi,"325, Colony, Hinjewadi, Pune",18.5422,73.8953,14500,43500,Private,Single,Coed,1,1,0,0,0,1,1,1,Fully Furnished,3.5,76,Available,OWN0004
+PG00760,Legacy PG,Gujarat,Vadodara,Manjalpur,"19, Lane, Manjalpur, Vadodara",22.2482,73.1091,17700,35500,Private,Single,Boys,1,1,1,1,1,0,0,1,Fully Furnished,4.5,203,Full,OWN0107
+PG00761,Legacy Stay,Maharashtra,Nagpur,Dharampeth,"6, Park, Dharampeth, Nagpur",21.1586,79.0336,6000,6000,Shared,Triple,Boys,1,0,0,1,0,1,1,1,Fully Furnished,3.8,85,Available,OWN0053
+PG00762,Nova Residency,Maharashtra,Mumbai,Thane West,"336, Chowk, Thane West, Mumbai",19.0879,72.9215,12700,25500,Shared,Double,Boys,0,0,0,1,1,0,0,1,Fully Furnished,3.4,128,Available,OWN0038
+PG00763,Happy Nivas,Maharashtra,Thane,Vartak Nagar,"185, Colony, Vartak Nagar, Thane",19.1811,73.0297,13100,39500,Private,Single,Boys,1,1,0,0,0,1,1,1,Fully Furnished,4.7,95,Available,OWN0006
+PG00764,Urban Home,Gujarat,Vadodara,Karelibaug,"116, Colony, Karelibaug, Vadodara",22.2929,73.2038,11900,12000,Shared,Double,Girls,0,1,1,1,0,1,1,1,Fully Furnished,3.0,344,Available,OWN0138
+PG00765,Laxmi Rooms,Maharashtra,Mumbai,Borivali,"376, Complex, Borivali, Mumbai",19.0167,72.8651,23600,71000,Shared,Double,Girls,0,1,1,0,0,1,1,1,Fully Furnished,4.4,227,Limited,OWN0143
+PG00766,New House,Maharashtra,Navi Mumbai,Airoli,"44, Chowk, Airoli, Navi Mumbai",18.9627,72.9456,14300,14500,Private,Single,Girls,0,0,0,1,1,1,1,0,Fully Furnished,3.1,296,Full,OWN0106
+PG00767,Royal Nivas,Gujarat,Gandhinagar,Sector 16,"34, Colony, Sector 16, Gandhinagar",23.1593,72.6755,6100,12000,Private,Double,Girls,0,1,1,1,1,1,1,1,Fully Furnished,4.4,209,Available,OWN0152
+PG00768,Nirvana Residency,Gujarat,Ahmedabad,Navrangpura,"63, Nagar, Navrangpura, Ahmedabad",22.9331,72.5752,7800,8000,Private,Double,Boys,0,1,1,0,0,1,1,1,Semi Furnished,4.4,319,Available,OWN0003
+PG00769,Golden Retreat,Maharashtra,Mumbai,Ghatkopar,"246, Nagar, Ghatkopar, Mumbai",19.04,72.9657,30500,91500,Private,Single,Boys,1,1,1,1,1,0,0,1,Fully Furnished,4.7,165,Available,OWN0155
+PG00770,Prime Rooms,Maharashtra,Mumbai,Mulund,"77, Road, Mulund, Mumbai",19.111,72.8471,12200,12000,Private,Single,Coed,1,1,1,1,0,0,1,1,Semi Furnished,4.3,210,Available,OWN0038
+PG00771,Sunrise House,Maharashtra,Pune,Viman Nagar,"362, Complex, Viman Nagar, Pune",18.4409,73.7915,7300,7500,Dormitory,Dormitory,Girls,1,1,1,0,1,0,1,1,Fully Furnished,3.0,137,Limited,OWN0035
+PG00772,Modern Nivas,Maharashtra,Mumbai,Mulund,"114, Park, Mulund, Mumbai",19.1007,72.8224,6500,19500,Dormitory,Dormitory,Boys,1,0,0,1,0,1,1,0,Semi Furnished,4.5,170,Available,OWN0005
+PG00773,Comfort PG,Gujarat,Rajkot,Raiya Road,"238, Colony, Raiya Road, Rajkot",22.3745,70.7328,6600,20000,Private,Single,Boys,1,1,1,1,0,0,1,0,Semi Furnished,5.0,324,Available,OWN0090
+PG00774,Urban Comforts,Gujarat,Ahmedabad,Navrangpura,"396, Nagar, Navrangpura, Ahmedabad",23.0504,72.529,11900,12000,Private,Double,Coed,0,1,1,1,0,0,1,1,Fully Furnished,3.6,371,Limited,OWN0161
+PG00775,Krishna Comforts,Maharashtra,Navi Mumbai,Kopar Khairane,"180, Complex, Kopar Khairane, Navi Mumbai",18.9986,73.0919,7400,7500,Dormitory,Dormitory,Boys,0,0,1,1,0,0,1,0,Fully Furnished,4.7,363,Limited,OWN0090
+PG00776,Radha Residency,Maharashtra,Solapur,Vijapur Road,"319, Marg, Vijapur Road, Solapur",17.7414,75.9705,9300,18500,Shared,Double,Girls,0,1,1,1,1,1,1,1,Fully Furnished,4.9,415,Available,OWN0129
+PG00777,Urban Living,Maharashtra,Mumbai,Chembur,"108, Nagar, Chembur, Mumbai",19.1612,72.8103,20800,21000,Private,Double,Coed,0,1,1,1,0,1,0,1,Fully Furnished,4.5,11,Full,OWN0071
+PG00778,Silver Heights,Maharashtra,Nashik,Sharanpur Road,"397, Lane, Sharanpur Road, Nashik",20.0548,73.8378,9500,19000,Shared,Double,Boys,1,1,1,0,0,0,0,1,Fully Furnished,3.4,413,Available,OWN0006
+PG00779,City Home,Maharashtra,Amravati,Camp Area,"52, Road, Camp Area, Amravati",20.8941,77.8289,9700,19500,Private,Single,Coed,1,1,1,1,0,1,1,0,Fully Furnished,4.6,125,Available,OWN0026
+PG00780,Star Nivas,Maharashtra,Pune,Warje,"32, Lane, Warje, Pune",18.4997,73.9444,29600,29500,Private,Single,Girls,1,0,1,1,1,0,0,1,Semi Furnished,3.9,53,Available,OWN0120
+PG00781,Ganesh House,Maharashtra,Nagpur,Sitabuldi,"390, Park, Sitabuldi, Nagpur",21.064,79.1331,5800,11500,Shared,Triple,Girls,1,1,0,1,0,1,1,1,Fully Furnished,3.3,227,Available,OWN0087
+PG00782,Nova House,Maharashtra,Mumbai,Malad,"400, Marg, Malad, Mumbai",18.9901,72.9538,11800,12000,Shared,Double,Boys,1,1,1,0,0,0,1,1,Semi Furnished,4.5,327,Full,OWN0065
+PG00783,Om PG,Maharashtra,Mumbai,Malad,"230, Chowk, Malad, Mumbai",19.0824,72.875,12700,38000,Shared,Double,Coed,1,1,1,0,0,0,1,1,Fully Furnished,4.7,102,Limited,OWN0035
+PG00784,Cozy Inn,Gujarat,Vadodara,Vasna,"300, Road, Vasna, Vadodara",22.3907,73.1204,12900,26000,Shared,Double,Girls,1,1,1,0,0,1,1,1,Fully Furnished,4.7,189,Limited,OWN0037
+PG00785,Modern House,Gujarat,Ahmedabad,Vastrapur,"199, Society, Vastrapur, Ahmedabad",23.0649,72.6324,11300,34000,Private,Double,Boys,0,0,1,0,0,0,1,0,Semi Furnished,3.4,152,Available,OWN0057
+PG00786,Green Stay,Gujarat,Ahmedabad,Gota,"162, Lane, Gota, Ahmedabad",23.0968,72.6143,18900,38000,Private,Single,Coed,0,1,0,1,0,0,1,0,Semi Furnished,3.5,161,Available,OWN0024
+PG00787,Radha Heights,Gujarat,Ahmedabad,Navrangpura,"216, Nagar, Navrangpura, Ahmedabad",23.0801,72.6399,14400,14500,Shared,Double,Girls,1,1,1,0,0,1,1,1,Fully Furnished,3.9,416,Available,OWN0060
+PG00788,Krishna House,Maharashtra,Pune,Deccan Gymkhana,"193, Road, Deccan Gymkhana, Pune",18.5216,73.8281,10100,10000,Shared,Triple,Girls,1,0,1,0,0,0,1,1,Fully Furnished,3.6,229,Available,OWN0118
+PG00789,Krishna Heights,Gujarat,Surat,Pal,"273, Lane, Pal, Surat",21.1637,72.8062,10300,10500,Shared,Triple,Boys,1,0,0,1,1,1,0,1,Semi Furnished,3.6,85,Available,OWN0086
+PG00790,Prime Villa,Gujarat,Vadodara,Vasna,"96, Complex, Vasna, Vadodara",22.3405,73.1637,13100,13000,Shared,Double,Boys,1,1,1,1,0,1,0,1,Fully Furnished,4.4,208,Available,OWN0036
+PG00791,Sunshine Heights,Gujarat,Bhavnagar,Ghogha Circle,"311, Road, Ghogha Circle, Bhavnagar",21.7137,72.1571,6700,20000,Private,Double,Boys,0,1,1,1,0,1,1,1,Semi Furnished,4.3,312,Limited,OWN0122
+PG00792,Urban Villa,Gujarat,Surat,Varachha,"220, Nagar, Varachha, Surat",21.2138,72.9134,11600,11500,Shared,Double,Girls,0,1,0,1,0,1,1,1,Semi Furnished,2.9,403,Available,OWN0038
+PG00793,Happy Villa,Maharashtra,Thane,Kolshet Road,"374, Lane, Kolshet Road, Thane",19.1661,72.9605,8900,9000,Private,Double,Boys,0,0,0,1,0,1,0,1,Fully Furnished,4.5,83,Limited,OWN0140
+PG00794,Nirvana Comforts,Gujarat,Bhavnagar,Kaliyabid,"17, Park, Kaliyabid, Bhavnagar",21.7228,72.1613,12000,36000,Private,Single,Girls,0,1,1,1,0,0,1,1,Fully Furnished,5.0,139,Available,OWN0102
+PG00795,Green Villa,Gujarat,Vadodara,Gotri,"238, Road, Gotri, Vadodara",22.2281,73.1895,4100,4000,Dormitory,Dormitory,Girls,1,0,0,1,0,1,1,1,Semi Furnished,3.2,146,Available,OWN0058
+PG00796,Divine Retreat,Maharashtra,Thane,Kolshet Road,"124, Complex, Kolshet Road, Thane",19.1571,72.9383,20900,42000,Private,Single,Girls,1,1,1,0,0,1,1,1,Semi Furnished,3.3,239,Limited,OWN0127
+PG00797,Ganesh Comforts,Gujarat,Surat,Vesu,"179, Road, Vesu, Surat",21.109,72.8442,6900,14000,Private,Double,Girls,0,1,1,0,0,1,1,1,Fully Furnished,3.9,322,Limited,OWN0151
+PG00798,Legacy Retreat,Gujarat,Bhavnagar,Sardarnagar,"155, Road, Sardarnagar, Bhavnagar",21.8046,72.1529,12900,13000,Private,Single,Boys,1,1,1,0,0,0,1,1,Fully Furnished,3.0,193,Limited,OWN0077
+PG00799,Legacy PG,Maharashtra,Chhatrapati Sambhajinagar,Garkheda,"300, Lane, Garkheda, Chhatrapati Sambhajinagar",19.8977,75.3036,9000,9000,Private,Single,Coed,0,1,1,1,0,0,1,0,Fully Furnished,4.2,376,Available,OWN0087
+PG00800,Om Inn,Gujarat,Rajkot,Raiya Road,"298, Complex, Raiya Road, Rajkot",22.3431,70.8737,4800,5000,Shared,Triple,Boys,1,1,0,1,1,1,1,1,Fully Furnished,4.4,278,Full,OWN0060
+PG00801,Elite Villa,Gujarat,Surat,City Light,"400, Park, City Light, Surat",21.2157,72.7574,9500,9500,Shared,Double,Coed,1,0,1,1,0,1,1,1,Fully Furnished,3.2,399,Full,OWN0165
+PG00802,Silver House,Gujarat,Ahmedabad,Naranpura,"93, Chowk, Naranpura, Ahmedabad",23.0948,72.5429,11900,24000,Private,Double,Boys,1,1,0,1,1,0,1,1,Fully Furnished,4.8,75,Limited,OWN0159
+PG00803,Royal Nivas,Gujarat,Mehsana,Radhanpur Road,"338, Complex, Radhanpur Road, Mehsana",23.6436,72.3204,2800,3000,Dormitory,Dormitory,Boys,1,1,1,1,0,1,1,1,Semi Furnished,3.0,330,Available,OWN0061
+PG00804,Zenith House,Maharashtra,Pune,Hinjewadi,"134, Marg, Hinjewadi, Pune",18.5235,73.8462,14100,14000,Shared,Double,Girls,0,1,1,0,0,0,1,1,Fully Furnished,3.2,6,Available,OWN0139
+PG00805,Nirvana Palace,Maharashtra,Mumbai,Andheri West,"107, Lane, Andheri West, Mumbai",19.0637,72.9018,11600,23000,Shared,Triple,Coed,0,0,1,1,0,1,1,1,Fully Furnished,4.2,405,Limited,OWN0135
+PG00806,Vraj Heights,Maharashtra,Mumbai,Vile Parle,"70, Chowk, Vile Parle, Mumbai",19.0169,72.9272,15500,46500,Shared,Double,Girls,0,1,0,0,0,1,1,1,Fully Furnished,4.0,91,Available,OWN0090
+PG00807,Laxmi Nivas,Gujarat,Ahmedabad,Satellite,"388, Nagar, Satellite, Ahmedabad",23.0285,72.5449,17600,17500,Private,Single,Boys,1,0,1,1,1,1,1,1,Semi Furnished,4.1,338,Available,OWN0044
+PG00808,Royal Living,Maharashtra,Thane,Kolshet Road,"176, Road, Kolshet Road, Thane",19.1355,72.9619,4700,9500,Dormitory,Dormitory,Boys,0,1,1,1,1,0,1,1,Fully Furnished,3.2,320,Available,OWN0042
+PG00809,Royal PG,Gujarat,Rajkot,Mavdi,"215, Road, Mavdi, Rajkot",22.2308,70.8831,4900,10000,Dormitory,Dormitory,Boys,1,1,0,0,0,1,0,0,Fully Furnished,3.3,272,Limited,OWN0091
+PG00810,Radha Retreat,Gujarat,Ahmedabad,Prahlad Nagar,"47, Marg, Prahlad Nagar, Ahmedabad",22.9736,72.5126,5800,6000,Shared,Triple,Coed,0,1,1,0,1,0,0,1,Unfurnished,4.4,202,Available,OWN0074
+PG00811,Ganesh Girls Hostel,Gujarat,Ahmedabad,Naranpura,"245, Chowk, Naranpura, Ahmedabad",23.0153,72.5649,8000,24000,Shared,Triple,Girls,1,1,1,1,0,1,1,1,Fully Furnished,3.8,47,Limited,OWN0127
+PG00812,Comfort Nivas,Maharashtra,Pune,Hadapsar,"147, Complex, Hadapsar, Pune",18.4614,73.8922,16500,16500,Private,Single,Girls,1,1,1,0,0,1,1,1,Unfurnished,3.2,153,Limited,OWN0095
+PG00813,Nest PG,Maharashtra,Nagpur,Sitabuldi,"144, Marg, Sitabuldi, Nagpur",21.2074,79.0228,14400,14500,Private,Single,Girls,0,1,1,1,0,0,1,0,Fully Furnished,3.7,145,Available,OWN0152
+PG00814,Legacy Residency,Maharashtra,Pune,Hinjewadi,"135, Chowk, Hinjewadi, Pune",18.5351,73.8064,25100,50000,Private,Single,Girls,1,1,0,1,1,1,0,1,Semi Furnished,4.7,182,Full,OWN0066
+PG00815,Om Inn,Maharashtra,Kolhapur,Kawala Naka,"284, Society, Kawala Naka, Kolhapur",16.6386,74.3111,12700,38000,Private,Single,Girls,0,1,0,1,0,0,1,1,Semi Furnished,3.5,23,Limited,OWN0144
+PG00816,Vraj PG,Gujarat,Jamnagar,Bedi Bandar Road,"173, Road, Bedi Bandar Road, Jamnagar",22.5564,70.0331,12300,12500,Private,Single,Boys,1,1,1,1,1,1,1,0,Fully Furnished,4.9,96,Limited,OWN0108
+PG00817,Golden Stay,Gujarat,Anand,Anand-Vidyanagar Road,"395, Complex, Anand-Vidyanagar Road, Anand",22.6385,72.9545,4700,9500,Shared,Triple,Girls,0,0,1,1,1,1,1,1,Semi Furnished,4.3,260,Limited,OWN0103
+PG00818,Sunrise Rooms,Gujarat,Ahmedabad,Prahlad Nagar,"293, Colony, Prahlad Nagar, Ahmedabad",23.0763,72.5962,16800,50500,Private,Single,Girls,1,1,1,0,0,1,1,1,Semi Furnished,4.5,208,Limited,OWN0148
+PG00819,Star Nivas,Maharashtra,Solapur,Saat Rasta,"393, Complex, Saat Rasta, Solapur",17.7312,75.8191,9700,19500,Shared,Double,Coed,1,1,1,0,0,0,1,1,Semi Furnished,4.8,276,Available,OWN0079
+PG00820,Legacy Comforts,Maharashtra,Pune,Aundh,"45, Lane, Aundh, Pune",18.5033,73.8192,11100,11000,Dormitory,Dormitory,Boys,1,1,1,0,0,0,1,1,Fully Furnished,4.0,100,Available,OWN0067
+PG00821,Om Living,Maharashtra,Amravati,Gadge Nagar,"338, Lane, Gadge Nagar, Amravati",20.8766,77.8695,3800,11500,Shared,Triple,Girls,1,1,0,1,0,0,1,1,Fully Furnished,4.7,273,Available,OWN0014
+PG00822,Prime Residency,Gujarat,Ahmedabad,Bopal,"169, Road, Bopal, Ahmedabad",23.0913,72.586,18900,56500,Private,Single,Boys,0,1,1,1,1,1,1,1,Semi Furnished,4.7,36,Available,OWN0103
+PG00823,Sky Rooms,Gujarat,Surat,Piplod,"154, Complex, Piplod, Surat",21.1883,72.8157,6800,20500,Private,Double,Girls,1,1,1,1,0,1,1,1,Fully Furnished,3.7,306,Limited,OWN0154
+PG00824,Nova Inn,Maharashtra,Chhatrapati Sambhajinagar,Cidco N-5,"201, Colony, Cidco N-5, Chhatrapati Sambhajinagar",19.9407,75.2842,6500,6500,Private,Single,Boys,1,1,0,0,0,0,0,1,Fully Furnished,4.6,198,Limited,OWN0048
+PG00825,Serene Stay,Maharashtra,Pune,Kondhwa,"42, Colony, Kondhwa, Pune",18.6101,73.8892,18400,18500,Private,Double,Girls,0,1,1,1,1,0,0,1,Fully Furnished,3.2,139,Available,OWN0104
+PG00826,Divine Stay,Maharashtra,Thane,Majiwada,"68, Nagar, Majiwada, Thane",19.1389,72.9979,15200,30500,Private,Single,Coed,1,0,1,0,0,0,0,1,Fully Furnished,2.8,127,Full,OWN0070
+PG00827,Nirvana Villa,Maharashtra,Thane,Manpada,"256, Lane, Manpada, Thane",19.2267,72.9095,12300,12500,Shared,Double,Girls,0,1,1,1,0,0,0,1,Semi Furnished,3.1,300,Available,OWN0125
+PG00828,Happy PG,Maharashtra,Navi Mumbai,Panvel,"132, Colony, Panvel, Navi Mumbai",19.1027,73.1026,13400,13500,Shared,Double,Boys,1,1,1,1,0,1,1,0,Fully Furnished,5.0,310,Limited,OWN0040
+PG00829,Nest Heights,Maharashtra,Mumbai,Vile Parle,"205, Complex, Vile Parle, Mumbai",19.0306,72.8454,8700,17500,Shared,Triple,Girls,1,1,1,1,0,0,1,1,Fully Furnished,3.5,311,Available,OWN0049
+PG00830,Laxmi Stay,Maharashtra,Navi Mumbai,Airoli,"16, Road, Airoli, Navi Mumbai",18.9582,73.1181,15400,15500,Shared,Double,Boys,0,1,0,0,0,0,1,1,Fully Furnished,4.9,39,Available,OWN0031
+PG00831,Prime Heights,Gujarat,Ahmedabad,Nikol,"68, Road, Nikol, Ahmedabad",23.0786,72.5706,12300,12500,Shared,Double,Girls,1,1,1,0,1,1,1,1,Fully Furnished,4.9,221,Available,OWN0027
+PG00832,Happy PG,Maharashtra,Pune,Wagholi,"333, Park, Wagholi, Pune",18.531,73.8784,26200,26000,Private,Single,Boys,0,1,1,1,0,1,1,1,Semi Furnished,4.2,378,Limited,OWN0075
+PG00833,Modern Heights,Maharashtra,Thane,Ghodbunder Road,"132, Society, Ghodbunder Road, Thane",19.184,73.0313,9600,29000,Shared,Double,Coed,1,1,1,1,0,1,1,0,Fully Furnished,3.3,47,Limited,OWN0046
+PG00834,Green Palace,Maharashtra,Navi Mumbai,Nerul,"265, Marg, Nerul, Navi Mumbai",19.0681,73.0897,15400,31000,Private,Single,Boys,1,1,1,1,1,1,1,0,Fully Furnished,3.1,118,Available,OWN0017
+PG00835,Urban Residency,Maharashtra,Solapur,Railway Lines,"399, Society, Railway Lines, Solapur",17.6944,75.9011,7400,15000,Shared,Triple,Coed,1,1,0,1,0,1,1,1,Unfurnished,2.9,419,Available,OWN0091
+PG00836,Silver Boys Hostel,Maharashtra,Mumbai,Mulund,"232, Nagar, Mulund, Mumbai",19.0483,72.9213,14200,14000,Private,Double,Boys,0,1,1,1,1,1,1,1,Fully Furnished,3.5,162,Available,OWN0071
+PG00837,Legacy House,Maharashtra,Navi Mumbai,Panvel,"92, Society, Panvel, Navi Mumbai",18.9878,73.1059,12500,12500,Shared,Double,Boys,0,1,1,1,0,1,1,0,Semi Furnished,4.3,13,Limited,OWN0137
+PG00838,Vraj Palace,Maharashtra,Mumbai,Kandivali,"105, Lane, Kandivali, Mumbai",19.0565,72.816,18700,37500,Private,Single,Boys,1,0,1,1,1,0,1,1,Semi Furnished,4.1,250,Full,OWN0011
+PG00839,Om Residency,Maharashtra,Pune,Hinjewadi,"48, Lane, Hinjewadi, Pune",18.6066,73.8955,10200,20500,Shared,Triple,Girls,1,1,1,1,0,1,1,1,Semi Furnished,2.9,235,Limited,OWN0041
+PG00840,Royal Heights,Gujarat,Surat,Katargam,"245, Nagar, Katargam, Surat",21.1209,72.904,12200,12000,Private,Single,Girls,0,0,1,0,1,0,0,1,Semi Furnished,4.1,218,Full,OWN0125
+PG00841,Shree Boys Hostel,Maharashtra,Nashik,Indira Nagar,"360, Chowk, Indira Nagar, Nashik",19.9313,73.7731,3200,6500,Dormitory,Dormitory,Boys,1,1,1,1,0,0,1,0,Fully Furnished,2.9,419,Available,OWN0061
+PG00842,Sai PG,Gujarat,Ahmedabad,CG Road,"67, Complex, CG Road, Ahmedabad",22.9755,72.6307,11600,35000,Shared,Double,Girls,1,1,0,1,0,0,1,1,Semi Furnished,3.1,72,Available,OWN0068
+PG00843,Sai Villa,Gujarat,Gandhinagar,Sector 28,"357, Park, Sector 28, Gandhinagar",23.1616,72.7166,10200,10000,Private,Single,Girls,1,1,1,1,0,1,0,1,Fully Furnished,3.5,418,Available,OWN0162
+PG00844,Nest Rooms,Maharashtra,Pune,Wakad,"356, Nagar, Wakad, Pune",18.4383,73.8181,5000,5000,Dormitory,Dormitory,Boys,0,1,1,1,0,1,1,1,Fully Furnished,3.5,210,Available,OWN0043
+PG00845,Serene PG,Maharashtra,Pune,Magarpatta,"162, Chowk, Magarpatta, Pune",18.4573,73.8555,17300,17500,Private,Single,Girls,1,1,1,1,0,1,1,0,Fully Furnished,3.2,412,Full,OWN0094
+PG00846,Divine Comforts,Maharashtra,Mumbai,Andheri East,"348, Society, Andheri East, Mumbai",18.9988,72.9596,9600,19000,Private,Double,Boys,0,1,1,1,1,1,1,1,Fully Furnished,3.6,138,Limited,OWN0094
+PG00847,Zenith PG,Gujarat,Vadodara,Sayajigunj,"164, Marg, Sayajigunj, Vadodara",22.3422,73.269,12800,25500,Private,Double,Boys,0,1,1,1,0,1,1,1,Semi Furnished,3.4,346,Available,OWN0102
+PG00848,Sky Comforts,Maharashtra,Mumbai,Andheri East,"382, Marg, Andheri East, Mumbai",19.0534,72.8721,9300,9500,Shared,Triple,Boys,0,1,1,1,0,1,1,0,Fully Furnished,4.4,360,Available,OWN0035
+PG00849,Urban Comforts,Gujarat,Vadodara,Vasna,"391, Colony, Vasna, Vadodara",22.2692,73.0984,10200,30500,Shared,Triple,Coed,0,1,1,0,0,0,1,1,Fully Furnished,3.1,72,Available,OWN0047
+PG00850,Green Retreat,Gujarat,Ahmedabad,Satellite,"316, Lane, Satellite, Ahmedabad",22.9777,72.6599,10500,21000,Private,Double,Girls,1,1,1,1,0,0,1,1,Semi Furnished,3.5,140,Limited,OWN0033
+PG00851,Vraj Residency,Maharashtra,Kolhapur,Rajarampuri,"104, Complex, Rajarampuri, Kolhapur",16.7797,74.233,2700,5500,Dormitory,Dormitory,Boys,0,0,1,1,0,1,1,1,Unfurnished,3.9,242,Available,OWN0053
+PG00852,Comfort Inn,Maharashtra,Navi Mumbai,Belapur,"206, Nagar, Belapur, Navi Mumbai",19.1026,73.0308,6200,12500,Shared,Double,Girls,1,1,1,1,1,1,1,1,Fully Furnished,4.6,330,Available,OWN0077
+PG00853,Vraj Heights,Maharashtra,Nagpur,Manish Nagar,"389, Park, Manish Nagar, Nagpur",21.2174,79.0468,12800,13000,Shared,Double,Girls,0,1,1,0,1,1,0,1,Fully Furnished,4.7,417,Full,OWN0068
+PG00854,Radha Boys Hostel,Maharashtra,Navi Mumbai,Kopar Khairane,"305, Marg, Kopar Khairane, Navi Mumbai",18.9558,73.043,11000,33000,Shared,Double,Girls,0,1,0,0,0,1,1,1,Semi Furnished,3.7,304,Limited,OWN0081
+PG00855,Shanti House,Maharashtra,Nashik,College Road,"214, Chowk, College Road, Nashik",20.0635,73.8073,17800,18000,Private,Single,Girls,1,1,1,0,0,0,1,0,Fully Furnished,4.2,290,Full,OWN0059
+PG00856,Blue House,Gujarat,Vadodara,Alkapuri,"99, Complex, Alkapuri, Vadodara",22.3432,73.124,9900,10000,Shared,Double,Girls,1,1,1,1,1,1,1,1,Unfurnished,3.3,272,Limited,OWN0124
+PG00857,Ganesh PG,Gujarat,Ahmedabad,Vejalpur,"197, Society, Vejalpur, Ahmedabad",23.1076,72.5336,6000,12000,Dormitory,Dormitory,Boys,1,1,0,1,0,0,1,1,Fully Furnished,3.7,230,Limited,OWN0146
+PG00858,Shree Stay,Maharashtra,Nashik,Indira Nagar,"318, Marg, Indira Nagar, Nashik",19.9422,73.8219,11400,11500,Private,Single,Boys,1,1,1,1,0,0,0,1,Fully Furnished,3.4,258,Limited,OWN0134
+PG00859,Serene Girls Hostel,Maharashtra,Navi Mumbai,Kharghar,"52, Colony, Kharghar, Navi Mumbai",19.002,73.0763,10700,21500,Private,Single,Boys,1,0,1,1,1,0,1,1,Fully Furnished,3.5,81,Available,OWN0066
+PG00860,Nova Rooms,Maharashtra,Chhatrapati Sambhajinagar,Jalna Road,"3, Colony, Jalna Road, Chhatrapati Sambhajinagar",19.7986,75.3455,6500,13000,Shared,Triple,Boys,1,0,0,0,0,0,1,0,Fully Furnished,2.9,321,Available,OWN0069
+PG00861,Sky PG,Gujarat,Surat,Athwa,"356, Park, Athwa, Surat",21.1725,72.8151,9200,27500,Shared,Double,Girls,0,1,1,1,0,1,1,1,Semi Furnished,4.1,297,Full,OWN0035
+PG00862,Cozy Palace,Maharashtra,Thane,Vartak Nagar,"186, Chowk, Vartak Nagar, Thane",19.3065,72.988,7100,14000,Shared,Double,Boys,0,1,1,1,0,0,1,1,Semi Furnished,3.3,131,Limited,OWN0087
+PG00863,Blue Living,Maharashtra,Mumbai,Vile Parle,"139, Colony, Vile Parle, Mumbai",18.9941,72.9061,10800,21500,Shared,Triple,Boys,0,1,1,1,1,0,1,1,Fully Furnished,2.9,52,Available,OWN0113
+PG00864,Cozy Rooms,Maharashtra,Pune,Deccan Gymkhana,"35, Complex, Deccan Gymkhana, Pune",18.4818,73.8453,15300,15500,Shared,Triple,Coed,1,1,1,1,0,0,1,1,Fully Furnished,4.9,57,Available,OWN0041
+PG00865,Sunrise Girls Hostel,Gujarat,Vadodara,Manjalpur,"370, Complex, Manjalpur, Vadodara",22.2475,73.2517,13800,27500,Private,Double,Boys,1,1,1,0,1,1,1,1,Fully Furnished,4.9,351,Available,OWN0024
+PG00866,Golden Villa,Maharashtra,Navi Mumbai,Airoli,"277, Complex, Airoli, Navi Mumbai",19.1092,73.0834,13200,39500,Private,Double,Coed,1,1,1,1,0,1,1,1,Fully Furnished,3.8,233,Limited,OWN0149
+PG00867,Nirvana PG,Gujarat,Ahmedabad,Maninagar,"19, Chowk, Maninagar, Ahmedabad",23.0916,72.5224,18300,55000,Private,Single,Girls,1,1,1,1,1,1,1,1,Fully Furnished,4.1,42,Full,OWN0140
+PG00868,Zenith Residency,Maharashtra,Mumbai,Andheri West,"181, Society, Andheri West, Mumbai",19.1377,72.9225,13600,41000,Private,Double,Girls,0,1,1,0,1,1,1,1,Fully Furnished,4.7,11,Limited,OWN0103
+PG00869,Sunrise Boys Hostel,Gujarat,Ahmedabad,Chandkheda,"378, Society, Chandkheda, Ahmedabad",23.0394,72.604,10500,10500,Shared,Triple,Boys,1,1,0,1,0,0,1,1,Unfurnished,2.9,63,Available,OWN0151
+PG00870,Prime Inn,Gujarat,Surat,Ghod Dod Road,"284, Lane, Ghod Dod Road, Surat",21.2205,72.8472,14100,42500,Private,Double,Girls,0,0,1,1,0,1,1,1,Fully Furnished,4.4,118,Full,OWN0049
+PG00871,Divine Comforts,Gujarat,Gandhinagar,Sector 28,"379, Society, Sector 28, Gandhinagar",23.2059,72.691,4200,8500,Shared,Triple,Girls,1,1,0,1,0,1,1,1,Fully Furnished,4.1,381,Available,OWN0071
+PG00872,Sunshine Palace,Maharashtra,Pune,Wagholi,"54, Society, Wagholi, Pune",18.4778,73.8227,15400,15500,Private,Single,Girls,0,0,0,0,0,1,1,1,Fully Furnished,4.5,400,Available,OWN0020
+PG00873,Divine PG,Maharashtra,Nagpur,Trimurti Nagar,"73, Lane, Trimurti Nagar, Nagpur",21.2139,79.0793,10600,32000,Shared,Double,Girls,1,1,1,0,1,0,1,1,Semi Furnished,3.7,155,Limited,OWN0017
+PG00874,Serene Palace,Gujarat,Nadiad,College Road,"61, Park, College Road, Nadiad",22.7143,72.8582,5900,6000,Shared,Double,Girls,0,1,1,0,0,1,1,1,Fully Furnished,4.0,364,Limited,OWN0165
+PG00875,Ganesh Girls Hostel,Gujarat,Surat,Athwa,"36, Complex, Athwa, Surat",21.121,72.7951,14400,14500,Private,Double,Girls,0,0,1,0,0,0,1,1,Fully Furnished,4.2,185,Available,OWN0022
+PG00876,Cozy Retreat,Maharashtra,Solapur,Vijapur Road,"33, Marg, Vijapur Road, Solapur",17.6181,75.9841,7800,8000,Private,Single,Boys,1,1,1,0,0,1,0,1,Fully Furnished,3.9,360,Full,OWN0152
+PG00877,Divine Rooms,Gujarat,Vadodara,Waghodia Road,"14, Colony, Waghodia Road, Vadodara",22.2538,73.1788,9300,9500,Shared,Triple,Boys,0,0,1,1,0,1,0,1,Semi Furnished,4.2,199,Limited,OWN0048
+PG00878,Cozy Inn,Gujarat,Ahmedabad,Naranpura,"213, Chowk, Naranpura, Ahmedabad",23.0073,72.5628,18600,18500,Private,Single,Boys,1,0,0,1,0,1,1,0,Fully Furnished,4.1,23,Available,OWN0054
+PG00879,Serene Girls Hostel,Maharashtra,Nagpur,Sitabuldi,"317, Road, Sitabuldi, Nagpur",21.1555,79.1586,11000,22000,Private,Double,Girls,1,1,1,1,1,1,0,1,Fully Furnished,3.7,187,Available,OWN0079
+PG00880,Serene House,Gujarat,Surat,Varachha,"195, Lane, Varachha, Surat",21.2266,72.7609,21100,42000,Private,Single,Girls,1,0,1,1,0,0,1,1,Semi Furnished,2.9,408,Full,OWN0141
+PG00881,Green Palace,Gujarat,Gandhinagar,Sector 11,"139, Nagar, Sector 11, Gandhinagar",23.2593,72.6071,4800,5000,Dormitory,Dormitory,Boys,1,0,1,1,0,1,1,1,Fully Furnished,3.6,381,Limited,OWN0096
+PG00882,City Residency,Maharashtra,Pune,Camp,"59, Nagar, Camp, Pune",18.5348,73.8023,12800,25500,Shared,Triple,Girls,1,1,1,1,0,1,1,1,Fully Furnished,3.9,29,Limited,OWN0096
+PG00883,Golden Rooms,Maharashtra,Mumbai,Andheri West,"106, Society, Andheri West, Mumbai",19.004,72.9131,16000,32000,Private,Double,Boys,1,1,0,1,0,1,1,1,Fully Furnished,4.0,219,Available,OWN0085
+PG00884,Royal House,Maharashtra,Nagpur,Sadar,"220, Lane, Sadar, Nagpur",21.129,79.0968,10100,10000,Private,Double,Boys,1,1,1,1,0,1,1,1,Unfurnished,4.8,12,Limited,OWN0036
+PG00885,Prime Stay,Gujarat,Surat,Udhna,"207, Chowk, Udhna, Surat",21.0974,72.7932,12300,37000,Shared,Double,Boys,1,1,0,1,1,0,1,1,Semi Furnished,3.4,19,Full,OWN0060
+PG00886,Elite Girls Hostel,Maharashtra,Chhatrapati Sambhajinagar,Osmanpura,"194, Colony, Osmanpura, Chhatrapati Sambhajinagar",19.8097,75.373,10000,10000,Shared,Double,Girls,1,1,1,1,0,1,1,1,Fully Furnished,4.9,62,Limited,OWN0041
+PG00887,Maruti Rooms,Gujarat,Vadodara,Subhanpura,"171, Colony, Subhanpura, Vadodara",22.2629,73.241,17600,35000,Private,Single,Boys,0,1,1,1,1,1,1,1,Unfurnished,3.3,387,Available,OWN0122
+PG00888,Sai Nivas,Maharashtra,Pune,Kharadi,"319, Marg, Kharadi, Pune",18.4802,73.8698,10200,10000,Shared,Double,Girls,0,0,1,0,0,1,1,0,Unfurnished,3.6,129,Full,OWN0131
+PG00889,Nova Girls Hostel,Gujarat,Ahmedabad,Ellisbridge,"113, Lane, Ellisbridge, Ahmedabad",23.0075,72.5003,18500,37000,Private,Single,Boys,0,1,1,1,0,1,1,1,Fully Furnished,4.5,395,Available,OWN0087
+PG00890,Ganesh Heights,Maharashtra,Nagpur,Manish Nagar,"304, Colony, Manish Nagar, Nagpur",21.1079,79.1561,23000,46000,Private,Single,Boys,0,1,1,1,1,0,1,1,Fully Furnished,3.7,345,Available,OWN0106
+PG00891,Nirvana Heights,Maharashtra,Nashik,Indira Nagar,"303, Lane, Indira Nagar, Nashik",20.039,73.7263,5700,11500,Shared,Triple,Girls,0,1,1,1,0,1,1,1,Fully Furnished,2.9,415,Available,OWN0034
+PG00892,Royal Home,Gujarat,Jamnagar,Pandit Nehru Marg,"141, Complex, Pandit Nehru Marg, Jamnagar",22.5051,70.1072,3500,3500,Shared,Triple,Coed,1,1,1,1,1,1,0,1,Fully Furnished,4.5,206,Available,OWN0165
+PG00893,Blue Inn,Gujarat,Rajkot,University Road,"360, Nagar, University Road, Rajkot",22.3487,70.8907,9300,18500,Private,Single,Coed,1,0,0,1,0,1,1,1,Fully Furnished,4.3,344,Available,OWN0165
+PG00894,Divine Stay,Gujarat,Mehsana,Radhanpur Road,"211, Complex, Radhanpur Road, Mehsana",23.6273,72.3814,6400,13000,Private,Single,Girls,1,1,1,1,0,0,1,1,Semi Furnished,4.5,44,Available,OWN0060
+PG00895,Maruti Heights,Gujarat,Rajkot,150 Feet Ring Road,"337, Lane, 150 Feet Ring Road, Rajkot",22.2527,70.8774,2700,8000,Dormitory,Dormitory,Boys,1,1,1,1,1,1,1,1,Unfurnished,4.8,49,Available,OWN0003
+PG00896,Golden Stay,Maharashtra,Navi Mumbai,Airoli,"25, Nagar, Airoli, Navi Mumbai",19.0608,73.046,4900,14500,Shared,Triple,Coed,0,1,1,1,0,0,0,1,Semi Furnished,2.9,152,Available,OWN0052
+PG00897,Prime PG,Gujarat,Vadodara,Sayajigunj,"108, Park, Sayajigunj, Vadodara",22.2716,73.1382,12100,36500,Private,Single,Girls,1,0,1,1,0,1,1,1,Fully Furnished,3.2,72,Limited,OWN0026
+PG00898,Zenith Stay,Maharashtra,Mumbai,Chembur,"83, Complex, Chembur, Mumbai",19.1527,72.9347,7400,22000,Shared,Triple,Boys,1,1,1,0,0,1,0,1,Fully Furnished,4.7,191,Available,OWN0076
+PG00899,Golden PG,Maharashtra,Thane,Naupada,"327, Marg, Naupada, Thane",19.2372,72.9311,11700,35000,Private,Double,Girls,0,1,1,1,1,1,1,1,Fully Furnished,3.5,213,Available,OWN0111
+PG00900,Krishna Girls Hostel,Maharashtra,Navi Mumbai,Nerul,"173, Colony, Nerul, Navi Mumbai",19.0129,73.0129,8800,9000,Dormitory,Dormitory,Boys,1,1,1,0,1,0,1,1,Semi Furnished,3.9,186,Available,OWN0155
+PG00901,Elite Stay,Gujarat,Rajkot,Race Course,"190, Society, Race Course, Rajkot",22.3907,70.8198,6000,12000,Shared,Triple,Girls,1,1,1,0,0,1,1,1,Fully Furnished,3.7,392,Limited,OWN0104
+PG00902,Sunrise PG,Gujarat,Bhavnagar,Kaliyabid,"43, Nagar, Kaliyabid, Bhavnagar",21.7434,72.0633,4100,8000,Shared,Triple,Boys,1,0,1,1,1,0,1,1,Semi Furnished,2.8,329,Full,OWN0106
+PG00903,Silver Heights,Gujarat,Anand,Vidyanagar,"70, Complex, Vidyanagar, Anand",22.5955,73.0168,13700,13500,Private,Single,Boys,1,0,1,1,0,1,1,1,Fully Furnished,3.8,82,Available,OWN0092
+PG00904,Radha Residency,Maharashtra,Amravati,Gadge Nagar,"20, Complex, Gadge Nagar, Amravati",20.9546,77.6954,8100,8000,Private,Double,Boys,0,0,1,1,0,0,1,0,Unfurnished,4.8,87,Limited,OWN0136
+PG00905,Cozy Girls Hostel,Maharashtra,Pune,Kothrud,"251, Complex, Kothrud, Pune",18.5729,73.8453,9200,9000,Dormitory,Dormitory,Girls,1,1,0,1,0,1,0,1,Fully Furnished,3.5,316,Available,OWN0033
+PG00906,Nova Retreat,Maharashtra,Nashik,Panchavati,"233, Nagar, Panchavati, Nashik",20.0445,73.717,6200,18500,Shared,Triple,Girls,0,0,1,1,0,1,0,1,Unfurnished,4.3,119,Available,OWN0150
+PG00907,Divine Living,Maharashtra,Nashik,Sharanpur Road,"123, Chowk, Sharanpur Road, Nashik",19.9338,73.7397,12900,26000,Shared,Double,Girls,0,1,1,0,0,1,1,1,Semi Furnished,4.1,223,Available,OWN0013
+PG00908,Legacy Retreat,Maharashtra,Pune,Magarpatta,"8, Chowk, Magarpatta, Pune",18.5913,73.8603,23100,46000,Private,Single,Boys,0,1,0,1,0,1,1,1,Semi Furnished,3.0,303,Full,OWN0015
+PG00909,Star Heights,Gujarat,Surat,Athwa,"371, Chowk, Athwa, Surat",21.1945,72.8333,12500,25000,Shared,Double,Girls,1,0,0,1,0,0,1,1,Fully Furnished,3.1,131,Available,OWN0078
+PG00910,Laxmi Home,Maharashtra,Mumbai,Andheri West,"168, Complex, Andheri West, Mumbai",19.0353,72.8695,31100,62000,Private,Single,Coed,1,1,0,1,1,1,1,0,Fully Furnished,4.2,320,Limited,OWN0154
+PG00911,Urban House,Gujarat,Rajkot,University Road,"269, Chowk, University Road, Rajkot",22.3815,70.8649,8700,17500,Private,Single,Coed,1,0,1,1,1,1,0,1,Semi Furnished,2.9,47,Available,OWN0139
+PG00912,Shree Nivas,Maharashtra,Solapur,Railway Lines,"208, Chowk, Railway Lines, Solapur",17.7328,75.8811,4400,4500,Shared,Double,Coed,0,0,0,1,1,1,1,1,Unfurnished,3.6,97,Available,OWN0108
+PG00913,Shree Palace,Gujarat,Ahmedabad,Vastrapur,"192, Lane, Vastrapur, Ahmedabad",22.9516,72.5245,6000,6000,Shared,Double,Girls,1,1,1,1,1,0,1,1,Fully Furnished,3.9,266,Limited,OWN0091
+PG00914,Prime Comforts,Maharashtra,Navi Mumbai,Kharghar,"1, Nagar, Kharghar, Navi Mumbai",18.9434,73.0206,9300,9500,Shared,Double,Girls,1,1,1,1,0,0,1,1,Fully Furnished,3.4,128,Available,OWN0031
+PG00915,Silver Residency,Maharashtra,Pune,Magarpatta,"344, Marg, Magarpatta, Pune",18.4656,73.8773,9400,19000,Dormitory,Dormitory,Girls,1,1,1,0,0,1,0,1,Fully Furnished,4.3,167,Available,OWN0015
+PG00916,Prime House,Gujarat,Anand,Vidyanagar,"126, Society, Vidyanagar, Anand",22.618,72.9514,7300,14500,Shared,Double,Girls,0,1,1,1,0,1,1,1,Semi Furnished,3.6,328,Available,OWN0073
+PG00917,Golden Residency,Maharashtra,Pune,Magarpatta,"147, Colony, Magarpatta, Pune",18.5049,73.9308,20100,40000,Shared,Double,Boys,0,1,1,1,0,0,1,1,Fully Furnished,3.8,309,Limited,OWN0129
+PG00918,Nova Living,Maharashtra,Thane,Kolshet Road,"53, Marg, Kolshet Road, Thane",19.2386,72.9109,12800,13000,Shared,Double,Girls,0,1,1,1,1,1,1,0,Semi Furnished,4.6,86,Limited,OWN0101
+PG00919,Om Girls Hostel,Gujarat,Rajkot,Mavdi,"33, Colony, Mavdi, Rajkot",22.294,70.8549,5100,5000,Shared,Triple,Boys,1,0,1,1,0,1,0,1,Fully Furnished,3.4,221,Available,OWN0072
+PG00920,Cozy Stay,Maharashtra,Nashik,Panchavati,"158, Chowk, Panchavati, Nashik",19.9593,73.766,9400,19000,Shared,Double,Coed,1,1,1,1,0,1,1,1,Fully Furnished,3.7,255,Available,OWN0060
+PG00921,Shanti Living,Maharashtra,Nagpur,Sadar,"351, Nagar, Sadar, Nagpur",21.1663,79.1034,11300,22500,Shared,Double,Girls,0,1,1,1,0,1,0,0,Semi Furnished,4.4,6,Available,OWN0089
+PG00922,Happy Girls Hostel,Maharashtra,Navi Mumbai,Kopar Khairane,"60, Complex, Kopar Khairane, Navi Mumbai",19.0451,73.0941,9300,28000,Private,Double,Girls,1,1,1,1,0,0,1,1,Fully Furnished,4.4,82,Limited,OWN0146
+PG00923,Royal Inn,Maharashtra,Pune,Wagholi,"101, Chowk, Wagholi, Pune",18.4874,73.8959,18500,55500,Shared,Triple,Coed,1,1,1,1,0,1,0,1,Semi Furnished,4.4,268,Available,OWN0069
+PG00924,Shanti Palace,Gujarat,Surat,City Light,"386, Lane, City Light, Surat",21.2194,72.8976,11500,34500,Private,Single,Girls,1,0,1,1,0,1,1,1,Semi Furnished,4.2,132,Limited,OWN0074
+PG00925,Maruti Living,Maharashtra,Kolhapur,Tarabai Park,"291, Road, Tarabai Park, Kolhapur",16.6193,74.3307,12100,12000,Private,Single,Boys,0,0,1,0,0,0,1,0,Fully Furnished,3.0,179,Limited,OWN0136
+PG00926,New Living,Maharashtra,Pune,Hinjewadi,"327, Society, Hinjewadi, Pune",18.5278,73.7755,21500,64500,Private,Single,Boys,1,1,0,1,0,1,1,1,Fully Furnished,3.5,261,Available,OWN0011
+PG00927,Urban Inn,Maharashtra,Pune,Kothrud,"145, Marg, Kothrud, Pune",18.449,73.8393,12100,36500,Private,Double,Girls,1,0,1,1,0,1,1,1,Fully Furnished,4.3,226,Available,OWN0094
+PG00928,Vraj Home,Maharashtra,Mumbai,Thane West,"44, Marg, Thane West, Mumbai",19.0624,72.9315,22000,22000,Shared,Double,Boys,0,1,1,0,0,0,1,0,Fully Furnished,3.2,185,Limited,OWN0018
+PG00929,Legacy Girls Hostel,Maharashtra,Mumbai,Vikhroli,"127, Park, Vikhroli, Mumbai",19.0449,72.9147,10700,32000,Dormitory,Dormitory,Coed,1,1,1,1,0,0,1,1,Fully Furnished,3.5,419,Available,OWN0109
+PG00930,Star Stay,Gujarat,Nadiad,Station Road,"78, Complex, Station Road, Nadiad",22.7128,72.8092,8900,18000,Private,Single,Girls,1,1,1,1,1,1,0,1,Fully Furnished,4.7,192,Full,OWN0110
+PG00931,Star Stay,Gujarat,Ahmedabad,Chandkheda,"275, Marg, Chandkheda, Ahmedabad",22.9333,72.5794,14700,14500,Private,Double,Boys,0,1,1,1,0,1,0,1,Fully Furnished,4.5,152,Available,OWN0033
+PG00932,Star Stay,Maharashtra,Pune,Deccan Gymkhana,"400, Road, Deccan Gymkhana, Pune",18.5478,73.9326,10400,21000,Private,Double,Boys,1,1,1,1,0,1,0,1,Semi Furnished,4.3,243,Available,OWN0159
+PG00933,Nova Home,Maharashtra,Thane,Majiwada,"193, Park, Majiwada, Thane",19.2909,73.0563,13800,27500,Shared,Double,Girls,1,1,1,1,0,1,0,1,Semi Furnished,3.6,85,Full,OWN0073
+PG00934,Star Villa,Maharashtra,Navi Mumbai,Kopar Khairane,"320, Lane, Kopar Khairane, Navi Mumbai",19.0114,73.068,4500,9000,Dormitory,Dormitory,Boys,1,1,1,1,0,1,1,1,Fully Furnished,3.9,330,Available,OWN0022
+PG00935,Comfort Residency,Maharashtra,Kolhapur,Shivaji University Road,"204, Colony, Shivaji University Road, Kolhapur",16.6217,74.2797,11200,33500,Private,Single,Boys,0,1,0,0,0,0,0,1,Fully Furnished,3.9,368,Available,OWN0126
+PG00936,Nova Residency,Maharashtra,Kolhapur,Tarabai Park,"130, Chowk, Tarabai Park, Kolhapur",16.6344,74.256,8600,17000,Private,Double,Girls,0,1,1,1,0,1,0,1,Fully Furnished,4.2,219,Available,OWN0133
+PG00937,Blue Heights,Gujarat,Surat,Varachha,"343, Colony, Varachha, Surat",21.1772,72.7886,11500,23000,Private,Single,Boys,0,1,1,1,1,1,1,1,Fully Furnished,4.6,256,Full,OWN0103
+PG00938,Star Comforts,Maharashtra,Navi Mumbai,Nerul,"164, Chowk, Nerul, Navi Mumbai",19.0743,73.0979,8000,8000,Shared,Triple,Boys,0,1,1,1,0,1,1,1,Fully Furnished,2.8,161,Full,OWN0137
+PG00939,Om Boys Hostel,Maharashtra,Navi Mumbai,Nerul,"358, Nagar, Nerul, Navi Mumbai",19.0378,73.1165,14600,14500,Private,Single,Coed,0,1,0,0,0,1,1,1,Fully Furnished,4.0,332,Available,OWN0022
+PG00940,Green Girls Hostel,Gujarat,Surat,Piplod,"390, Nagar, Piplod, Surat",21.2016,72.8183,11500,23000,Shared,Triple,Coed,0,1,0,0,1,0,1,0,Semi Furnished,4.4,7,Full,OWN0111
+PG00941,New House,Maharashtra,Mumbai,Goregaon,"49, Complex, Goregaon, Mumbai",19.0948,72.8991,19600,19500,Shared,Double,Boys,1,1,0,1,0,1,0,1,Semi Furnished,3.0,256,Available,OWN0033
+PG00942,Legacy Girls Hostel,Maharashtra,Pune,Hadapsar,"13, Society, Hadapsar, Pune",18.5041,73.8092,18200,36500,Shared,Double,Girls,1,1,1,1,0,0,1,1,Fully Furnished,4.2,46,Full,OWN0084
+PG00943,Legacy Stay,Gujarat,Surat,Pal,"238, Nagar, Pal, Surat",21.2452,72.8495,7600,15000,Shared,Double,Boys,0,1,1,1,0,1,1,1,Fully Furnished,4.0,382,Available,OWN0082
+PG00944,New Home,Gujarat,Ahmedabad,Bodakdev,"396, Marg, Bodakdev, Ahmedabad",23.0978,72.6508,14600,14500,Private,Double,Boys,0,0,1,0,0,0,1,1,Fully Furnished,3.0,61,Limited,OWN0079
+PG00945,Comfort Stay,Maharashtra,Mumbai,Andheri West,"368, Colony, Andheri West, Mumbai",18.9961,72.905,29500,88500,Private,Single,Girls,0,1,1,0,0,1,0,1,Fully Furnished,3.0,79,Available,OWN0004
+PG00946,Blue Stay,Gujarat,Ahmedabad,Nikol,"206, Park, Nikol, Ahmedabad",23.003,72.594,14000,14000,Private,Single,Boys,0,1,1,1,1,0,1,1,Unfurnished,4.6,405,Available,OWN0099
+PG00947,Nirvana Villa,Maharashtra,Pune,Katraj,"187, Lane, Katraj, Pune",18.4554,73.893,7400,15000,Shared,Triple,Girls,1,0,1,1,1,1,1,1,Unfurnished,4.3,256,Available,OWN0098
+PG00948,Modern Living,Maharashtra,Mumbai,Santacruz,"191, Lane, Santacruz, Mumbai",19.128,72.8528,19500,58500,Private,Double,Boys,0,1,1,0,0,0,0,1,Semi Furnished,4.0,120,Limited,OWN0091
+PG00949,Vraj Inn,Maharashtra,Pune,Katraj,"154, Complex, Katraj, Pune",18.5438,73.9205,24600,74000,Private,Single,Coed,1,0,0,1,1,0,1,1,Semi Furnished,4.2,335,Available,OWN0063
+PG00950,City Stay,Maharashtra,Chhatrapati Sambhajinagar,Cidco N-5,"391, Nagar, Cidco N-5, Chhatrapati Sambhajinagar",19.9656,75.3776,7300,22000,Private,Single,Coed,1,1,1,1,0,1,0,1,Semi Furnished,4.0,359,Available,OWN0059
+PG00951,Urban Living,Maharashtra,Solapur,Vijapur Road,"326, Park, Vijapur Road, Solapur",17.7332,75.9684,7600,7500,Shared,Triple,Boys,1,1,0,1,1,1,1,1,Unfurnished,2.9,97,Full,OWN0025
+PG00952,Zenith Living,Gujarat,Rajkot,150 Feet Ring Road,"396, Lane, 150 Feet Ring Road, Rajkot",22.2548,70.7239,5000,5000,Shared,Triple,Girls,1,1,1,1,0,1,1,0,Semi Furnished,3.1,225,Limited,OWN0098
+PG00953,Sai Heights,Maharashtra,Kolhapur,Shivaji University Road,"115, Complex, Shivaji University Road, Kolhapur",16.635,74.1625,6700,6500,Private,Double,Boys,1,0,0,0,0,1,1,1,Fully Furnished,4.3,158,Available,OWN0092
+PG00954,Comfort Retreat,Gujarat,Rajkot,Gondal Road,"70, Marg, Gondal Road, Rajkot",22.2535,70.7939,5800,11500,Private,Double,Boys,1,0,1,1,0,1,0,1,Semi Furnished,4.4,392,Available,OWN0026
+PG00955,Cozy Villa,Gujarat,Surat,Varachha,"201, Colony, Varachha, Surat",21.0854,72.7875,9500,19000,Private,Double,Boys,1,0,1,1,0,1,0,0,Fully Furnished,2.9,171,Limited,OWN0152
+PG00956,Maruti Villa,Maharashtra,Mumbai,Kandivali,"117, Society, Kandivali, Mumbai",19.1506,72.9144,6300,6500,Dormitory,Dormitory,Coed,0,1,1,0,0,1,0,1,Semi Furnished,2.9,192,Limited,OWN0063
+PG00957,Nest Nivas,Gujarat,Anand,Sardar Gunj,"370, Lane, Sardar Gunj, Anand",22.4828,72.9612,11100,22000,Private,Single,Girls,1,1,1,1,0,0,1,1,Fully Furnished,4.7,106,Limited,OWN0064
+PG00958,Golden PG,Gujarat,Nadiad,Santram Road,"352, Colony, Santram Road, Nadiad",22.671,72.9366,6600,6500,Shared,Triple,Girls,1,1,1,1,0,1,0,0,Semi Furnished,4.8,112,Full,OWN0131
+PG00959,Om House,Gujarat,Ahmedabad,Ellisbridge,"81, Society, Ellisbridge, Ahmedabad",22.9579,72.592,8200,16500,Shared,Double,Girls,1,1,1,1,1,1,1,1,Fully Furnished,4.2,180,Full,OWN0159
+PG00960,Krishna Living,Maharashtra,Thane,Ghodbunder Road,"163, Road, Ghodbunder Road, Thane",19.1955,72.9235,13300,40000,Private,Double,Boys,1,1,1,0,0,1,1,1,Semi Furnished,3.9,234,Limited,OWN0013
+PG00961,Shanti Living,Gujarat,Vadodara,Alkapuri,"209, Marg, Alkapuri, Vadodara",22.2662,73.2,8400,17000,Shared,Double,Boys,1,1,1,1,0,1,1,1,Semi Furnished,3.0,128,Available,OWN0016
+PG00962,Shree Nivas,Gujarat,Ahmedabad,Gota,"186, Lane, Gota, Ahmedabad",22.9612,72.4819,8300,16500,Private,Double,Girls,1,1,1,1,0,1,1,1,Fully Furnished,4.9,248,Full,OWN0098
+PG00963,Modern Heights,Maharashtra,Pune,Shivaji Nagar,"220, Marg, Shivaji Nagar, Pune",18.5652,73.8734,14500,14500,Private,Single,Boys,0,0,0,1,0,1,1,1,Semi Furnished,4.3,313,Available,OWN0047
+PG00964,Cozy Residency,Gujarat,Vadodara,Alkapuri,"319, Nagar, Alkapuri, Vadodara",22.3124,73.1058,12300,24500,Shared,Double,Boys,1,1,1,0,0,1,1,1,Fully Furnished,4.3,62,Limited,OWN0129
+PG00965,Silver House,Maharashtra,Mumbai,Kandivali,"380, Chowk, Kandivali, Mumbai",19.1384,72.831,16900,17000,Shared,Double,Girls,1,1,1,1,0,1,0,1,Fully Furnished,4.4,114,Limited,OWN0074
+PG00966,Ganesh Nivas,Maharashtra,Pune,Baner,"254, Chowk, Baner, Pune",18.4847,73.9084,27100,54000,Private,Single,Boys,1,1,1,1,1,1,1,1,Fully Furnished,4.0,218,Available,OWN0107
+PG00967,Sunshine Heights,Gujarat,Vadodara,Alkapuri,"12, Lane, Alkapuri, Vadodara",22.3687,73.1611,8600,26000,Private,Single,Coed,1,1,0,1,0,0,1,1,Unfurnished,4.4,77,Limited,OWN0153
+PG00968,Metro Comforts,Gujarat,Ahmedabad,Paldi,"144, Society, Paldi, Ahmedabad",23.0194,72.4918,13600,13500,Private,Single,Boys,1,1,1,1,1,1,1,1,Semi Furnished,4.5,208,Limited,OWN0123
+PG00969,Harmony Living,Gujarat,Gandhinagar,Sector 16,"296, Marg, Sector 16, Gandhinagar",23.2202,72.6781,6200,6000,Shared,Triple,Girls,0,1,1,1,0,1,1,1,Fully Furnished,3.0,320,Available,OWN0027
+PG00970,Urban Retreat,Maharashtra,Amravati,Rajapeth,"125, Society, Rajapeth, Amravati",20.9253,77.7783,2500,5000,Dormitory,Dormitory,Boys,0,1,1,0,0,0,1,1,Semi Furnished,3.3,290,Available,OWN0023
+PG00971,Elite Inn,Maharashtra,Mumbai,Goregaon,"272, Colony, Goregaon, Mumbai",19.0806,72.9119,9200,18500,Shared,Double,Boys,0,1,1,1,1,1,0,1,Unfurnished,4.6,126,Available,OWN0158
+PG00972,Comfort Rooms,Maharashtra,Chhatrapati Sambhajinagar,Jalna Road,"353, Road, Jalna Road, Chhatrapati Sambhajinagar",19.8344,75.2599,6700,13500,Private,Double,Girls,1,1,1,0,0,0,0,1,Semi Furnished,3.1,145,Full,OWN0056
+PG00973,Divine Living,Maharashtra,Pune,Wakad,"36, Colony, Wakad, Pune",18.4566,73.8247,22600,45000,Private,Double,Boys,0,0,0,0,1,0,1,1,Semi Furnished,3.1,280,Available,OWN0147
+PG00974,Nest Living,Maharashtra,Pune,Magarpatta,"163, Lane, Magarpatta, Pune",18.4769,73.9152,26400,53000,Private,Single,Girls,0,1,1,0,0,0,1,1,Fully Furnished,4.5,278,Available,OWN0162
+PG00975,Sky Home,Gujarat,Rajkot,Gondal Road,"236, Marg, Gondal Road, Rajkot",22.2197,70.8895,3900,11500,Shared,Triple,Boys,1,0,1,1,1,1,1,1,Fully Furnished,4.2,364,Available,OWN0003
+PG00976,Blue Living,Maharashtra,Pune,Aundh,"49, Complex, Aundh, Pune",18.4854,73.8838,7300,7500,Shared,Triple,Boys,1,1,1,0,1,1,1,1,Fully Furnished,3.5,286,Full,OWN0070
+PG00977,Shree Girls Hostel,Gujarat,Surat,Rander,"4, Nagar, Rander, Surat",21.0857,72.8659,10800,32500,Private,Single,Coed,1,1,1,0,1,0,1,1,Fully Furnished,4.2,320,Limited,OWN0050
+PG00978,Golden PG,Maharashtra,Mumbai,Ghatkopar,"261, Colony, Ghatkopar, Mumbai",19.042,72.9022,28900,29000,Private,Single,Coed,1,1,1,0,0,1,1,1,Fully Furnished,4.4,224,Available,OWN0109
+PG00979,Legacy Inn,Maharashtra,Pune,Aundh,"48, Nagar, Aundh, Pune",18.533,73.8088,34900,104500,Private,Single,Girls,0,0,1,0,0,1,1,1,Fully Furnished,3.7,93,Available,OWN0049
+PG00980,Harmony Comforts,Gujarat,Vadodara,Manjalpur,"122, Nagar, Manjalpur, Vadodara",22.2535,73.1452,18800,56500,Private,Single,Coed,1,1,1,0,0,1,1,1,Fully Furnished,4.2,71,Available,OWN0088
+PG00981,Sunrise Girls Hostel,Gujarat,Ahmedabad,Bopal,"84, Complex, Bopal, Ahmedabad",22.9693,72.6292,9700,19500,Shared,Triple,Girls,0,0,1,1,0,0,1,1,Fully Furnished,3.0,243,Available,OWN0012
+PG00982,Royal PG,Gujarat,Vadodara,Gotri,"391, Park, Gotri, Vadodara",22.3617,73.1853,16700,33500,Private,Single,Coed,0,1,1,1,0,1,1,1,Fully Furnished,2.8,361,Available,OWN0165
+PG00983,Krishna Villa,Gujarat,Ahmedabad,Ellisbridge,"43, Society, Ellisbridge, Ahmedabad",23.0377,72.4967,11400,23000,Private,Double,Girls,1,1,0,1,0,1,1,1,Fully Furnished,4.9,354,Available,OWN0126
+PG00984,Sky Palace,Maharashtra,Pune,Wagholi,"146, Lane, Wagholi, Pune",18.5317,73.8969,12600,38000,Dormitory,Dormitory,Boys,1,1,0,0,0,0,1,1,Fully Furnished,4.4,407,Full,OWN0125
+PG00985,Krishna Nivas,Gujarat,Gandhinagar,Sector 21,"288, Chowk, Sector 21, Gandhinagar",23.15,72.675,6300,12500,Private,Double,Girls,1,0,0,1,0,0,1,1,Semi Furnished,3.9,384,Available,OWN0097
+PG00986,Maruti Comforts,Maharashtra,Chhatrapati Sambhajinagar,Jalna Road,"265, Nagar, Jalna Road, Chhatrapati Sambhajinagar",19.8787,75.3954,7500,15000,Shared,Triple,Boys,1,1,1,0,1,0,0,1,Fully Furnished,3.6,173,Available,OWN0157
+PG00987,Sunshine Girls Hostel,Maharashtra,Pune,Kothrud,"76, Marg, Kothrud, Pune",18.567,73.8824,10600,21000,Shared,Double,Girls,1,1,0,0,1,1,1,1,Fully Furnished,3.9,309,Available,OWN0063
+PG00988,Star Comforts,Gujarat,Vadodara,Waghodia Road,"190, Marg, Waghodia Road, Vadodara",22.2301,73.2645,7200,7000,Shared,Double,Girls,0,0,1,0,0,0,1,1,Fully Furnished,3.3,203,Available,OWN0081
+PG00989,Serene Heights,Maharashtra,Pune,Warje,"136, Marg, Warje, Pune",18.541,73.9304,9600,19000,Dormitory,Dormitory,Coed,0,0,0,0,1,1,1,1,Semi Furnished,4.7,17,Full,OWN0062
+PG00990,Prime Stay,Maharashtra,Mumbai,Kurla,"246, Chowk, Kurla, Mumbai",19.0616,72.8733,13900,14000,Shared,Double,Girls,1,0,1,1,1,1,1,1,Semi Furnished,4.1,145,Limited,OWN0105
+PG00991,New Living,Gujarat,Bhavnagar,Kaliyabid,"176, Lane, Kaliyabid, Bhavnagar",21.8052,72.0889,7300,7500,Shared,Triple,Boys,1,1,1,1,0,1,1,1,Unfurnished,4.5,21,Available,OWN0008
+PG00992,Shree Rooms,Maharashtra,Thane,Manpada,"300, Park, Manpada, Thane",19.2609,72.9007,14900,30000,Shared,Double,Girls,0,0,1,1,0,1,0,1,Unfurnished,3.7,42,Available,OWN0079
+PG00993,Maruti Heights,Maharashtra,Mumbai,Vikhroli,"343, Road, Vikhroli, Mumbai",19.1522,72.8796,24400,49000,Private,Single,Girls,1,1,1,0,0,1,1,1,Fully Furnished,4.0,319,Available,OWN0043
+PG00994,Sky Heights,Maharashtra,Pune,Kharadi,"217, Nagar, Kharadi, Pune",18.431,73.7992,19100,57500,Shared,Double,Girls,1,0,1,1,1,0,1,1,Fully Furnished,3.5,127,Available,OWN0152
+PG00995,Metro Nivas,Maharashtra,Thane,Vartak Nagar,"134, Marg, Vartak Nagar, Thane",19.21,73.0214,13700,27500,Private,Single,Boys,1,1,0,0,1,0,0,1,Fully Furnished,3.6,45,Available,OWN0105
+PG00996,Sai Residency,Gujarat,Mehsana,Radhanpur Road,"259, Lane, Radhanpur Road, Mehsana",23.5842,72.2965,11100,22000,Private,Single,Boys,0,1,1,1,0,1,1,1,Semi Furnished,3.9,311,Available,OWN0160
+PG00997,Green Nivas,Maharashtra,Nashik,College Road,"284, Chowk, College Road, Nashik",20.0531,73.7939,8100,16000,Private,Double,Girls,0,1,1,0,1,1,1,0,Fully Furnished,4.8,394,Available,OWN0015
+PG00998,Ganesh Palace,Maharashtra,Amravati,Gadge Nagar,"133, Colony, Gadge Nagar, Amravati",20.8591,77.7361,3900,11500,Shared,Triple,Boys,0,1,1,1,0,1,1,0,Fully Furnished,3.9,82,Available,OWN0050
+PG00999,Star Comforts,Gujarat,Rajkot,Kalawad Road,"43, Park, Kalawad Road, Rajkot",22.2671,70.7845,5400,11000,Shared,Double,Boys,1,1,0,1,0,1,1,1,Fully Furnished,5.0,382,Available,OWN0158
+PG01000,Vraj Comforts,Maharashtra,Mumbai,Ghatkopar,"384, Nagar, Ghatkopar, Mumbai",19.0436,72.8609,19000,19000,Private,Double,Boys,0,1,1,1,0,1,1,1,Semi Furnished,4.9,378,Limited,OWN0006

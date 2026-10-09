@@ -1,0 +1,25 @@
+{
+  "name": "pg-finder-monorepo",
+  "version": "1.0.0",
+  "description": "PG Finder - AI/ML-Based Smart PG Accommodation Recommendation System",
+  "main": "server/server.js",
+  "scripts": {
+    "install:all": "npm install && cd server && npm install && cd ../client && npm install",
+    "server": "cd server && npm start",
+    "server:dev": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "seed": "cd server && node scripts/seed.js",
+    "test": "cd server && npm test"
+  },
+  "keywords": [
+    "pg-finder",
+    "recommendation-system",
+    "machine-learning",
+    "react",
+    "nodejs",
+    "express",
+    "fastapi"
+  ],
+  "author": "",
+  "license": "ISC"
+}

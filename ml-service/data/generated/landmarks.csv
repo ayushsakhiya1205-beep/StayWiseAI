@@ -1,0 +1,503 @@
+landmark_id,landmark_name,landmark_type,state,city,area,address,latitude,longitude
+LM0001,Bhagwan Mahavir Institute of Management Mumbai,College,Maharashtra,Mumbai,Andheri West,"53, Andheri West, Mumbai, Maharashtra",19.0454,72.8344
+LM0002,EON Software Park,Office,Maharashtra,Mumbai,Bandra,"120, Bandra, Mumbai, Maharashtra",19.0198,72.8289
+LM0003,Marwadi University Campus Mumbai,College,Maharashtra,Mumbai,Andheri West,"215, Andheri West, Mumbai, Maharashtra",19.1019,72.9019
+LM0004,D. Y. Patil Institute of Technology Mumbai,College,Maharashtra,Mumbai,Vile Parle,"217, Vile Parle, Mumbai, Maharashtra",19.1071,72.8369
+LM0005,Mahatma Gandhi College of Commerce & Science Mumbai,College,Maharashtra,Mumbai,Malad,"184, Malad, Mumbai, Maharashtra",19.0283,72.8633
+LM0006,Deloitte IT Park,Office,Maharashtra,Mumbai,Vile Parle,"194, Vile Parle, Mumbai, Maharashtra",19.1036,72.882
+LM0007,Symbiosis College of Commerce & Science Mumbai,College,Maharashtra,Mumbai,Mulund,"24, Mulund, Mumbai, Maharashtra",19.0853,72.9022
+LM0008,Infosys Tech Hub,Office,Maharashtra,Mumbai,Mulund,"233, Mulund, Mumbai, Maharashtra",19.12,72.8633
+LM0009,National College of Commerce & Science Mumbai,College,Maharashtra,Mumbai,Kurla,"360, Kurla, Mumbai, Maharashtra",19.0586,72.8981
+LM0010,EON Business Centre,Office,Maharashtra,Mumbai,Bandra,"237, Bandra, Mumbai, Maharashtra",19.0801,72.8471
+LM0011,Pandit Deendayal College of Commerce & Science Mumbai,College,Maharashtra,Mumbai,Santacruz,"118, Santacruz, Mumbai, Maharashtra",19.1171,72.9108
+LM0012,Adani GIDC SEZ,Office,Maharashtra,Mumbai,Ghatkopar,"291, Ghatkopar, Mumbai, Maharashtra",19.0239,72.9273
+LM0013,Reliance Commercial Complex,Office,Maharashtra,Mumbai,Ghatkopar,"235, Ghatkopar, Mumbai, Maharashtra",19.0635,72.9274
+LM0014,Mahatma Gandhi Pharmacy College Mumbai,College,Maharashtra,Mumbai,Malad,"220, Malad, Mumbai, Maharashtra",19.0807,72.9073
+LM0015,L&T Tech Hub,Office,Maharashtra,Mumbai,Dadar,"253, Dadar, Mumbai, Maharashtra",19.1357,72.8343
+LM0016,Symbiosis Engineering College Mumbai,College,Maharashtra,Mumbai,Andheri East,"349, Andheri East, Mumbai, Maharashtra",19.0343,72.8369
+LM0017,Swami Vivekananda Polytechnic College Mumbai,College,Maharashtra,Mumbai,Bandra,"129, Bandra, Mumbai, Maharashtra",19.0875,72.8739
+LM0018,GIDC Corporate Park,Office,Maharashtra,Mumbai,Andheri West,"137, Andheri West, Mumbai, Maharashtra",19.0978,72.8821
+LM0019,Infosys GIDC SEZ,Office,Maharashtra,Mumbai,Ghatkopar,"370, Ghatkopar, Mumbai, Maharashtra",19.0682,72.8721
+LM0020,Mindspace Business Centre,Office,Maharashtra,Mumbai,Vile Parle,"321, Vile Parle, Mumbai, Maharashtra",19.0769,72.8305
+LM0021,National College of Commerce & Science Mumbai,College,Maharashtra,Mumbai,Goregaon,"399, Goregaon, Mumbai, Maharashtra",19.1075,72.8824
+LM0022,EON Financial District,Office,Maharashtra,Mumbai,Andheri West,"186, Andheri West, Mumbai, Maharashtra",19.0746,72.8311
+LM0023,Reliance IT Park,Office,Maharashtra,Mumbai,Mulund,"41, Mulund, Mumbai, Maharashtra",19.0449,72.8858
+LM0024,Symbiosis Engineering College Mumbai,College,Maharashtra,Mumbai,Kandivali,"65, Kandivali, Mumbai, Maharashtra",19.1334,72.8816
+LM0025,Marwadi Medical College Mumbai,College,Maharashtra,Mumbai,Kandivali,"217, Kandivali, Mumbai, Maharashtra",19.0478,72.9224
+LM0026,Capgemini GIDC SEZ,Office,Maharashtra,Mumbai,Goregaon,"192, Goregaon, Mumbai, Maharashtra",19.0639,72.8983
+LM0027,Government University Campus Mumbai,College,Maharashtra,Mumbai,Jogeshwari,"302, Jogeshwari, Mumbai, Maharashtra",19.043,72.8583
+LM0028,Sardar Patel Engineering College Mumbai,College,Maharashtra,Mumbai,Santacruz,"35, Santacruz, Mumbai, Maharashtra",19.1009,72.8248
+LM0029,Infosys Tech Hub,Office,Maharashtra,Mumbai,Ghatkopar,"277, Ghatkopar, Mumbai, Maharashtra",19.0494,72.8759
+LM0030,Mahatma Gandhi Law College Mumbai,College,Maharashtra,Mumbai,Kandivali,"50, Kandivali, Mumbai, Maharashtra",19.1129,72.8405
+LM0031,Adani Software Park,Office,Maharashtra,Mumbai,Kurla,"345, Kurla, Mumbai, Maharashtra",19.072,72.9052
+LM0032,TCS Software Park,Office,Maharashtra,Mumbai,Powai,"56, Powai, Mumbai, Maharashtra",19.1034,72.9138
+LM0033,Marwadi Law College Mumbai,College,Maharashtra,Mumbai,Goregaon,"237, Goregaon, Mumbai, Maharashtra",19.0328,72.8397
+LM0034,Indira Gandhi Pharmacy College Mumbai,College,Maharashtra,Mumbai,Bandra,"277, Bandra, Mumbai, Maharashtra",19.0277,72.896
+LM0035,Deloitte Tech Hub,Office,Maharashtra,Mumbai,Bandra,"110, Bandra, Mumbai, Maharashtra",19.036,72.876
+LM0036,Wipro Software Park,Office,Maharashtra,Mumbai,Andheri East,"233, Andheri East, Mumbai, Maharashtra",19.0163,72.8646
+LM0037,National University Campus Mumbai,College,Maharashtra,Mumbai,Kandivali,"297, Kandivali, Mumbai, Maharashtra",19.0516,72.9339
+LM0038,Capgemini Financial District,Office,Maharashtra,Mumbai,Andheri East,"258, Andheri East, Mumbai, Maharashtra",19.0229,72.8878
+LM0039,TCS Corporate Park,Office,Maharashtra,Mumbai,Borivali,"35, Borivali, Mumbai, Maharashtra",19.1182,72.8259
+LM0040,Adani Corporate Park,Office,Maharashtra,Mumbai,Santacruz,"297, Santacruz, Mumbai, Maharashtra",19.129,72.8861
+LM0041,Swami Vivekananda Pharmacy College Mumbai,College,Maharashtra,Mumbai,Bandra,"343, Bandra, Mumbai, Maharashtra",19.054,72.849
+LM0042,Tata Software Park,Office,Maharashtra,Mumbai,Santacruz,"235, Santacruz, Mumbai, Maharashtra",19.0317,72.8952
+LM0043,Sardar Patel Law College Mumbai,College,Maharashtra,Mumbai,Bandra,"52, Bandra, Mumbai, Maharashtra",19.0905,72.8853
+LM0044,Marwadi Institute of Management Mumbai,College,Maharashtra,Mumbai,Goregaon,"36, Goregaon, Mumbai, Maharashtra",19.0319,72.8596
+LM0045,Tata Business Centre,Office,Maharashtra,Mumbai,Kurla,"155, Kurla, Mumbai, Maharashtra",19.0686,72.8829
+LM0046,Pandit Deendayal Pharmacy College Mumbai,College,Maharashtra,Mumbai,Andheri West,"69, Andheri West, Mumbai, Maharashtra",19.0519,72.8973
+LM0047,Bhagwan Mahavir Pharmacy College Mumbai,College,Maharashtra,Mumbai,Powai,"108, Powai, Mumbai, Maharashtra",19.0347,72.8515
+LM0048,GIDC GIDC SEZ,Office,Maharashtra,Mumbai,Goregaon,"27, Goregaon, Mumbai, Maharashtra",19.0766,72.8478
+LM0049,Symbiosis Institute of Management Mumbai,College,Maharashtra,Mumbai,Chembur,"67, Chembur, Mumbai, Maharashtra",19.0213,72.8577
+LM0050,National Law College Mumbai,College,Maharashtra,Mumbai,Vile Parle,"5, Vile Parle, Mumbai, Maharashtra",19.0822,72.869
+LM0051,Marwadi Institute of Technology Mumbai,College,Maharashtra,Mumbai,Malad,"76, Malad, Mumbai, Maharashtra",19.1162,72.8876
+LM0052,Dr. B. R. Ambedkar College of Commerce & Science Mumbai,College,Maharashtra,Mumbai,Andheri East,"21, Andheri East, Mumbai, Maharashtra",19.1239,72.9132
+LM0053,GIDC Tech Hub,Office,Maharashtra,Mumbai,Goregaon,"287, Goregaon, Mumbai, Maharashtra",19.096,72.8601
+LM0054,EON Business Centre,Office,Maharashtra,Mumbai,Chembur,"84, Chembur, Mumbai, Maharashtra",19.1271,72.8461
+LM0055,Adani IT Park,Office,Maharashtra,Mumbai,Borivali,"211, Borivali, Mumbai, Maharashtra",19.0375,72.9286
+LM0056,Tata Business Centre,Office,Maharashtra,Mumbai,Santacruz,"20, Santacruz, Mumbai, Maharashtra",19.1105,72.8307
+LM0057,Reliance Commercial Complex,Office,Maharashtra,Mumbai,Santacruz,"117, Santacruz, Mumbai, Maharashtra",19.058,72.9162
+LM0058,Swami Vivekananda College of Commerce & Science Mumbai,College,Maharashtra,Mumbai,Goregaon,"396, Goregaon, Mumbai, Maharashtra",19.0494,72.826
+LM0059,Pandit Deendayal Pharmacy College Mumbai,College,Maharashtra,Mumbai,Dadar,"134, Dadar, Mumbai, Maharashtra",19.0557,72.821
+LM0060,Sardar Patel Engineering College Mumbai,College,Maharashtra,Mumbai,Vile Parle,"161, Vile Parle, Mumbai, Maharashtra",19.0876,72.8592
+LM0061,Swami Vivekananda University Campus Mumbai,College,Maharashtra,Mumbai,Powai,"1, Powai, Mumbai, Maharashtra",19.0466,72.9028
+LM0062,Shivaji Polytechnic College Mumbai,College,Maharashtra,Mumbai,Goregaon,"170, Goregaon, Mumbai, Maharashtra",19.0244,72.8974
+LM0063,Bhagwan Mahavir Institute of Management Mumbai,College,Maharashtra,Mumbai,Powai,"168, Powai, Mumbai, Maharashtra",19.0769,72.8977
+LM0064,Marwadi Medical College Mumbai,College,Maharashtra,Mumbai,Mulund,"195, Mulund, Mumbai, Maharashtra",19.039,72.8975
+LM0065,EON GIDC SEZ,Office,Maharashtra,Pune,Baner,"156, Baner, Pune, Maharashtra",18.5091,73.8967
+LM0066,D. Y. Patil College of Commerce & Science Pune,College,Maharashtra,Pune,Deccan Gymkhana,"110, Deccan Gymkhana, Pune, Maharashtra",18.5162,73.8498
+LM0067,Pandit Deendayal Engineering College Pune,College,Maharashtra,Pune,Baner,"318, Baner, Pune, Maharashtra",18.4945,73.8764
+LM0068,Pandit Deendayal Institute of Management Pune,College,Maharashtra,Pune,Magarpatta,"13, Magarpatta, Pune, Maharashtra",18.4874,73.8206
+LM0069,Charotar Engineering College Pune,College,Maharashtra,Pune,Wagholi,"295, Wagholi, Pune, Maharashtra",18.515,73.903
+LM0070,Indira Gandhi Polytechnic College Pune,College,Maharashtra,Pune,Hadapsar,"3, Hadapsar, Pune, Maharashtra",18.4897,73.8754
+LM0071,Deloitte Software Park,Office,Maharashtra,Pune,Wakad,"357, Wakad, Pune, Maharashtra",18.4867,73.8932
+LM0072,Marwadi University Campus Pune,College,Maharashtra,Pune,Viman Nagar,"69, Viman Nagar, Pune, Maharashtra",18.5705,73.8113
+LM0073,Deloitte Commercial Complex,Office,Maharashtra,Pune,Kondhwa,"259, Kondhwa, Pune, Maharashtra",18.5339,73.883
+LM0074,St. Xavier's Medical College Pune,College,Maharashtra,Pune,Pimple Saudagar,"133, Pimple Saudagar, Pune, Maharashtra",18.5496,73.8537
+LM0075,Deloitte Commercial Complex,Office,Maharashtra,Pune,Kharadi,"40, Kharadi, Pune, Maharashtra",18.5356,73.8297
+LM0076,Tata Financial District,Office,Maharashtra,Pune,Magarpatta,"71, Magarpatta, Pune, Maharashtra",18.4988,73.8615
+LM0077,Bhagwan Mahavir Medical College Pune,College,Maharashtra,Pune,Hadapsar,"209, Hadapsar, Pune, Maharashtra",18.5452,73.8044
+LM0078,Swami Vivekananda Institute of Technology Pune,College,Maharashtra,Pune,Pimple Saudagar,"395, Pimple Saudagar, Pune, Maharashtra",18.4852,73.8471
+LM0079,Symbiosis Polytechnic College Pune,College,Maharashtra,Pune,Kothrud,"153, Kothrud, Pune, Maharashtra",18.5176,73.9098
+LM0080,Mindspace Tech Hub,Office,Maharashtra,Pune,Deccan Gymkhana,"249, Deccan Gymkhana, Pune, Maharashtra",18.519,73.8295
+LM0081,Pandit Deendayal Polytechnic College Pune,College,Maharashtra,Pune,Kondhwa,"66, Kondhwa, Pune, Maharashtra",18.5473,73.8976
+LM0082,Adani IT Park,Office,Maharashtra,Pune,Kothrud,"237, Kothrud, Pune, Maharashtra",18.4705,73.8481
+LM0083,Swami Vivekananda College of Commerce & Science Pune,College,Maharashtra,Pune,Kharadi,"390, Kharadi, Pune, Maharashtra",18.4858,73.8359
+LM0084,Deloitte Software Park,Office,Maharashtra,Pune,Kharadi,"10, Kharadi, Pune, Maharashtra",18.4907,73.8065
+LM0085,L&T Tech Hub,Office,Maharashtra,Pune,Viman Nagar,"334, Viman Nagar, Pune, Maharashtra",18.5384,73.8904
+LM0086,Mahatma Gandhi University Campus Pune,College,Maharashtra,Pune,Kothrud,"123, Kothrud, Pune, Maharashtra",18.5611,73.8713
+LM0087,Charotar University Campus Pune,College,Maharashtra,Pune,Wakad,"189, Wakad, Pune, Maharashtra",18.5162,73.8274
+LM0088,D. Y. Patil Medical College Pune,College,Maharashtra,Pune,Wakad,"14, Wakad, Pune, Maharashtra",18.5762,73.8097
+LM0089,Adani Tech Hub,Office,Maharashtra,Pune,Hadapsar,"322, Hadapsar, Pune, Maharashtra",18.4695,73.8796
+LM0090,Symbiosis Engineering College Pune,College,Maharashtra,Pune,Katraj,"22, Katraj, Pune, Maharashtra",18.5559,73.8646
+LM0091,Pandit Deendayal College of Commerce & Science Pune,College,Maharashtra,Pune,Deccan Gymkhana,"7, Deccan Gymkhana, Pune, Maharashtra",18.4687,73.8744
+LM0092,Infosys Software Park,Office,Maharashtra,Pune,Wagholi,"236, Wagholi, Pune, Maharashtra",18.5757,73.873
+LM0093,Wipro GIDC SEZ,Office,Maharashtra,Pune,Deccan Gymkhana,"397, Deccan Gymkhana, Pune, Maharashtra",18.5343,73.9071
+LM0094,Symbiosis Institute of Management Pune,College,Maharashtra,Pune,Deccan Gymkhana,"45, Deccan Gymkhana, Pune, Maharashtra",18.4991,73.8262
+LM0095,Mahatma Gandhi Law College Pune,College,Maharashtra,Pune,Pimple Saudagar,"173, Pimple Saudagar, Pune, Maharashtra",18.5288,73.8769
+LM0096,National Law College Pune,College,Maharashtra,Pune,Kondhwa,"175, Kondhwa, Pune, Maharashtra",18.4859,73.8924
+LM0097,Marwadi Institute of Technology Pune,College,Maharashtra,Pune,Kharadi,"124, Kharadi, Pune, Maharashtra",18.5224,73.8196
+LM0098,Mindspace Tech Hub,Office,Maharashtra,Pune,Wagholi,"252, Wagholi, Pune, Maharashtra",18.5433,73.8742
+LM0099,Government Institute of Management Pune,College,Maharashtra,Pune,Kothrud,"157, Kothrud, Pune, Maharashtra",18.487,73.8797
+LM0100,Cognizant Financial District,Office,Maharashtra,Pune,Warje,"170, Warje, Pune, Maharashtra",18.5115,73.8862
+LM0101,Dr. B. R. Ambedkar Institute of Management Pune,College,Maharashtra,Pune,Pimple Saudagar,"99, Pimple Saudagar, Pune, Maharashtra",18.4906,73.8112
+LM0102,Mahatma Gandhi University Campus Pune,College,Maharashtra,Pune,Baner,"302, Baner, Pune, Maharashtra",18.549,73.8299
+LM0103,Infosys Tech Hub,Office,Maharashtra,Pune,Katraj,"155, Katraj, Pune, Maharashtra",18.4959,73.84
+LM0104,Dr. B. R. Ambedkar Institute of Technology Pune,College,Maharashtra,Pune,Aundh,"358, Aundh, Pune, Maharashtra",18.5773,73.8631
+LM0105,Infosys IT Park,Office,Maharashtra,Pune,Wagholi,"226, Wagholi, Pune, Maharashtra",18.5293,73.853
+LM0106,Dr. B. R. Ambedkar Law College Pune,College,Maharashtra,Pune,Viman Nagar,"252, Viman Nagar, Pune, Maharashtra",18.4741,73.8045
+LM0107,National Medical College Pune,College,Maharashtra,Pune,Viman Nagar,"44, Viman Nagar, Pune, Maharashtra",18.5577,73.9106
+LM0108,Mindspace Software Park,Office,Maharashtra,Pune,Wakad,"116, Wakad, Pune, Maharashtra",18.5332,73.8916
+LM0109,Cognizant Commercial Complex,Office,Maharashtra,Pune,Hadapsar,"220, Hadapsar, Pune, Maharashtra",18.4961,73.8673
+LM0110,Charotar Engineering College Pune,College,Maharashtra,Pune,Viman Nagar,"109, Viman Nagar, Pune, Maharashtra",18.5741,73.8216
+LM0111,National University Campus Pune,College,Maharashtra,Pune,Hinjewadi,"2, Hinjewadi, Pune, Maharashtra",18.4813,73.8057
+LM0112,Dr. B. R. Ambedkar Institute of Technology Pune,College,Maharashtra,Pune,Wagholi,"360, Wagholi, Pune, Maharashtra",18.4882,73.8815
+LM0113,GIDC Tech Hub,Office,Maharashtra,Pune,Hinjewadi,"321, Hinjewadi, Pune, Maharashtra",18.5713,73.8912
+LM0114,Swami Vivekananda Engineering College Pune,College,Maharashtra,Pune,Shivaji Nagar,"137, Shivaji Nagar, Pune, Maharashtra",18.5257,73.8744
+LM0115,TCS Business Centre,Office,Maharashtra,Pune,Hinjewadi,"292, Hinjewadi, Pune, Maharashtra",18.5555,73.8681
+LM0116,Infosys Commercial Complex,Office,Maharashtra,Pune,Pimple Saudagar,"140, Pimple Saudagar, Pune, Maharashtra",18.543,73.8807
+LM0117,Indira Gandhi Engineering College Pune,College,Maharashtra,Pune,Wagholi,"377, Wagholi, Pune, Maharashtra",18.5322,73.9034
+LM0118,Sardar Patel Engineering College Pune,College,Maharashtra,Pune,Kharadi,"295, Kharadi, Pune, Maharashtra",18.4879,73.8776
+LM0119,D. Y. Patil Institute of Management Pune,College,Maharashtra,Pune,Kothrud,"90, Kothrud, Pune, Maharashtra",18.5295,73.8883
+LM0120,St. Xavier's Institute of Management Pune,College,Maharashtra,Pune,Pimple Saudagar,"326, Pimple Saudagar, Pune, Maharashtra",18.4822,73.8669
+LM0121,Cognizant Financial District,Office,Maharashtra,Pune,Hinjewadi,"54, Hinjewadi, Pune, Maharashtra",18.5094,73.8352
+LM0122,Adani Commercial Complex,Office,Maharashtra,Pune,Kondhwa,"390, Kondhwa, Pune, Maharashtra",18.495,73.9101
+LM0123,Government College of Commerce & Science Pune,College,Maharashtra,Pune,Pimple Saudagar,"396, Pimple Saudagar, Pune, Maharashtra",18.4907,73.8106
+LM0124,Symbiosis Institute of Technology Ahmedabad,College,Gujarat,Ahmedabad,Ambawadi,"212, Ambawadi, Ahmedabad, Gujarat",23.0414,72.5765
+LM0125,Shivaji Law College Ahmedabad,College,Gujarat,Ahmedabad,Ambawadi,"105, Ambawadi, Ahmedabad, Gujarat",23.0375,72.6026
+LM0126,St. Xavier's Institute of Management Ahmedabad,College,Gujarat,Ahmedabad,Prahlad Nagar,"63, Prahlad Nagar, Ahmedabad, Gujarat",23.0151,72.5952
+LM0127,Charotar University Campus Ahmedabad,College,Gujarat,Ahmedabad,SG Highway,"8, SG Highway, Ahmedabad, Gujarat",23.0477,72.5487
+LM0128,Mahatma Gandhi Engineering College Ahmedabad,College,Gujarat,Ahmedabad,Vastrapur,"79, Vastrapur, Ahmedabad, Gujarat",23.0179,72.5255
+LM0129,Dr. B. R. Ambedkar Pharmacy College Ahmedabad,College,Gujarat,Ahmedabad,Maninagar,"248, Maninagar, Ahmedabad, Gujarat",23.0471,72.5613
+LM0130,Cognizant Business Centre,Office,Gujarat,Ahmedabad,Bodakdev,"261, Bodakdev, Ahmedabad, Gujarat",23.0085,72.622
+LM0131,Infosys GIDC SEZ,Office,Gujarat,Ahmedabad,Prahlad Nagar,"175, Prahlad Nagar, Ahmedabad, Gujarat",23.0552,72.6139
+LM0132,Tata IT Park,Office,Gujarat,Ahmedabad,Ambawadi,"301, Ambawadi, Ahmedabad, Gujarat",22.9964,72.5472
+LM0133,Indira Gandhi Medical College Ahmedabad,College,Gujarat,Ahmedabad,SG Highway,"171, SG Highway, Ahmedabad, Gujarat",23.0161,72.5695
+LM0134,Swami Vivekananda Law College Ahmedabad,College,Gujarat,Ahmedabad,Ambawadi,"358, Ambawadi, Ahmedabad, Gujarat",23.0744,72.6158
+LM0135,Mahatma Gandhi Polytechnic College Ahmedabad,College,Gujarat,Ahmedabad,Chandkheda,"362, Chandkheda, Ahmedabad, Gujarat",22.9677,72.6008
+LM0136,Adani Business Centre,Office,Gujarat,Ahmedabad,Chandkheda,"258, Chandkheda, Ahmedabad, Gujarat",23.0219,72.5158
+LM0137,Infosys Commercial Complex,Office,Gujarat,Ahmedabad,Gota,"8, Gota, Ahmedabad, Gujarat",22.9745,72.6207
+LM0138,GIDC Business Centre,Office,Gujarat,Ahmedabad,Chandkheda,"136, Chandkheda, Ahmedabad, Gujarat",22.9715,72.6052
+LM0139,Swami Vivekananda Engineering College Ahmedabad,College,Gujarat,Ahmedabad,Maninagar,"274, Maninagar, Ahmedabad, Gujarat",23.0647,72.6137
+LM0140,Pandit Deendayal Law College Ahmedabad,College,Gujarat,Ahmedabad,Gota,"36, Gota, Ahmedabad, Gujarat",23.0672,72.5157
+LM0141,St. Xavier's Institute of Management Ahmedabad,College,Gujarat,Ahmedabad,SG Highway,"223, SG Highway, Ahmedabad, Gujarat",23.0822,72.601
+LM0142,Capgemini Corporate Park,Office,Gujarat,Ahmedabad,SG Highway,"15, SG Highway, Ahmedabad, Gujarat",23.0157,72.5947
+LM0143,Dr. B. R. Ambedkar College of Commerce & Science Ahmedabad,College,Gujarat,Ahmedabad,Navrangpura,"272, Navrangpura, Ahmedabad, Gujarat",23.0075,72.5289
+LM0144,D. Y. Patil Medical College Ahmedabad,College,Gujarat,Ahmedabad,SG Highway,"196, SG Highway, Ahmedabad, Gujarat",22.9829,72.5209
+LM0145,Indira Gandhi Medical College Ahmedabad,College,Gujarat,Ahmedabad,Bodakdev,"236, Bodakdev, Ahmedabad, Gujarat",22.9904,72.5879
+LM0146,St. Xavier's Law College Ahmedabad,College,Gujarat,Ahmedabad,Navrangpura,"81, Navrangpura, Ahmedabad, Gujarat",23.0706,72.5927
+LM0147,Charotar Institute of Management Ahmedabad,College,Gujarat,Ahmedabad,Gota,"129, Gota, Ahmedabad, Gujarat",23.0392,72.5623
+LM0148,Mahatma Gandhi Polytechnic College Ahmedabad,College,Gujarat,Ahmedabad,Satellite,"196, Satellite, Ahmedabad, Gujarat",23.0649,72.5242
+LM0149,Dr. B. R. Ambedkar Institute of Management Ahmedabad,College,Gujarat,Ahmedabad,Nikol,"203, Nikol, Ahmedabad, Gujarat",22.9651,72.611
+LM0150,Symbiosis Institute of Technology Ahmedabad,College,Gujarat,Ahmedabad,Nikol,"147, Nikol, Ahmedabad, Gujarat",23.0718,72.6008
+LM0151,EON Financial District,Office,Gujarat,Ahmedabad,Bodakdev,"129, Bodakdev, Ahmedabad, Gujarat",22.9888,72.5342
+LM0152,Deloitte Business Centre,Office,Gujarat,Ahmedabad,Maninagar,"331, Maninagar, Ahmedabad, Gujarat",23.0379,72.6198
+LM0153,Sardar Patel College of Commerce & Science Ahmedabad,College,Gujarat,Ahmedabad,Ellisbridge,"152, Ellisbridge, Ahmedabad, Gujarat",23.0504,72.5222
+LM0154,National University Campus Ahmedabad,College,Gujarat,Ahmedabad,Chandkheda,"188, Chandkheda, Ahmedabad, Gujarat",22.9784,72.5761
+LM0155,Symbiosis Medical College Ahmedabad,College,Gujarat,Ahmedabad,Satellite,"247, Satellite, Ahmedabad, Gujarat",22.9933,72.6104
+LM0156,Capgemini Financial District,Office,Gujarat,Ahmedabad,Satellite,"39, Satellite, Ahmedabad, Gujarat",23.059,72.5676
+LM0157,Symbiosis Polytechnic College Ahmedabad,College,Gujarat,Ahmedabad,Bodakdev,"188, Bodakdev, Ahmedabad, Gujarat",23.0786,72.608
+LM0158,Sardar Patel Institute of Management Ahmedabad,College,Gujarat,Ahmedabad,Chandkheda,"345, Chandkheda, Ahmedabad, Gujarat",23.0269,72.566
+LM0159,EON Software Park,Office,Gujarat,Ahmedabad,Satellite,"56, Satellite, Ahmedabad, Gujarat",23.0612,72.6242
+LM0160,TCS Financial District,Office,Gujarat,Ahmedabad,Ellisbridge,"33, Ellisbridge, Ahmedabad, Gujarat",23.0723,72.538
+LM0161,St. Xavier's Institute of Management Ahmedabad,College,Gujarat,Ahmedabad,Ellisbridge,"24, Ellisbridge, Ahmedabad, Gujarat",23.0404,72.5254
+LM0162,Cognizant Corporate Park,Office,Gujarat,Ahmedabad,Satellite,"70, Satellite, Ahmedabad, Gujarat",22.9742,72.6179
+LM0163,Pandit Deendayal Pharmacy College Ahmedabad,College,Gujarat,Ahmedabad,Gota,"80, Gota, Ahmedabad, Gujarat",23.0128,72.6005
+LM0164,Infosys Commercial Complex,Office,Gujarat,Ahmedabad,SG Highway,"144, SG Highway, Ahmedabad, Gujarat",23.0364,72.6241
+LM0165,Mahatma Gandhi Law College Ahmedabad,College,Gujarat,Ahmedabad,Gota,"186, Gota, Ahmedabad, Gujarat",23.0159,72.5397
+LM0166,Shivaji Pharmacy College Ahmedabad,College,Gujarat,Ahmedabad,SG Highway,"32, SG Highway, Ahmedabad, Gujarat",23.0707,72.5888
+LM0167,Government Law College Ahmedabad,College,Gujarat,Ahmedabad,Bodakdev,"328, Bodakdev, Ahmedabad, Gujarat",22.9735,72.5369
+LM0168,Sardar Patel College of Commerce & Science Ahmedabad,College,Gujarat,Ahmedabad,Navrangpura,"290, Navrangpura, Ahmedabad, Gujarat",22.9917,72.5265
+LM0169,Mahatma Gandhi University Campus Ahmedabad,College,Gujarat,Ahmedabad,Ambawadi,"397, Ambawadi, Ahmedabad, Gujarat",23.0601,72.5394
+LM0170,Sardar Patel Institute of Management Ahmedabad,College,Gujarat,Ahmedabad,Nikol,"67, Nikol, Ahmedabad, Gujarat",23.0655,72.5288
+LM0171,Government Institute of Technology Ahmedabad,College,Gujarat,Ahmedabad,Prahlad Nagar,"122, Prahlad Nagar, Ahmedabad, Gujarat",22.9783,72.5544
+LM0172,National Institute of Management Ahmedabad,College,Gujarat,Ahmedabad,Navrangpura,"270, Navrangpura, Ahmedabad, Gujarat",22.9688,72.6004
+LM0173,Indira Gandhi Law College Ahmedabad,College,Gujarat,Ahmedabad,Vastrapur,"56, Vastrapur, Ahmedabad, Gujarat",23.0559,72.573
+LM0174,Charotar Institute of Technology Ahmedabad,College,Gujarat,Ahmedabad,Bodakdev,"338, Bodakdev, Ahmedabad, Gujarat",23.0498,72.6205
+LM0175,Pandit Deendayal Institute of Technology Ahmedabad,College,Gujarat,Ahmedabad,Ellisbridge,"206, Ellisbridge, Ahmedabad, Gujarat",22.9698,72.5689
+LM0176,Indira Gandhi Law College Ahmedabad,College,Gujarat,Ahmedabad,Vastrapur,"312, Vastrapur, Ahmedabad, Gujarat",22.9713,72.5211
+LM0177,Dr. B. R. Ambedkar Pharmacy College Ahmedabad,College,Gujarat,Ahmedabad,Prahlad Nagar,"306, Prahlad Nagar, Ahmedabad, Gujarat",23.048,72.5571
+LM0178,Marwadi Polytechnic College Surat,College,Gujarat,Surat,Nana Varachha,"336, Nana Varachha, Surat, Gujarat",21.1221,72.8553
+LM0179,Capgemini Tech Hub,Office,Gujarat,Surat,Rander,"212, Rander, Surat, Gujarat",21.1618,72.8777
+LM0180,Swami Vivekananda Polytechnic College Surat,College,Gujarat,Surat,Nana Varachha,"161, Nana Varachha, Surat, Gujarat",21.1978,72.8086
+LM0181,Wipro Commercial Complex,Office,Gujarat,Surat,Katargam,"48, Katargam, Surat, Gujarat",21.1183,72.8709
+LM0182,D. Y. Patil Medical College Surat,College,Gujarat,Surat,Katargam,"288, Katargam, Surat, Gujarat",21.177,72.8415
+LM0183,Government Polytechnic College Surat,College,Gujarat,Surat,Pal,"385, Pal, Surat, Gujarat",21.1526,72.8509
+LM0184,Dr. B. R. Ambedkar Institute of Management Surat,College,Gujarat,Surat,Adajan,"109, Adajan, Surat, Gujarat",21.1524,72.8405
+LM0185,Mahatma Gandhi Engineering College Surat,College,Gujarat,Surat,Nana Varachha,"59, Nana Varachha, Surat, Gujarat",21.1522,72.8379
+LM0186,Reliance Software Park,Office,Gujarat,Surat,Udhna,"319, Udhna, Surat, Gujarat",21.2116,72.888
+LM0187,Marwadi Institute of Technology Surat,College,Gujarat,Surat,Pal,"356, Pal, Surat, Gujarat",21.1833,72.85
+LM0188,Dr. B. R. Ambedkar Institute of Management Surat,College,Gujarat,Surat,Piplod,"93, Piplod, Surat, Gujarat",21.2208,72.8132
+LM0189,GIDC Software Park,Office,Gujarat,Surat,Udhna,"16, Udhna, Surat, Gujarat",21.1186,72.86
+LM0190,Mahatma Gandhi Polytechnic College Surat,College,Gujarat,Surat,Rander,"190, Rander, Surat, Gujarat",21.1606,72.812
+LM0191,D. Y. Patil Engineering College Surat,College,Gujarat,Surat,Katargam,"387, Katargam, Surat, Gujarat",21.2162,72.7898
+LM0192,Government Institute of Management Surat,College,Gujarat,Surat,Pal,"311, Pal, Surat, Gujarat",21.1634,72.822
+LM0193,Mahatma Gandhi Pharmacy College Surat,College,Gujarat,Surat,Athwa,"146, Athwa, Surat, Gujarat",21.1239,72.8227
+LM0194,Cognizant GIDC SEZ,Office,Gujarat,Surat,Udhna,"307, Udhna, Surat, Gujarat",21.1157,72.8185
+LM0195,Dr. B. R. Ambedkar University Campus Surat,College,Gujarat,Surat,City Light,"149, City Light, Surat, Gujarat",21.2023,72.8628
+LM0196,Indira Gandhi Polytechnic College Surat,College,Gujarat,Surat,Adajan,"361, Adajan, Surat, Gujarat",21.1313,72.8167
+LM0197,Symbiosis College of Commerce & Science Surat,College,Gujarat,Surat,Rander,"22, Rander, Surat, Gujarat",21.1188,72.8745
+LM0198,St. Xavier's Engineering College Surat,College,Gujarat,Surat,Nana Varachha,"294, Nana Varachha, Surat, Gujarat",21.2137,72.8402
+LM0199,Swami Vivekananda Institute of Management Surat,College,Gujarat,Surat,Pal,"167, Pal, Surat, Gujarat",21.124,72.7736
+LM0200,Indira Gandhi College of Commerce & Science Surat,College,Gujarat,Surat,Udhna,"125, Udhna, Surat, Gujarat",21.1208,72.8724
+LM0201,Marwadi Engineering College Surat,College,Gujarat,Surat,Varachha,"174, Varachha, Surat, Gujarat",21.1577,72.8083
+LM0202,Government Pharmacy College Surat,College,Gujarat,Surat,Piplod,"100, Piplod, Surat, Gujarat",21.1862,72.8348
+LM0203,L&T Business Centre,Office,Gujarat,Surat,Katargam,"102, Katargam, Surat, Gujarat",21.1386,72.7887
+LM0204,D. Y. Patil Engineering College Surat,College,Gujarat,Surat,Piplod,"253, Piplod, Surat, Gujarat",21.1315,72.8638
+LM0205,D. Y. Patil Law College Surat,College,Gujarat,Surat,Udhna,"330, Udhna, Surat, Gujarat",21.1919,72.8769
+LM0206,Shivaji College of Commerce & Science Surat,College,Gujarat,Surat,Udhna,"227, Udhna, Surat, Gujarat",21.1283,72.7793
+LM0207,Charotar Institute of Technology Surat,College,Gujarat,Surat,Athwa,"237, Athwa, Surat, Gujarat",21.1524,72.78
+LM0208,Shivaji Institute of Management Surat,College,Gujarat,Surat,Adajan,"47, Adajan, Surat, Gujarat",21.1194,72.8748
+LM0209,Swami Vivekananda Law College Surat,College,Gujarat,Surat,Rander,"379, Rander, Surat, Gujarat",21.1798,72.8856
+LM0210,Deloitte Tech Hub,Office,Gujarat,Surat,Nana Varachha,"78, Nana Varachha, Surat, Gujarat",21.1488,72.8282
+LM0211,Infosys Financial District,Office,Gujarat,Surat,Nana Varachha,"331, Nana Varachha, Surat, Gujarat",21.2281,72.7812
+LM0212,Bhagwan Mahavir Law College Surat,College,Gujarat,Surat,City Light,"313, City Light, Surat, Gujarat",21.2291,72.834
+LM0213,St. Xavier's Institute of Management Surat,College,Gujarat,Surat,Katargam,"348, Katargam, Surat, Gujarat",21.1567,72.864
+LM0214,Pandit Deendayal College of Commerce & Science Surat,College,Gujarat,Surat,Pal,"348, Pal, Surat, Gujarat",21.1181,72.7824
+LM0215,Bhagwan Mahavir Medical College Surat,College,Gujarat,Surat,Athwa,"73, Athwa, Surat, Gujarat",21.1502,72.841
+LM0216,GIDC Software Park,Office,Gujarat,Surat,Athwa,"44, Athwa, Surat, Gujarat",21.1257,72.8562
+LM0217,Pandit Deendayal College of Commerce & Science Surat,College,Gujarat,Surat,Varachha,"379, Varachha, Surat, Gujarat",21.2078,72.8515
+LM0218,Infosys Software Park,Office,Gujarat,Surat,Rander,"159, Rander, Surat, Gujarat",21.1712,72.7733
+LM0219,Shivaji Law College Surat,College,Gujarat,Surat,City Light,"80, City Light, Surat, Gujarat",21.1332,72.8911
+LM0220,Marwadi Pharmacy College Surat,College,Gujarat,Surat,Vesu,"20, Vesu, Surat, Gujarat",21.2104,72.8771
+LM0221,Wipro Software Park,Office,Gujarat,Surat,Udhna,"355, Udhna, Surat, Gujarat",21.1287,72.7928
+LM0222,Capgemini Commercial Complex,Office,Gujarat,Vadodara,Gotri,"369, Gotri, Vadodara, Gujarat",22.2524,73.1649
+LM0223,Charotar Institute of Management Vadodara,College,Gujarat,Vadodara,Sayajigunj,"120, Sayajigunj, Vadodara, Gujarat",22.3375,73.2153
+LM0224,D. Y. Patil Law College Vadodara,College,Gujarat,Vadodara,Akota,"348, Akota, Vadodara, Gujarat",22.3557,73.1445
+LM0225,Cognizant GIDC SEZ,Office,Gujarat,Vadodara,Sayajigunj,"215, Sayajigunj, Vadodara, Gujarat",22.3406,73.1815
+LM0226,Deloitte Business Centre,Office,Gujarat,Vadodara,Vasna,"247, Vasna, Vadodara, Gujarat",22.352,73.1275
+LM0227,Infosys Corporate Park,Office,Gujarat,Vadodara,Waghodia Road,"140, Waghodia Road, Vadodara, Gujarat",22.2814,73.2128
+LM0228,National Polytechnic College Vadodara,College,Gujarat,Vadodara,Waghodia Road,"231, Waghodia Road, Vadodara, Gujarat",22.2582,73.2305
+LM0229,Adani IT Park,Office,Gujarat,Vadodara,Fatehgunj,"198, Fatehgunj, Vadodara, Gujarat",22.2948,73.1661
+LM0230,Reliance IT Park,Office,Gujarat,Vadodara,Manjalpur,"366, Manjalpur, Vadodara, Gujarat",22.2854,73.1331
+LM0231,National Institute of Technology Vadodara,College,Gujarat,Vadodara,Gotri,"357, Gotri, Vadodara, Gujarat",22.2816,73.2208
+LM0232,Cognizant IT Park,Office,Gujarat,Vadodara,Sayajigunj,"111, Sayajigunj, Vadodara, Gujarat",22.3559,73.1235
+LM0233,Capgemini Software Park,Office,Gujarat,Vadodara,Waghodia Road,"155, Waghodia Road, Vadodara, Gujarat",22.2605,73.1558
+LM0234,Swami Vivekananda Law College Vadodara,College,Gujarat,Vadodara,Vasna,"256, Vasna, Vadodara, Gujarat",22.2547,73.2216
+LM0235,Pandit Deendayal Pharmacy College Vadodara,College,Gujarat,Vadodara,Fatehgunj,"150, Fatehgunj, Vadodara, Gujarat",22.3162,73.2074
+LM0236,Shivaji University Campus Vadodara,College,Gujarat,Vadodara,Karelibaug,"343, Karelibaug, Vadodara, Gujarat",22.3157,73.1437
+LM0237,Government Pharmacy College Vadodara,College,Gujarat,Vadodara,Manjalpur,"260, Manjalpur, Vadodara, Gujarat",22.3125,73.2156
+LM0238,Symbiosis Law College Vadodara,College,Gujarat,Vadodara,Subhanpura,"192, Subhanpura, Vadodara, Gujarat",22.2524,73.1676
+LM0239,Shivaji Engineering College Vadodara,College,Gujarat,Vadodara,Fatehgunj,"322, Fatehgunj, Vadodara, Gujarat",22.2886,73.2092
+LM0240,Bhagwan Mahavir College of Commerce & Science Vadodara,College,Gujarat,Vadodara,Karelibaug,"174, Karelibaug, Vadodara, Gujarat",22.2632,73.1635
+LM0241,Deloitte Commercial Complex,Office,Gujarat,Vadodara,Gotri,"94, Gotri, Vadodara, Gujarat",22.3649,73.1786
+LM0242,Capgemini Commercial Complex,Office,Gujarat,Vadodara,Alkapuri,"103, Alkapuri, Vadodara, Gujarat",22.2516,73.1454
+LM0243,Tata Software Park,Office,Gujarat,Vadodara,Manjalpur,"130, Manjalpur, Vadodara, Gujarat",22.3659,73.1864
+LM0244,Dr. B. R. Ambedkar College of Commerce & Science Vadodara,College,Gujarat,Vadodara,Vasna,"336, Vasna, Vadodara, Gujarat",22.3507,73.1269
+LM0245,D. Y. Patil College of Commerce & Science Vadodara,College,Gujarat,Vadodara,Alkapuri,"226, Alkapuri, Vadodara, Gujarat",22.2996,73.1692
+LM0246,L&T Business Centre,Office,Gujarat,Vadodara,Subhanpura,"266, Subhanpura, Vadodara, Gujarat",22.3067,73.1809
+LM0247,Bhagwan Mahavir Polytechnic College Vadodara,College,Gujarat,Vadodara,Alkapuri,"93, Alkapuri, Vadodara, Gujarat",22.2567,73.1935
+LM0248,Government Engineering College Vadodara,College,Gujarat,Vadodara,Manjalpur,"229, Manjalpur, Vadodara, Gujarat",22.2866,73.1567
+LM0249,National Law College Vadodara,College,Gujarat,Vadodara,Subhanpura,"181, Subhanpura, Vadodara, Gujarat",22.2894,73.1263
+LM0250,Dr. B. R. Ambedkar Institute of Technology Vadodara,College,Gujarat,Vadodara,Subhanpura,"187, Subhanpura, Vadodara, Gujarat",22.2562,73.1977
+LM0251,Sardar Patel Medical College Vadodara,College,Gujarat,Vadodara,Gotri,"225, Gotri, Vadodara, Gujarat",22.349,73.2026
+LM0252,Mahatma Gandhi College of Commerce & Science Vadodara,College,Gujarat,Vadodara,Alkapuri,"17, Alkapuri, Vadodara, Gujarat",22.2907,73.2351
+LM0253,Shivaji College of Commerce & Science Vadodara,College,Gujarat,Vadodara,Sayajigunj,"71, Sayajigunj, Vadodara, Gujarat",22.3005,73.1304
+LM0254,Shivaji Institute of Management Vadodara,College,Gujarat,Vadodara,Subhanpura,"377, Subhanpura, Vadodara, Gujarat",22.2772,73.1348
+LM0255,Swami Vivekananda Pharmacy College Vadodara,College,Gujarat,Vadodara,Waghodia Road,"361, Waghodia Road, Vadodara, Gujarat",22.2613,73.2142
+LM0256,Dr. B. R. Ambedkar Law College Vadodara,College,Gujarat,Vadodara,Karelibaug,"38, Karelibaug, Vadodara, Gujarat",22.2712,73.1375
+LM0257,Government College of Commerce & Science Vadodara,College,Gujarat,Vadodara,Sayajigunj,"282, Sayajigunj, Vadodara, Gujarat",22.3273,73.2063
+LM0258,Symbiosis Medical College Vadodara,College,Gujarat,Vadodara,Akota,"327, Akota, Vadodara, Gujarat",22.3326,73.2325
+LM0259,Marwadi University Campus Vadodara,College,Gujarat,Vadodara,Manjalpur,"72, Manjalpur, Vadodara, Gujarat",22.2618,73.1453
+LM0260,Sardar Patel College of Commerce & Science Vadodara,College,Gujarat,Vadodara,Sayajigunj,"283, Sayajigunj, Vadodara, Gujarat",22.3137,73.1655
+LM0261,Government Institute of Management Navi Mumbai,College,Maharashtra,Navi Mumbai,Vashi,"246, Vashi, Navi Mumbai, Maharashtra",19.0208,73.0557
+LM0262,Swami Vivekananda Engineering College Navi Mumbai,College,Maharashtra,Navi Mumbai,Kopar Khairane,"38, Kopar Khairane, Navi Mumbai, Maharashtra",18.988,73.0077
+LM0263,Marwadi College of Commerce & Science Navi Mumbai,College,Maharashtra,Navi Mumbai,Panvel,"283, Panvel, Navi Mumbai, Maharashtra",18.9884,73.0692
+LM0264,D. Y. Patil Medical College Navi Mumbai,College,Maharashtra,Navi Mumbai,Kharghar,"29, Kharghar, Navi Mumbai, Maharashtra",19.0249,73.079
+LM0265,Wipro GIDC SEZ,Office,Maharashtra,Navi Mumbai,Belapur,"364, Belapur, Navi Mumbai, Maharashtra",18.9928,73.0084
+LM0266,St. Xavier's Institute of Management Navi Mumbai,College,Maharashtra,Navi Mumbai,Belapur,"326, Belapur, Navi Mumbai, Maharashtra",19.0745,72.9998
+LM0267,Wipro GIDC SEZ,Office,Maharashtra,Navi Mumbai,Nerul,"329, Nerul, Navi Mumbai, Maharashtra",19.0467,72.9809
+LM0268,National Medical College Navi Mumbai,College,Maharashtra,Navi Mumbai,Belapur,"310, Belapur, Navi Mumbai, Maharashtra",19.052,73.0562
+LM0269,Sardar Patel Institute of Technology Navi Mumbai,College,Maharashtra,Navi Mumbai,Belapur,"395, Belapur, Navi Mumbai, Maharashtra",18.9827,73.0835
+LM0270,Mahatma Gandhi Polytechnic College Navi Mumbai,College,Maharashtra,Navi Mumbai,Panvel,"322, Panvel, Navi Mumbai, Maharashtra",19.0472,72.9733
+LM0271,Dr. B. R. Ambedkar Law College Navi Mumbai,College,Maharashtra,Navi Mumbai,Panvel,"208, Panvel, Navi Mumbai, Maharashtra",19.0024,73.0666
+LM0272,Bhagwan Mahavir Institute of Technology Navi Mumbai,College,Maharashtra,Navi Mumbai,Vashi,"238, Vashi, Navi Mumbai, Maharashtra",18.992,73.0196
+LM0273,National College of Commerce & Science Navi Mumbai,College,Maharashtra,Navi Mumbai,Belapur,"177, Belapur, Navi Mumbai, Maharashtra",19.0764,73.008
+LM0274,Deloitte Financial District,Office,Maharashtra,Navi Mumbai,Kharghar,"124, Kharghar, Navi Mumbai, Maharashtra",19.0348,72.9824
+LM0275,Indira Gandhi University Campus Navi Mumbai,College,Maharashtra,Navi Mumbai,Nerul,"197, Nerul, Navi Mumbai, Maharashtra",18.9899,72.9758
+LM0276,Reliance Business Centre,Office,Maharashtra,Navi Mumbai,Airoli,"370, Airoli, Navi Mumbai, Maharashtra",19.0706,73.0818
+LM0277,National Law College Navi Mumbai,College,Maharashtra,Navi Mumbai,Kopar Khairane,"158, Kopar Khairane, Navi Mumbai, Maharashtra",19.0925,73.0257
+LM0278,Swami Vivekananda Pharmacy College Navi Mumbai,College,Maharashtra,Navi Mumbai,Vashi,"299, Vashi, Navi Mumbai, Maharashtra",19.0279,72.9986
+LM0279,Dr. B. R. Ambedkar Law College Navi Mumbai,College,Maharashtra,Navi Mumbai,Vashi,"345, Vashi, Navi Mumbai, Maharashtra",19.0447,73.0708
+LM0280,Sardar Patel Engineering College Navi Mumbai,College,Maharashtra,Navi Mumbai,Belapur,"373, Belapur, Navi Mumbai, Maharashtra",19.0247,73.0756
+LM0281,Shivaji Institute of Technology Navi Mumbai,College,Maharashtra,Navi Mumbai,Airoli,"100, Airoli, Navi Mumbai, Maharashtra",19.0211,73.0381
+LM0282,Government Polytechnic College Navi Mumbai,College,Maharashtra,Navi Mumbai,Nerul,"144, Nerul, Navi Mumbai, Maharashtra",19.0335,73.0614
+LM0283,GIDC Corporate Park,Office,Maharashtra,Navi Mumbai,Belapur,"192, Belapur, Navi Mumbai, Maharashtra",18.9884,72.9813
+LM0284,Mindspace Financial District,Office,Maharashtra,Navi Mumbai,Nerul,"261, Nerul, Navi Mumbai, Maharashtra",19.0636,72.9936
+LM0285,Sardar Patel Institute of Technology Navi Mumbai,College,Maharashtra,Navi Mumbai,Vashi,"243, Vashi, Navi Mumbai, Maharashtra",18.9894,73.0097
+LM0286,Charotar Pharmacy College Navi Mumbai,College,Maharashtra,Navi Mumbai,Kharghar,"164, Kharghar, Navi Mumbai, Maharashtra",18.9898,73.0815
+LM0287,Bhagwan Mahavir Institute of Management Navi Mumbai,College,Maharashtra,Navi Mumbai,Belapur,"261, Belapur, Navi Mumbai, Maharashtra",19.0442,73.0306
+LM0288,Charotar Institute of Management Navi Mumbai,College,Maharashtra,Navi Mumbai,Panvel,"170, Panvel, Navi Mumbai, Maharashtra",19.03,72.9717
+LM0289,EON GIDC SEZ,Office,Maharashtra,Navi Mumbai,Airoli,"353, Airoli, Navi Mumbai, Maharashtra",19.0686,73.0567
+LM0290,Indira Gandhi Institute of Management Navi Mumbai,College,Maharashtra,Navi Mumbai,Belapur,"398, Belapur, Navi Mumbai, Maharashtra",19.089,73.0636
+LM0291,Bhagwan Mahavir Institute of Technology Navi Mumbai,College,Maharashtra,Navi Mumbai,Kharghar,"323, Kharghar, Navi Mumbai, Maharashtra",19.043,72.9902
+LM0292,Adani Business Centre,Office,Maharashtra,Navi Mumbai,Kopar Khairane,"294, Kopar Khairane, Navi Mumbai, Maharashtra",19.0716,72.9988
+LM0293,Reliance IT Park,Office,Maharashtra,Navi Mumbai,Vashi,"212, Vashi, Navi Mumbai, Maharashtra",19.0259,73.02
+LM0294,Mindspace Commercial Complex,Office,Maharashtra,Navi Mumbai,Airoli,"32, Airoli, Navi Mumbai, Maharashtra",19.0777,73.058
+LM0295,Reliance Financial District,Office,Maharashtra,Thane,Naupada,"193, Naupada, Thane, Maharashtra",19.2781,72.9755
+LM0296,Indira Gandhi Pharmacy College Thane,College,Maharashtra,Thane,Majiwada,"396, Majiwada, Thane, Maharashtra",19.1994,72.9606
+LM0297,GIDC GIDC SEZ,Office,Maharashtra,Thane,Kolshet Road,"127, Kolshet Road, Thane, Maharashtra",19.2315,72.9412
+LM0298,Mahatma Gandhi Institute of Management Thane,College,Maharashtra,Thane,Manpada,"354, Manpada, Thane, Maharashtra",19.2508,73.0027
+LM0299,Cognizant Financial District,Office,Maharashtra,Thane,Manpada,"370, Manpada, Thane, Maharashtra",19.2256,73.0302
+LM0300,Charotar Pharmacy College Thane,College,Maharashtra,Thane,Ghodbunder Road,"177, Ghodbunder Road, Thane, Maharashtra",19.2039,73.0357
+LM0301,Wipro GIDC SEZ,Office,Maharashtra,Thane,Thane West,"41, Thane West, Thane, Maharashtra",19.1633,73.0327
+LM0302,Pandit Deendayal Institute of Management Thane,College,Maharashtra,Thane,Vartak Nagar,"276, Vartak Nagar, Thane, Maharashtra",19.248,72.9438
+LM0303,Bhagwan Mahavir Institute of Management Thane,College,Maharashtra,Thane,Naupada,"301, Naupada, Thane, Maharashtra",19.1748,72.992
+LM0304,Pandit Deendayal Pharmacy College Thane,College,Maharashtra,Thane,Ghodbunder Road,"52, Ghodbunder Road, Thane, Maharashtra",19.1854,72.946
+LM0305,Indira Gandhi Engineering College Thane,College,Maharashtra,Thane,Kolshet Road,"282, Kolshet Road, Thane, Maharashtra",19.24,72.9346
+LM0306,Adani Commercial Complex,Office,Maharashtra,Thane,Majiwada,"148, Majiwada, Thane, Maharashtra",19.2156,72.942
+LM0307,Sardar Patel Engineering College Thane,College,Maharashtra,Thane,Kolshet Road,"379, Kolshet Road, Thane, Maharashtra",19.2366,72.946
+LM0308,Wipro Software Park,Office,Maharashtra,Thane,Ghodbunder Road,"19, Ghodbunder Road, Thane, Maharashtra",19.2642,72.9392
+LM0309,Deloitte Commercial Complex,Office,Maharashtra,Thane,Vartak Nagar,"149, Vartak Nagar, Thane, Maharashtra",19.1807,73.008
+LM0310,Tata Corporate Park,Office,Maharashtra,Thane,Ghodbunder Road,"233, Ghodbunder Road, Thane, Maharashtra",19.2697,72.9583
+LM0311,Mindspace Commercial Complex,Office,Maharashtra,Thane,Naupada,"259, Naupada, Thane, Maharashtra",19.265,72.9342
+LM0312,D. Y. Patil Engineering College Thane,College,Maharashtra,Thane,Majiwada,"332, Majiwada, Thane, Maharashtra",19.198,73.0058
+LM0313,Sardar Patel College of Commerce & Science Thane,College,Maharashtra,Thane,Majiwada,"388, Majiwada, Thane, Maharashtra",19.2532,72.9862
+LM0314,Symbiosis Polytechnic College Thane,College,Maharashtra,Thane,Naupada,"45, Naupada, Thane, Maharashtra",19.2575,72.9799
+LM0315,National Medical College Thane,College,Maharashtra,Thane,Ghodbunder Road,"4, Ghodbunder Road, Thane, Maharashtra",19.2156,73.0304
+LM0316,Indira Gandhi Institute of Management Thane,College,Maharashtra,Thane,Majiwada,"371, Majiwada, Thane, Maharashtra",19.2728,72.9543
+LM0317,Pandit Deendayal College of Commerce & Science Thane,College,Maharashtra,Thane,Manpada,"61, Manpada, Thane, Maharashtra",19.2414,72.9256
+LM0318,Swami Vivekananda Pharmacy College Thane,College,Maharashtra,Thane,Majiwada,"395, Majiwada, Thane, Maharashtra",19.2691,73.0246
+LM0319,Pandit Deendayal Institute of Management Thane,College,Maharashtra,Thane,Ghodbunder Road,"69, Ghodbunder Road, Thane, Maharashtra",19.2024,72.9446
+LM0320,Bhagwan Mahavir College of Commerce & Science Thane,College,Maharashtra,Thane,Vartak Nagar,"242, Vartak Nagar, Thane, Maharashtra",19.2082,72.984
+LM0321,GIDC Tech Hub,Office,Maharashtra,Thane,Thane West,"306, Thane West, Thane, Maharashtra",19.2497,72.9997
+LM0322,Mindspace Commercial Complex,Office,Maharashtra,Thane,Ghodbunder Road,"289, Ghodbunder Road, Thane, Maharashtra",19.2217,72.9615
+LM0323,Marwadi Pharmacy College Thane,College,Maharashtra,Thane,Thane West,"85, Thane West, Thane, Maharashtra",19.1826,72.9825
+LM0324,Government University Campus Nagpur,College,Maharashtra,Nagpur,Manish Nagar,"262, Manish Nagar, Nagpur, Maharashtra",21.1718,79.0869
+LM0325,Indira Gandhi Medical College Nagpur,College,Maharashtra,Nagpur,Dharampeth,"30, Dharampeth, Nagpur, Maharashtra",21.1474,79.083
+LM0326,Bhagwan Mahavir Institute of Technology Nagpur,College,Maharashtra,Nagpur,Wardha Road,"382, Wardha Road, Nagpur, Maharashtra",21.1333,79.1262
+LM0327,Sardar Patel Polytechnic College Nagpur,College,Maharashtra,Nagpur,Ramdaspeth,"31, Ramdaspeth, Nagpur, Maharashtra",21.1271,79.0359
+LM0328,Cognizant IT Park,Office,Maharashtra,Nagpur,Ramdaspeth,"70, Ramdaspeth, Nagpur, Maharashtra",21.1203,79.0498
+LM0329,L&T Software Park,Office,Maharashtra,Nagpur,Sitabuldi,"194, Sitabuldi, Nagpur, Maharashtra",21.1396,79.1383
+LM0330,Pandit Deendayal College of Commerce & Science Nagpur,College,Maharashtra,Nagpur,Civil Lines,"202, Civil Lines, Nagpur, Maharashtra",21.1,79.1473
+LM0331,Symbiosis Institute of Technology Nagpur,College,Maharashtra,Nagpur,Sadar,"238, Sadar, Nagpur, Maharashtra",21.1765,79.1456
+LM0332,Mindspace Software Park,Office,Maharashtra,Nagpur,Sitabuldi,"178, Sitabuldi, Nagpur, Maharashtra",21.1846,79.0579
+LM0333,St. Xavier's Engineering College Nagpur,College,Maharashtra,Nagpur,Sadar,"315, Sadar, Nagpur, Maharashtra",21.0897,79.1074
+LM0334,Reliance Tech Hub,Office,Maharashtra,Nagpur,Dharampeth,"229, Dharampeth, Nagpur, Maharashtra",21.0939,79.0995
+LM0335,Mahatma Gandhi Institute of Technology Nagpur,College,Maharashtra,Nagpur,Dharampeth,"112, Dharampeth, Nagpur, Maharashtra",21.1341,79.0563
+LM0336,Wipro GIDC SEZ,Office,Maharashtra,Nagpur,Dharampeth,"295, Dharampeth, Nagpur, Maharashtra",21.1139,79.1382
+LM0337,Mahatma Gandhi Institute of Management Nagpur,College,Maharashtra,Nagpur,Trimurti Nagar,"267, Trimurti Nagar, Nagpur, Maharashtra",21.191,79.1465
+LM0338,Dr. B. R. Ambedkar Institute of Technology Nagpur,College,Maharashtra,Nagpur,Wardha Road,"377, Wardha Road, Nagpur, Maharashtra",21.1526,79.0992
+LM0339,Mindspace Commercial Complex,Office,Maharashtra,Nagpur,Sitabuldi,"330, Sitabuldi, Nagpur, Maharashtra",21.0914,79.0695
+LM0340,Capgemini Software Park,Office,Maharashtra,Nagpur,Trimurti Nagar,"95, Trimurti Nagar, Nagpur, Maharashtra",21.1348,79.0642
+LM0341,Reliance Tech Hub,Office,Maharashtra,Nagpur,Manish Nagar,"238, Manish Nagar, Nagpur, Maharashtra",21.1219,79.1131
+LM0342,Adani Business Centre,Office,Maharashtra,Nagpur,Sitabuldi,"170, Sitabuldi, Nagpur, Maharashtra",21.1324,79.0588
+LM0343,Symbiosis College of Commerce & Science Nagpur,College,Maharashtra,Nagpur,Manish Nagar,"98, Manish Nagar, Nagpur, Maharashtra",21.0969,79.1152
+LM0344,Pandit Deendayal Institute of Technology Nagpur,College,Maharashtra,Nagpur,Sitabuldi,"390, Sitabuldi, Nagpur, Maharashtra",21.1906,79.0508
+LM0345,Indira Gandhi University Campus Nagpur,College,Maharashtra,Nagpur,Sadar,"8, Sadar, Nagpur, Maharashtra",21.1901,79.0682
+LM0346,Bhagwan Mahavir Engineering College Nagpur,College,Maharashtra,Nagpur,Sadar,"125, Sadar, Nagpur, Maharashtra",21.1754,79.1187
+LM0347,Adani Tech Hub,Office,Maharashtra,Nagpur,Sadar,"195, Sadar, Nagpur, Maharashtra",21.152,79.1213
+LM0348,Dr. B. R. Ambedkar Institute of Management Nagpur,College,Maharashtra,Nagpur,Trimurti Nagar,"239, Trimurti Nagar, Nagpur, Maharashtra",21.129,79.1341
+LM0349,D. Y. Patil College of Commerce & Science Nagpur,College,Maharashtra,Nagpur,Manish Nagar,"212, Manish Nagar, Nagpur, Maharashtra",21.1955,79.0727
+LM0350,Bhagwan Mahavir Medical College Nagpur,College,Maharashtra,Nagpur,Sadar,"300, Sadar, Nagpur, Maharashtra",21.0877,79.0946
+LM0351,Dr. B. R. Ambedkar Medical College Nagpur,College,Maharashtra,Nagpur,Sitabuldi,"292, Sitabuldi, Nagpur, Maharashtra",21.1093,79.0558
+LM0352,Mindspace Financial District,Office,Maharashtra,Nagpur,Manish Nagar,"371, Manish Nagar, Nagpur, Maharashtra",21.1167,79.1268
+LM0353,Indira Gandhi Medical College Nashik,College,Maharashtra,Nashik,Panchavati,"72, Panchavati, Nashik, Maharashtra",20.0254,73.7721
+LM0354,Wipro IT Park,Office,Maharashtra,Nashik,Panchavati,"39, Panchavati, Nashik, Maharashtra",20.0004,73.8305
+LM0355,TCS IT Park,Office,Maharashtra,Nashik,Sharanpur Road,"119, Sharanpur Road, Nashik, Maharashtra",19.987,73.8309
+LM0356,Sardar Patel University Campus Nashik,College,Maharashtra,Nashik,Gangapur Road,"317, Gangapur Road, Nashik, Maharashtra",19.9982,73.7746
+LM0357,St. Xavier's Law College Nashik,College,Maharashtra,Nashik,Nashik Road,"273, Nashik Road, Nashik, Maharashtra",20.0166,73.7317
+LM0358,Sardar Patel Pharmacy College Nashik,College,Maharashtra,Nashik,College Road,"147, College Road, Nashik, Maharashtra",20.0242,73.7941
+LM0359,Pandit Deendayal Polytechnic College Nashik,College,Maharashtra,Nashik,Sharanpur Road,"55, Sharanpur Road, Nashik, Maharashtra",20.0342,73.839
+LM0360,Wipro Tech Hub,Office,Maharashtra,Nashik,Nashik Road,"182, Nashik Road, Nashik, Maharashtra",19.9605,73.793
+LM0361,Government College of Commerce & Science Nashik,College,Maharashtra,Nashik,Panchavati,"125, Panchavati, Nashik, Maharashtra",20.0526,73.7849
+LM0362,Tata Corporate Park,Office,Maharashtra,Nashik,Gangapur Road,"389, Gangapur Road, Nashik, Maharashtra",20.0159,73.8328
+LM0363,Swami Vivekananda Polytechnic College Nashik,College,Maharashtra,Nashik,Panchavati,"5, Panchavati, Nashik, Maharashtra",20.0038,73.7365
+LM0364,Cognizant Software Park,Office,Maharashtra,Nashik,College Road,"49, College Road, Nashik, Maharashtra",20.0149,73.7696
+LM0365,Reliance Tech Hub,Office,Maharashtra,Nashik,College Road,"291, College Road, Nashik, Maharashtra",20.0457,73.8129
+LM0366,St. Xavier's Engineering College Nashik,College,Maharashtra,Nashik,College Road,"279, College Road, Nashik, Maharashtra",20.0196,73.7634
+LM0367,National College of Commerce & Science Nashik,College,Maharashtra,Nashik,College Road,"74, College Road, Nashik, Maharashtra",19.9394,73.7547
+LM0368,Adani Corporate Park,Office,Maharashtra,Nashik,Sharanpur Road,"291, Sharanpur Road, Nashik, Maharashtra",19.9734,73.7975
+LM0369,GIDC Financial District,Office,Maharashtra,Nashik,Panchavati,"353, Panchavati, Nashik, Maharashtra",19.9836,73.8186
+LM0370,Capgemini Financial District,Office,Maharashtra,Nashik,Nashik Road,"39, Nashik Road, Nashik, Maharashtra",19.9439,73.7823
+LM0371,Charotar Polytechnic College Nashik,College,Maharashtra,Nashik,Nashik Road,"325, Nashik Road, Nashik, Maharashtra",20.0538,73.769
+LM0372,Indira Gandhi University Campus Nashik,College,Maharashtra,Nashik,Panchavati,"222, Panchavati, Nashik, Maharashtra",19.9802,73.8427
+LM0373,Pandit Deendayal Polytechnic College Nashik,College,Maharashtra,Nashik,Nashik Road,"127, Nashik Road, Nashik, Maharashtra",19.9478,73.804
+LM0374,Tata Business Centre,Office,Maharashtra,Nashik,College Road,"79, College Road, Nashik, Maharashtra",19.9831,73.8239
+LM0375,L&T Corporate Park,Office,Maharashtra,Nashik,Indira Nagar,"228, Indira Nagar, Nashik, Maharashtra",19.9485,73.843
+LM0376,Government Medical College Nashik,College,Maharashtra,Nashik,Indira Nagar,"286, Indira Nagar, Nashik, Maharashtra",19.948,73.7815
+LM0377,Government Institute of Technology Nashik,College,Maharashtra,Nashik,Panchavati,"306, Panchavati, Nashik, Maharashtra",19.9483,73.7963
+LM0378,Symbiosis Polytechnic College Rajkot,College,Gujarat,Rajkot,150 Feet Ring Road,"399, 150 Feet Ring Road, Rajkot, Gujarat",22.2454,70.7919
+LM0379,St. Xavier's University Campus Rajkot,College,Gujarat,Rajkot,Mavdi,"195, Mavdi, Rajkot, Gujarat",22.3125,70.7625
+LM0380,Dr. B. R. Ambedkar Institute of Management Rajkot,College,Gujarat,Rajkot,150 Feet Ring Road,"223, 150 Feet Ring Road, Rajkot, Gujarat",22.3031,70.7498
+LM0381,Indira Gandhi Engineering College Rajkot,College,Gujarat,Rajkot,150 Feet Ring Road,"370, 150 Feet Ring Road, Rajkot, Gujarat",22.2872,70.8555
+LM0382,Charotar University Campus Rajkot,College,Gujarat,Rajkot,Mavdi,"4, Mavdi, Rajkot, Gujarat",22.2988,70.7585
+LM0383,EON Software Park,Office,Gujarat,Rajkot,150 Feet Ring Road,"172, 150 Feet Ring Road, Rajkot, Gujarat",22.3404,70.7817
+LM0384,Symbiosis Medical College Rajkot,College,Gujarat,Rajkot,Gondal Road,"356, Gondal Road, Rajkot, Gujarat",22.28,70.8146
+LM0385,National Polytechnic College Rajkot,College,Gujarat,Rajkot,150 Feet Ring Road,"356, 150 Feet Ring Road, Rajkot, Gujarat",22.3601,70.7772
+LM0386,D. Y. Patil University Campus Rajkot,College,Gujarat,Rajkot,Mavdi,"202, Mavdi, Rajkot, Gujarat",22.283,70.7758
+LM0387,Mahatma Gandhi Pharmacy College Rajkot,College,Gujarat,Rajkot,Mavdi,"14, Mavdi, Rajkot, Gujarat",22.2655,70.8343
+LM0388,Capgemini Tech Hub,Office,Gujarat,Rajkot,University Road,"355, University Road, Rajkot, Gujarat",22.2965,70.7772
+LM0389,D. Y. Patil Polytechnic College Rajkot,College,Gujarat,Rajkot,Gondal Road,"156, Gondal Road, Rajkot, Gujarat",22.3247,70.7589
+LM0390,National Polytechnic College Rajkot,College,Gujarat,Rajkot,Raiya Road,"307, Raiya Road, Rajkot, Gujarat",22.3386,70.7511
+LM0391,Marwadi Pharmacy College Rajkot,College,Gujarat,Rajkot,University Road,"215, University Road, Rajkot, Gujarat",22.3547,70.8466
+LM0392,Shivaji Pharmacy College Rajkot,College,Gujarat,Rajkot,Gondal Road,"56, Gondal Road, Rajkot, Gujarat",22.3152,70.8519
+LM0393,GIDC Financial District,Office,Gujarat,Rajkot,Raiya Road,"289, Raiya Road, Rajkot, Gujarat",22.2639,70.8157
+LM0394,GIDC Software Park,Office,Gujarat,Rajkot,Raiya Road,"221, Raiya Road, Rajkot, Gujarat",22.3599,70.782
+LM0395,Dr. B. R. Ambedkar University Campus Rajkot,College,Gujarat,Rajkot,Race Course,"298, Race Course, Rajkot, Gujarat",22.3052,70.8045
+LM0396,Cognizant Financial District,Office,Gujarat,Rajkot,Kalawad Road,"302, Kalawad Road, Rajkot, Gujarat",22.2908,70.8349
+LM0397,L&T IT Park,Office,Gujarat,Rajkot,Kalawad Road,"44, Kalawad Road, Rajkot, Gujarat",22.3018,70.7777
+LM0398,Shivaji Institute of Management Gandhinagar,College,Gujarat,Gandhinagar,Sector 16,"267, Sector 16, Gandhinagar, Gujarat",23.1968,72.671
+LM0399,Government Law College Gandhinagar,College,Gujarat,Gandhinagar,Raisan,"35, Raisan, Gandhinagar, Gujarat",23.2422,72.6312
+LM0400,Sardar Patel College of Commerce & Science Gandhinagar,College,Gujarat,Gandhinagar,Sector 11,"85, Sector 11, Gandhinagar, Gujarat",23.2334,72.6582
+LM0401,Mindspace Business Centre,Office,Gujarat,Gandhinagar,Sector 21,"219, Sector 21, Gandhinagar, Gujarat",23.2218,72.6166
+LM0402,Deloitte Software Park,Office,Gujarat,Gandhinagar,Sector 21,"337, Sector 21, Gandhinagar, Gujarat",23.2312,72.5993
+LM0403,Bhagwan Mahavir University Campus Gandhinagar,College,Gujarat,Gandhinagar,Sector 7,"3, Sector 7, Gandhinagar, Gujarat",23.2095,72.6284
+LM0404,Tata Corporate Park,Office,Gujarat,Gandhinagar,Sector 21,"275, Sector 21, Gandhinagar, Gujarat",23.2249,72.6728
+LM0405,Mahatma Gandhi Law College Gandhinagar,College,Gujarat,Gandhinagar,Infocity,"251, Infocity, Gandhinagar, Gujarat",23.1693,72.6574
+LM0406,Charotar Polytechnic College Gandhinagar,College,Gujarat,Gandhinagar,Infocity,"179, Infocity, Gandhinagar, Gujarat",23.229,72.6473
+LM0407,Charotar Medical College Gandhinagar,College,Gujarat,Gandhinagar,Raisan,"153, Raisan, Gandhinagar, Gujarat",23.2532,72.6616
+LM0408,GIDC Business Centre,Office,Gujarat,Gandhinagar,Sector 11,"60, Sector 11, Gandhinagar, Gujarat",23.1932,72.6055
+LM0409,Marwadi Polytechnic College Gandhinagar,College,Gujarat,Gandhinagar,Sector 16,"197, Sector 16, Gandhinagar, Gujarat",23.2058,72.5934
+LM0410,Pandit Deendayal Pharmacy College Gandhinagar,College,Gujarat,Gandhinagar,Raisan,"89, Raisan, Gandhinagar, Gujarat",23.2388,72.6543
+LM0411,Dr. B. R. Ambedkar Medical College Gandhinagar,College,Gujarat,Gandhinagar,Raisan,"318, Raisan, Gandhinagar, Gujarat",23.1781,72.6779
+LM0412,Sardar Patel Law College Gandhinagar,College,Gujarat,Gandhinagar,Infocity,"288, Infocity, Gandhinagar, Gujarat",23.172,72.6747
+LM0413,Swami Vivekananda Law College Gandhinagar,College,Gujarat,Gandhinagar,Raisan,"251, Raisan, Gandhinagar, Gujarat",23.2055,72.6777
+LM0414,D. Y. Patil University Campus Gandhinagar,College,Gujarat,Gandhinagar,Sector 7,"276, Sector 7, Gandhinagar, Gujarat",23.1907,72.6099
+LM0415,Charotar Law College Gandhinagar,College,Gujarat,Gandhinagar,Raisan,"59, Raisan, Gandhinagar, Gujarat",23.2216,72.5905
+LM0416,Marwadi Institute of Technology Gandhinagar,College,Gujarat,Gandhinagar,Infocity,"112, Infocity, Gandhinagar, Gujarat",23.2468,72.6299
+LM0417,Capgemini Tech Hub,Office,Gujarat,Gandhinagar,Sector 11,"231, Sector 11, Gandhinagar, Gujarat",23.1913,72.6968
+LM0418,Indira Gandhi Engineering College Chhatrapati Sambhajinagar,College,Maharashtra,Chhatrapati Sambhajinagar,CIDCO,"378, CIDCO, Chhatrapati Sambhajinagar, Maharashtra",19.9093,75.3117
+LM0419,Symbiosis Polytechnic College Chhatrapati Sambhajinagar,College,Maharashtra,Chhatrapati Sambhajinagar,Jalna Road,"106, Jalna Road, Chhatrapati Sambhajinagar, Maharashtra",19.8361,75.3
+LM0420,EON Financial District,Office,Maharashtra,Chhatrapati Sambhajinagar,CIDCO,"87, CIDCO, Chhatrapati Sambhajinagar, Maharashtra",19.8801,75.3549
+LM0421,Dr. B. R. Ambedkar Institute of Management Chhatrapati Sambhajinagar,College,Maharashtra,Chhatrapati Sambhajinagar,Jalna Road,"348, Jalna Road, Chhatrapati Sambhajinagar, Maharashtra",19.9305,75.345
+LM0422,Deloitte Software Park,Office,Maharashtra,Chhatrapati Sambhajinagar,Garkheda,"336, Garkheda, Chhatrapati Sambhajinagar, Maharashtra",19.9265,75.4024
+LM0423,Mahatma Gandhi Medical College Chhatrapati Sambhajinagar,College,Maharashtra,Chhatrapati Sambhajinagar,Garkheda,"390, Garkheda, Chhatrapati Sambhajinagar, Maharashtra",19.9016,75.3827
+LM0424,Cognizant Business Centre,Office,Maharashtra,Chhatrapati Sambhajinagar,Osmanpura,"213, Osmanpura, Chhatrapati Sambhajinagar, Maharashtra",19.8855,75.3155
+LM0425,Pandit Deendayal Engineering College Chhatrapati Sambhajinagar,College,Maharashtra,Chhatrapati Sambhajinagar,CIDCO,"356, CIDCO, Chhatrapati Sambhajinagar, Maharashtra",19.8645,75.3733
+LM0426,Cognizant Commercial Complex,Office,Maharashtra,Chhatrapati Sambhajinagar,Jalna Road,"397, Jalna Road, Chhatrapati Sambhajinagar, Maharashtra",19.8555,75.2836
+LM0427,Capgemini Commercial Complex,Office,Maharashtra,Chhatrapati Sambhajinagar,CIDCO,"33, CIDCO, Chhatrapati Sambhajinagar, Maharashtra",19.8924,75.367
+LM0428,Reliance Software Park,Office,Maharashtra,Chhatrapati Sambhajinagar,Osmanpura,"166, Osmanpura, Chhatrapati Sambhajinagar, Maharashtra",19.9152,75.3427
+LM0429,Mindspace Business Centre,Office,Maharashtra,Chhatrapati Sambhajinagar,Jalna Road,"176, Jalna Road, Chhatrapati Sambhajinagar, Maharashtra",19.8841,75.3415
+LM0430,TCS Corporate Park,Office,Maharashtra,Chhatrapati Sambhajinagar,CIDCO,"9, CIDCO, Chhatrapati Sambhajinagar, Maharashtra",19.8913,75.3837
+LM0431,Indira Gandhi Law College Chhatrapati Sambhajinagar,College,Maharashtra,Chhatrapati Sambhajinagar,Garkheda,"104, Garkheda, Chhatrapati Sambhajinagar, Maharashtra",19.8163,75.3983
+LM0432,GIDC GIDC SEZ,Office,Maharashtra,Chhatrapati Sambhajinagar,Garkheda,"141, Garkheda, Chhatrapati Sambhajinagar, Maharashtra",19.8353,75.3952
+LM0433,Dr. B. R. Ambedkar Engineering College Anand,College,Gujarat,Anand,Grid Road,"85, Grid Road, Anand, Gujarat",22.5491,72.9774
+LM0434,Bhagwan Mahavir University Campus Anand,College,Gujarat,Anand,Grid Road,"49, Grid Road, Anand, Gujarat",22.556,72.8798
+LM0435,Government Medical College Anand,College,Gujarat,Anand,Sardar Gunj,"228, Sardar Gunj, Anand, Gujarat",22.5757,72.9312
+LM0436,Symbiosis Engineering College Anand,College,Gujarat,Anand,Grid Road,"68, Grid Road, Anand, Gujarat",22.6231,72.9196
+LM0437,Swami Vivekananda Engineering College Anand,College,Gujarat,Anand,Anand-Vidyanagar Road,"161, Anand-Vidyanagar Road, Anand, Gujarat",22.5922,72.8812
+LM0438,National Polytechnic College Anand,College,Gujarat,Anand,Grid Road,"69, Grid Road, Anand, Gujarat",22.5973,72.9593
+LM0439,Government Pharmacy College Anand,College,Gujarat,Anand,Anand-Vidyanagar Road,"85, Anand-Vidyanagar Road, Anand, Gujarat",22.5721,72.9421
+LM0440,Pandit Deendayal Medical College Anand,College,Gujarat,Anand,Anand-Vidyanagar Road,"227, Anand-Vidyanagar Road, Anand, Gujarat",22.6149,72.9428
+LM0441,Infosys Business Centre,Office,Gujarat,Anand,Vallabh Vidyanagar,"197, Vallabh Vidyanagar, Anand, Gujarat",22.5948,72.9396
+LM0442,Shivaji Medical College Anand,College,Gujarat,Anand,Sardar Gunj,"128, Sardar Gunj, Anand, Gujarat",22.5342,72.9463
+LM0443,D. Y. Patil Institute of Technology Anand,College,Gujarat,Anand,Grid Road,"155, Grid Road, Anand, Gujarat",22.6062,72.9479
+LM0444,Bhagwan Mahavir Polytechnic College Anand,College,Gujarat,Anand,Anand-Vidyanagar Road,"123, Anand-Vidyanagar Road, Anand, Gujarat",22.54,72.8754
+LM0445,Mahatma Gandhi Law College Bhavnagar,College,Gujarat,Bhavnagar,Waghawadi Road,"7, Waghawadi Road, Bhavnagar, Gujarat",21.7811,72.1004
+LM0446,Wipro Software Park,Office,Gujarat,Bhavnagar,Kaliyabid,"188, Kaliyabid, Bhavnagar, Gujarat",21.8078,72.1601
+LM0447,D. Y. Patil Law College Bhavnagar,College,Gujarat,Bhavnagar,Ghogha Circle,"9, Ghogha Circle, Bhavnagar, Gujarat",21.819,72.1843
+LM0448,Dr. B. R. Ambedkar University Campus Bhavnagar,College,Gujarat,Bhavnagar,Waghawadi Road,"204, Waghawadi Road, Bhavnagar, Gujarat",21.7093,72.0992
+LM0449,Swami Vivekananda Polytechnic College Bhavnagar,College,Gujarat,Bhavnagar,Sardarnagar,"316, Sardarnagar, Bhavnagar, Gujarat",21.7144,72.1563
+LM0450,Dr. B. R. Ambedkar Engineering College Bhavnagar,College,Gujarat,Bhavnagar,Waghawadi Road,"80, Waghawadi Road, Bhavnagar, Gujarat",21.7659,72.1163
+LM0451,Charotar Engineering College Bhavnagar,College,Gujarat,Bhavnagar,Sardarnagar,"123, Sardarnagar, Bhavnagar, Gujarat",21.7417,72.1444
+LM0452,St. Xavier's Polytechnic College Bhavnagar,College,Gujarat,Bhavnagar,Waghawadi Road,"29, Waghawadi Road, Bhavnagar, Gujarat",21.7184,72.1654
+LM0453,Government Institute of Technology Bhavnagar,College,Gujarat,Bhavnagar,Ghogha Circle,"84, Ghogha Circle, Bhavnagar, Gujarat",21.7894,72.1761
+LM0454,Marwadi Pharmacy College Bhavnagar,College,Gujarat,Bhavnagar,Kaliyabid,"86, Kaliyabid, Bhavnagar, Gujarat",21.7985,72.1784
+LM0455,Bhagwan Mahavir Engineering College Bhavnagar,College,Gujarat,Bhavnagar,Kaliyabid,"220, Kaliyabid, Bhavnagar, Gujarat",21.7971,72.0954
+LM0456,Dr. B. R. Ambedkar Engineering College Bhavnagar,College,Gujarat,Bhavnagar,Waghawadi Road,"29, Waghawadi Road, Bhavnagar, Gujarat",21.764,72.1532
+LM0457,Shivaji Medical College Jamnagar,College,Gujarat,Jamnagar,Patel Colony,"294, Patel Colony, Jamnagar, Gujarat",22.4413,70.01
+LM0458,Reliance IT Park,Office,Gujarat,Jamnagar,Pandit Nehru Marg,"126, Pandit Nehru Marg, Jamnagar, Gujarat",22.416,70.1013
+LM0459,Swami Vivekananda Medical College Jamnagar,College,Gujarat,Jamnagar,Digvijay Plot,"19, Digvijay Plot, Jamnagar, Gujarat",22.4322,70.1129
+LM0460,Mahatma Gandhi College of Commerce & Science Jamnagar,College,Gujarat,Jamnagar,Bedi Bandar Road,"164, Bedi Bandar Road, Jamnagar, Gujarat",22.4405,70.1076
+LM0461,Charotar College of Commerce & Science Jamnagar,College,Gujarat,Jamnagar,Pandit Nehru Marg,"27, Pandit Nehru Marg, Jamnagar, Gujarat",22.425,70.0785
+LM0462,Swami Vivekananda Engineering College Jamnagar,College,Gujarat,Jamnagar,Pandit Nehru Marg,"397, Pandit Nehru Marg, Jamnagar, Gujarat",22.5159,70.1016
+LM0463,Infosys Commercial Complex,Office,Gujarat,Jamnagar,Digvijay Plot,"289, Digvijay Plot, Jamnagar, Gujarat",22.4117,70.0218
+LM0464,Cognizant Financial District,Office,Gujarat,Jamnagar,Patel Colony,"396, Patel Colony, Jamnagar, Gujarat",22.4817,70.0569
+LM0465,Wipro IT Park,Office,Gujarat,Jamnagar,Patel Colony,"278, Patel Colony, Jamnagar, Gujarat",22.5226,70.0006
+LM0466,Shivaji Institute of Technology Jamnagar,College,Gujarat,Jamnagar,Pandit Nehru Marg,"378, Pandit Nehru Marg, Jamnagar, Gujarat",22.5018,70.0429
+LM0467,Reliance Tech Hub,Office,Maharashtra,Kolhapur,Rajarampuri,"73, Rajarampuri, Kolhapur, Maharashtra",16.6954,74.2986
+LM0468,TCS Tech Hub,Office,Maharashtra,Kolhapur,Rajarampuri,"359, Rajarampuri, Kolhapur, Maharashtra",16.7527,74.2457
+LM0469,Capgemini Corporate Park,Office,Maharashtra,Kolhapur,Shivaji University Road,"327, Shivaji University Road, Kolhapur, Maharashtra",16.7147,74.244
+LM0470,EON IT Park,Office,Maharashtra,Kolhapur,Rajarampuri,"122, Rajarampuri, Kolhapur, Maharashtra",16.6972,74.299
+LM0471,St. Xavier's Polytechnic College Kolhapur,College,Maharashtra,Kolhapur,Kawala Naka,"163, Kawala Naka, Kolhapur, Maharashtra",16.7291,74.2715
+LM0472,Government University Campus Kolhapur,College,Maharashtra,Kolhapur,Tarabai Park,"56, Tarabai Park, Kolhapur, Maharashtra",16.6613,74.2757
+LM0473,Indira Gandhi Law College Kolhapur,College,Maharashtra,Kolhapur,Tarabai Park,"184, Tarabai Park, Kolhapur, Maharashtra",16.6827,74.1978
+LM0474,Cognizant GIDC SEZ,Office,Maharashtra,Kolhapur,Tarabai Park,"47, Tarabai Park, Kolhapur, Maharashtra",16.7006,74.2856
+LM0475,Symbiosis Institute of Technology Kolhapur,College,Maharashtra,Kolhapur,Kawala Naka,"76, Kawala Naka, Kolhapur, Maharashtra",16.6708,74.2861
+LM0476,Shivaji Polytechnic College Kolhapur,College,Maharashtra,Kolhapur,Tarabai Park,"134, Tarabai Park, Kolhapur, Maharashtra",16.7066,74.2646
+LM0477,TCS Software Park,Office,Gujarat,Mehsana,Radhanpur Road,"282, Radhanpur Road, Mehsana, Gujarat",23.6426,72.4067
+LM0478,Government Medical College Mehsana,College,Gujarat,Mehsana,Highway Road,"400, Highway Road, Mehsana, Gujarat",23.5546,72.3474
+LM0479,Reliance Software Park,Office,Gujarat,Mehsana,Radhanpur Road,"331, Radhanpur Road, Mehsana, Gujarat",23.5847,72.4156
+LM0480,Dr. B. R. Ambedkar Engineering College Mehsana,College,Gujarat,Mehsana,Modhera Road,"331, Modhera Road, Mehsana, Gujarat",23.5426,72.3477
+LM0481,Government College of Commerce & Science Mehsana,College,Gujarat,Mehsana,Radhanpur Road,"26, Radhanpur Road, Mehsana, Gujarat",23.5547,72.4531
+LM0482,Swami Vivekananda Polytechnic College Mehsana,College,Gujarat,Mehsana,Modhera Road,"219, Modhera Road, Mehsana, Gujarat",23.5995,72.3859
+LM0483,St. Xavier's Medical College Nadiad,College,Gujarat,Nadiad,College Road,"77, College Road, Nadiad, Gujarat",22.6646,72.8555
+LM0484,Charotar University Campus Nadiad,College,Gujarat,Nadiad,Santram Road,"282, Santram Road, Nadiad, Gujarat",22.7093,72.8619
+LM0485,Dr. B. R. Ambedkar Polytechnic College Nadiad,College,Gujarat,Nadiad,College Road,"270, College Road, Nadiad, Gujarat",22.6481,72.8259
+LM0486,D. Y. Patil Institute of Technology Nadiad,College,Gujarat,Nadiad,Santram Road,"184, Santram Road, Nadiad, Gujarat",22.7503,72.8958
+LM0487,Shivaji Pharmacy College Nadiad,College,Gujarat,Nadiad,Station Road,"14, Station Road, Nadiad, Gujarat",22.6702,72.8345
+LM0488,Sardar Patel Institute of Management Vapi,College,Gujarat,Vapi,Chanod,"272, Chanod, Vapi, Gujarat",20.3363,72.9696
+LM0489,National Engineering College Vapi,College,Gujarat,Vapi,Chanod,"274, Chanod, Vapi, Gujarat",20.359,72.8795
+LM0490,Deloitte Tech Hub,Office,Gujarat,Vapi,Vapi GIDC,"199, Vapi GIDC, Vapi, Gujarat",20.3984,72.9685
+LM0491,National University Campus Vapi,College,Gujarat,Vapi,Chanod,"358, Chanod, Vapi, Gujarat",20.4004,72.9473
+LM0492,Bhagwan Mahavir College of Commerce & Science Vapi,College,Gujarat,Vapi,Vapi GIDC,"289, Vapi GIDC, Vapi, Gujarat",20.443,72.9182
+LM0493,Mindspace GIDC SEZ,Office,Maharashtra,Amravati,Gadge Nagar,"29, Gadge Nagar, Amravati, Maharashtra",20.8985,77.7242
+LM0494,Sardar Patel Pharmacy College Amravati,College,Maharashtra,Amravati,Camp Area,"315, Camp Area, Amravati, Maharashtra",20.9348,77.7594
+LM0495,Shivaji Medical College Amravati,College,Maharashtra,Amravati,Camp Area,"166, Camp Area, Amravati, Maharashtra",20.9877,77.8209
+LM0496,Charotar Medical College Amravati,College,Maharashtra,Amravati,Camp Area,"187, Camp Area, Amravati, Maharashtra",20.9703,77.8212
+LM0497,Capgemini Software Park,Office,Maharashtra,Amravati,Gadge Nagar,"166, Gadge Nagar, Amravati, Maharashtra",20.9477,77.76
+LM0498,Bhagwan Mahavir Polytechnic College Nanded,College,Maharashtra,Nanded,Taroda Naka,"333, Taroda Naka, Nanded, Maharashtra",19.1733,77.3763
+LM0499,Mahatma Gandhi Medical College Nanded,College,Maharashtra,Nanded,Vazirabad,"151, Vazirabad, Nanded, Maharashtra",19.1237,77.3491
+LM0500,Bhagwan Mahavir Polytechnic College Nanded,College,Maharashtra,Nanded,VIP Road,"291, VIP Road, Nanded, Maharashtra",19.1804,77.3535
+LM0501,St. Xavier's University Campus Nanded,College,Maharashtra,Nanded,Vazirabad,"255, Vazirabad, Nanded, Maharashtra",19.1551,77.2735
+LM0502,Mahatma Gandhi College of Commerce & Science Nanded,College,Maharashtra,Nanded,VIP Road,"46, VIP Road, Nanded, Maharashtra",19.1962,77.2811
